@@ -32,7 +32,7 @@ jobs:
           ~/cache
           !~/cache/exclude
           **/node_modules
-      key: ${{ runner.os }}-node_modules-${{ hashFiles('**/lockfiles') }}
+        key: ${{ runner.os }}-node_modules-${{ hashFiles('**/lockfiles') }}
     - name: Installing dependencies
       run: yarn
     - name: Run Script

@@ -64,8 +64,6 @@ export async function updateVolcanoes(updateMetadata?: boolean): Promise<Volcano
   const alerts = await getVolcanoStatus(-1);
 
   for (const volcano of volcanoes) {
-    const bak = JSON.stringify(volcano);
-
     if (updateMetadata) {
       const data = await getVolcanoMetadata(
         {
