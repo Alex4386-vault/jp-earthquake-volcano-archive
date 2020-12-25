@@ -1,4 +1,4 @@
-import { AreaIdentifier, getVolcanoStatus, loadVolcanoesDataByArea, VolcanoModel } from './Volcanoes';
+import { getVolcanoStatus, VolcanoModel } from './Volcanoes';
 import fs from 'fs';
 import { EarthquakeCache, getEarthquakes } from './Earthquake';
 import { getMapsLastUpdate } from './Volcanoes';
