@@ -71,10 +71,10 @@ const earthquakeFile = './earthquakes.json';
 
     for (const alert of alerts) {
       let volcanoIdx = volcanoes.map((n) => n.name === alert.issuedTo).indexOf(true);
-'      if (volcanoIdx < 0) {
+      if (volcanoIdx < 0) {
         volcanoIdx = volcanoes.map((n) => alert.issuedTo.includes(n.name)).indexOf(true);
 
-if (volcanoIdx < 0) {
+        if (volcanoIdx < 0) {
           continue;
         }
       }
