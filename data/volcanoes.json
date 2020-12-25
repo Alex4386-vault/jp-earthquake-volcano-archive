@@ -2933,6 +2933,38 @@
       "data": [
         {
           "issuedTo": "Kusatsu-Shiranesan",
+          "issuedAt": "2020-12-25T13:16:18.438Z",
+          "data": {
+            "raw": {
+              "keyword": "Potential for increased activity"
+            },
+            "parsed": {
+              "type": "volcano",
+              "alert": {
+                "type": "nonVolcanicAlert",
+                "level": 1
+              }
+            }
+          }
+        },
+        {
+          "issuedTo": "Kusatsu-Shiranesan(Motoshiranesan)",
+          "issuedAt": "2020-12-25T13:12:35.725Z",
+          "data": {
+            "raw": {
+              "keyword": "Level 1 (Potential for increased activity)"
+            },
+            "parsed": {
+              "type": "volcano",
+              "alert": {
+                "type": "volcanicAlert",
+                "level": 1
+              }
+            }
+          }
+        },
+        {
+          "issuedTo": "Kusatsu-Shiranesan",
           "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
@@ -2969,8 +3001,29 @@
           }
         },
         {
+          "issuedTo": "Kusatsu-Shiranesan(Shiranesan(Yugama Area))",
+          "issuedAt": "2018-11-27T05:00:00.000Z",
+          "data": {
+            "raw": {
+              "keyword": "Level 2 (Do not approach the crater)",
+              "code": "Near-crater warning",
+              "info": {
+                "contents": "Kusatsu-Shiranesan(Shiranesan(Yugama Area)) Volcanic Warning (Near the crater)\n14:00 JST, 27 November 2018\n\nNear-crater Warning (Level 2, Do not approach the crater) continued for Kusatsu-Shiranesan(Shiranesan(Yugama Area)).\nVolcanic Alert Level 2 continued.\n\nRefrain from entering the danger zone in the following local municipalities.\nGunma:Tsumagoi-mura, Kusatsu-machi\n** (Reference : Description of Volcanic Alert Levels) **\nLevel 5 (Evacuate) : Evacuate from the danger zone.\nLevel 4 (Prepare to evacuate) : Prepare to evacuate from alert areas. Have disabled people evacuate.\nLevel 3 (Do not approach the volcano) : Refrain from entering the danger zone. (Target areas are determined in line with current volcanic activity.)\nLevel 2 (Do not approach the crater) : Refrain from approaching the crater.\nLevel 1 (Potential for increased activity)\n\n\n",
+                "link": "https://www.jma.go.jp/en/volcano/forecast_03_20181127050018.html"
+              }
+            },
+            "parsed": {
+              "type": "volcano",
+              "alert": {
+                "type": "volcanicAlert",
+                "level": 2
+              }
+            }
+          }
+        },
+        {
           "issuedTo": "Kusatsu-Shiranesan(Motoshiranesan)",
-          "issuedAt": "2020-12-25T13:12:35.725Z",
+          "issuedAt": "2020-12-25T13:16:18.438Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -5150,7 +5203,55 @@
     "alerts": {
       "data": [
         {
+          "issuedTo": "Kirishimayama",
+          "issuedAt": "2020-12-25T13:16:20.193Z",
+          "data": {
+            "raw": {
+              "keyword": "Potential for increased activity"
+            },
+            "parsed": {
+              "type": "volcano",
+              "alert": {
+                "type": "nonVolcanicAlert",
+                "level": 1
+              }
+            }
+          }
+        },
+        {
           "issuedTo": "Kirishimayama (Ohachi)",
+          "issuedAt": "2020-12-25T13:16:20.193Z",
+          "data": {
+            "raw": {
+              "keyword": "Level 1 (Potential for increased activity)"
+            },
+            "parsed": {
+              "type": "volcano",
+              "alert": {
+                "type": "volcanicAlert",
+                "level": 1
+              }
+            }
+          }
+        },
+        {
+          "issuedTo": "Kirishimayama (Ohachi)",
+          "issuedAt": "2020-12-25T13:12:36.591Z",
+          "data": {
+            "raw": {
+              "keyword": "Level 1 (Potential for increased activity)"
+            },
+            "parsed": {
+              "type": "volcano",
+              "alert": {
+                "type": "volcanicAlert",
+                "level": 1
+              }
+            }
+          }
+        },
+        {
+          "issuedTo": "Kirishimayama (Ebino Highland)",
           "issuedAt": "2020-12-25T13:12:36.591Z",
           "data": {
             "raw": {
@@ -5203,8 +5304,29 @@
           }
         },
         {
+          "issuedTo": "Kirishimayama (Shinmoedake)",
+          "issuedAt": "2020-12-25T12:00:00.000Z",
+          "data": {
+            "raw": {
+              "keyword": "Level 2 (Do not approach the crater)",
+              "code": "Near-crater warning",
+              "info": {
+                "contents": "Kirishimayama (Shinmoedake) Volcanic Warning (Near the crater)\n21:00 JST, 25 December 2020\n\nNear-crater Warning (Level 2, Do not approach the crater) issued for Kirishimayama (Shinmoedake).\nVolcanic Alert Level upgraded from 1 to 2.\n\nRefrain from approaching the crater in the following local municipalities.\nMiyazaki:Kobayashi-shiKagoshima:Kirishima-shi\n** (Reference : Description of Volcanic Alert Levels) **\nLevel 5 (Evacuate) : Evacuate from the danger zone.\nLevel 4 (Prepare to evacuate) : Prepare to evacuate from alert areas. Have disabled people evacuate.\nLevel 3 (Do not approach the volcano) : Refrain from entering the danger zone. (Target areas are determined in line with current volcanic activity.)\nLevel 2 (Do not approach the crater) : Refrain from approaching the crater.\nLevel 1 (Potential for increased activity)\n\n\n",
+                "link": "https://www.jma.go.jp/en/volcano/forecast_05_20201225120019.html"
+              }
+            },
+            "parsed": {
+              "type": "volcano",
+              "alert": {
+                "type": "volcanicAlert",
+                "level": 2
+              }
+            }
+          }
+        },
+        {
           "issuedTo": "Kirishimayama (Ebino Highland)",
-          "issuedAt": "2020-12-25T13:12:36.591Z",
+          "issuedAt": "2020-12-25T13:16:20.193Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
