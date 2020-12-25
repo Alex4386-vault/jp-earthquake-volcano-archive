@@ -35,4 +35,5 @@ jobs:
         author_email: psh010209@gmail.com
         # The message for the commit
         message: "chore: update alerts"
-        token: ${{ secrets.GITHUB_TOKEN }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
