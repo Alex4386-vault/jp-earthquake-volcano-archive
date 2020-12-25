@@ -13,6 +13,11 @@ export function loadVolcanoesFile(): VolcanoModel[] | null {
     volcano.lastUpdate = new Date(volcano.lastUpdate);
 
     if (volcano.alerts?.lastUpdate) volcano.alerts.lastUpdate = new Date(volcano.alerts.lastUpdate);
+    if (volcano.alerts?.data) {
+      for (let i = 0; i < volcano.alerts.data.length; i++) {
+        volcano.alerts.data[i].issuedAt = new Date(volcano.alerts.data[i].issuedAt);
+      }
+    }
   }
 
   return volcanoes;

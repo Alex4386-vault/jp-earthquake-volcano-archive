@@ -87,7 +87,7 @@ export async function updateVolcanoes(updateMetadata?: boolean): Promise<Volcano
 
     let volcanoIdx = volcanoes.map((n) => n.name === issuedTo).indexOf(true);
     if (volcanoIdx < 0) {
-      volcanoIdx = volcanoes.map((n) => n.name === issuedTo).indexOf(true);
+      volcanoIdx = volcanoes.map((n) => issuedTo.includes(n.name)).indexOf(true);
 
       if (volcanoIdx < 0) {
         continue;
