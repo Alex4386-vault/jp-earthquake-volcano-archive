@@ -1,16 +1,16 @@
 # Japan Earthquake & Volcano Database Archive
 This repository will automatically parse the volcano and earthquake data into machine readable JSON format and archive it from [Japan Meteorological Agency's webpage](https://www.jma.go.jp/jma/indexe.html).  
 
-## Archived Data
+## Archived JSON Data
 ### GitHub Actions Update Data
 * [Updates](data/updates.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/updates.json) ([minified](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/updates.min.json)) - [Source](https://www.jma.go.jp/en/volcano/) - [Example](DATA_FORMAT.md#Updates)
 
-#### Human Readable Format
-Human readable reports (in English) is available at: [reports/](reports/).  
 ### Parsed Data Archive
 * [Volcanoes](data/volcanoes.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/volcanoes.json) ([minified](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/volcanoes.min.json)) - [Source](https://www.jma.go.jp/en/volcano/) - [Example](DATA_FORMAT.md#Volcanoes)
 * [Earthquakes](data/earthquakes.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/earthquakes.json) ([minified](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/earthquakes.min.json))- [Source](https://www.jma.go.jp/en/quake/quake_singendo_index.html)  - [Example](DATA_FORMAT.md#Earthquakes)
 
+## Human Readable Data
+Human readable reports (in English) is available at: [reports/](reports/).  
 ## Update Intervals
 GitHub Actions will run every 20 minutes or every push.  
 The commit will not occurr when no updates are found in the webpage.  
