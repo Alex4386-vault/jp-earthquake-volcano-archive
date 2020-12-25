@@ -1,9 +1,13 @@
 # Japan Earthquake & Volcano Database Archive
 This repository will automatically parse the volcano and earthquake data into machine readable JSON format and archive it from [Japan Meteorological Agency's webpage](https://www.jma.go.jp/jma/indexe.html).  
 
-## Data
-* [Volcanoes](data/volcanoes.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/volcanoes.json) - [Source](https://www.jma.go.jp/en/volcano/)
-* [Earthquakes](data/earthquakes.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/earthquakes.json) - [Source](https://www.jma.go.jp/en/quake/quake_singendo_index.html) 
+## Archived Data
+### GitHub Actions Update Data
+* [Updates](data/updates.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/updates.json) ([minified](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/updates.min.json)) - [Source](https://www.jma.go.jp/en/volcano/) - [Example](DATA_FORMAT.md#Updates)
+
+### Parsed Data Archive
+* [Volcanoes](data/volcanoes.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/volcanoes.json) ([minified](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/volcanoes.min.json)) - [Source](https://www.jma.go.jp/en/volcano/) - [Example](DATA_FORMAT.md#Volcanoes)
+* [Earthquakes](data/earthquakes.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/earthquakes.json) ([minified](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/earthquakes.min.json))- [Source](https://www.jma.go.jp/en/quake/quake_singendo_index.html)  - [Example](DATA_FORMAT.md#Earthquakes)
 
 ## Update Intervals
 GitHub Actions will run every 20 minutes or every push.  
@@ -12,8 +16,10 @@ The commit will not occurr when no updates are found in the webpage.
 If you are going to use raw data, consider using a `If-Modified-Since` header while requesting to Raw JSON file.  
 
 ## GitHub Actions Status
-The content of the `volcanoes.json` and `earthquakes.json` depends on GitHub Actions.  
+The content of the `volcanoes.json`, `earthquakes.json` and `updates.json` depends on GitHub Actions.  
 Please check the following GitHub Actions status to make sure you get a latest information.  
+
+You can check `updates.json` to check when it was last synchornized.  
 
 | Name                      | Status                                                                                                         |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|
@@ -23,5 +29,5 @@ Please check the following GitHub Actions status to make sure you get a latest i
 ## License
 The Source code is distributed under [WTFPL](LICENSE).  
   
-However, `volcanoes.json` and `earthquakes.json` is distributed under separate license,  
+However, `data/volcanoes.json`, `data/volcanoes.min.json`, `data/earthquakes.json`, `data/earthquakes.min.json`, `data/updates.json` and `data/updates.min.json` is distributed under separate license,  
 Please check [JMA's Copyright Notice](https://www.jma.go.jp/jma/en/copyright.html) for more information while using this data.  
