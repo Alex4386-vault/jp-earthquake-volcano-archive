@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2020-12-25T14:40:01.662Z",
+  "lastUpdate": "2020-12-25T15:16:17.215Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2020-12-25T15:15:00.000Z",
+      "uuid": "20201225151539393-26001319",
+      "regionName": "Oshima-chiho Tobu",
+      "magnitude": 2.3,
+      "occurredAt": "2020-12-25T15:13:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 42,
+          "longitude": 140.5
+        },
+        "sexagesimal": {
+          "latitude": "42° 00' 00\"",
+          "longitude": "140° 30' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-25T15:15:52.968Z",
+      "url": "https://www.jma.go.jp/en/quake/20201225151539393-26001319.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2020-12-25T14:24:00.000Z",
