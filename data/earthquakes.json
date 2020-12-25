@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2020-12-25T12:29:44.952Z",
+  "lastUpdate": "2020-12-25T13:33:31.326Z",
   "data": [
     {
       "maxIntensity": "1",
@@ -19,7 +19,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:46.227Z",
+      "lastUpdate": "2020-12-25T13:33:32.118Z",
       "url": "https://www.jma.go.jp/en/quake/20201225041923393-25131217.html"
     },
     {
@@ -40,7 +40,7 @@
         },
         "depth": 100
       },
-      "lastUpdate": "2020-12-25T12:29:46.571Z",
+      "lastUpdate": "2020-12-25T13:33:32.513Z",
       "url": "https://www.jma.go.jp/en/quake/20201224213052393-25062739.html"
     },
     {
@@ -61,7 +61,7 @@
         },
         "depth": 110
       },
-      "lastUpdate": "2020-12-25T12:29:46.991Z",
+      "lastUpdate": "2020-12-25T13:33:32.769Z",
       "url": "https://www.jma.go.jp/en/quake/20201224204235493-25053846.html"
     },
     {
@@ -82,7 +82,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:47.301Z",
+      "lastUpdate": "2020-12-25T13:33:33.042Z",
       "url": "https://www.jma.go.jp/en/quake/20201224203818393-25053514.html"
     },
     {
@@ -103,7 +103,7 @@
         },
         "depth": 50
       },
-      "lastUpdate": "2020-12-25T12:29:47.610Z",
+      "lastUpdate": "2020-12-25T13:33:33.328Z",
       "url": "https://www.jma.go.jp/en/quake/20201224194330393-25044015.html"
     },
     {
@@ -124,7 +124,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:47.916Z",
+      "lastUpdate": "2020-12-25T13:33:33.716Z",
       "url": "https://www.jma.go.jp/en/quake/20201224130116393-24215838.html"
     },
     {
@@ -145,7 +145,7 @@
         },
         "depth": 40
       },
-      "lastUpdate": "2020-12-25T12:29:48.220Z",
+      "lastUpdate": "2020-12-25T13:33:34.029Z",
       "url": "https://www.jma.go.jp/en/quake/20201223231451493-24081149.html"
     },
     {
@@ -166,7 +166,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:48.517Z",
+      "lastUpdate": "2020-12-25T13:33:34.308Z",
       "url": "https://www.jma.go.jp/en/quake/20201223182300493-24031915.html"
     },
     {
@@ -187,7 +187,7 @@
         },
         "depth": 30
       },
-      "lastUpdate": "2020-12-25T12:29:48.805Z",
+      "lastUpdate": "2020-12-25T13:33:34.589Z",
       "intensityByCity": [
         {
           "prefecture": "Nara",
@@ -221,7 +221,7 @@
         },
         "depth": 40
       },
-      "lastUpdate": "2020-12-25T12:29:49.117Z",
+      "lastUpdate": "2020-12-25T13:33:34.875Z",
       "url": "https://www.jma.go.jp/en/quake/20201223131144393-23220844.html"
     },
     {
@@ -242,7 +242,7 @@
         },
         "depth": 50
       },
-      "lastUpdate": "2020-12-25T12:29:49.411Z",
+      "lastUpdate": "2020-12-25T13:33:35.164Z",
       "url": "https://www.jma.go.jp/en/quake/20201223000609393-23090306.html"
     },
     {
@@ -263,7 +263,7 @@
         },
         "depth": null
       },
-      "lastUpdate": "2020-12-25T12:29:49.775Z",
+      "lastUpdate": "2020-12-25T13:33:35.663Z",
       "url": "https://www.jma.go.jp/en/quake/20201222213755393-23063447.html"
     },
     {
@@ -284,7 +284,7 @@
         },
         "depth": 20
       },
-      "lastUpdate": "2020-12-25T12:29:50.077Z",
+      "lastUpdate": "2020-12-25T13:33:35.948Z",
       "url": "https://www.jma.go.jp/en/quake/20201222182817493-23032445.html"
     },
     {
@@ -305,7 +305,7 @@
         },
         "depth": 20
       },
-      "lastUpdate": "2020-12-25T12:29:50.388Z",
+      "lastUpdate": "2020-12-25T13:33:36.213Z",
       "url": "https://www.jma.go.jp/en/quake/20201222170853393-23020408.html"
     },
     {
@@ -326,7 +326,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:50.693Z",
+      "lastUpdate": "2020-12-25T13:33:36.474Z",
       "url": "https://www.jma.go.jp/en/quake/20201222073331393-22163059.html"
     },
     {
@@ -347,7 +347,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:50.980Z",
+      "lastUpdate": "2020-12-25T13:33:36.754Z",
       "url": "https://www.jma.go.jp/en/quake/20201222025454393-22115204.html"
     },
     {
@@ -368,7 +368,7 @@
         },
         "depth": 70
       },
-      "lastUpdate": "2020-12-25T12:29:51.257Z",
+      "lastUpdate": "2020-12-25T13:33:37.024Z",
       "url": "https://www.jma.go.jp/en/quake/20201221163130393-22012850.html"
     },
     {
@@ -389,7 +389,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:51.560Z",
+      "lastUpdate": "2020-12-25T13:33:37.307Z",
       "url": "https://www.jma.go.jp/en/quake/20201221154457393-22004142.html"
     },
     {
@@ -410,7 +410,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:51.866Z",
+      "lastUpdate": "2020-12-25T13:33:37.591Z",
       "url": "https://www.jma.go.jp/en/quake/20201220213511493-21063214.html"
     },
     {
@@ -431,7 +431,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:52.162Z",
+      "lastUpdate": "2020-12-25T13:33:37.877Z",
       "intensityByCity": [
         {
           "prefecture": "Iwate",
@@ -660,7 +660,7 @@
         },
         "depth": null
       },
-      "lastUpdate": "2020-12-25T12:29:52.462Z",
+      "lastUpdate": "2020-12-25T13:33:38.160Z",
       "url": "https://www.jma.go.jp/en/quake/20201220170726393-21020418.html"
     },
     {
@@ -681,7 +681,7 @@
         },
         "depth": 40
       },
-      "lastUpdate": "2020-12-25T12:29:52.789Z",
+      "lastUpdate": "2020-12-25T13:33:38.461Z",
       "url": "https://www.jma.go.jp/en/quake/20201220162843393-21012528.html"
     },
     {
@@ -702,7 +702,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:53.102Z",
+      "lastUpdate": "2020-12-25T13:33:38.753Z",
       "intensityByCity": [
         {
           "prefecture": "Tokyo",
@@ -736,7 +736,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:53.383Z",
+      "lastUpdate": "2020-12-25T13:33:39.106Z",
       "url": "https://www.jma.go.jp/en/quake/20201220145853393-20235618.html"
     },
     {
@@ -757,7 +757,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:53.682Z",
+      "lastUpdate": "2020-12-25T13:33:39.409Z",
       "url": "https://www.jma.go.jp/en/quake/20201220135036493-20224800.html"
     },
     {
@@ -778,7 +778,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:53.981Z",
+      "lastUpdate": "2020-12-25T13:33:39.634Z",
       "url": "https://www.jma.go.jp/en/quake/20201220122544493-20212239.html"
     },
     {
@@ -799,7 +799,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:54.273Z",
+      "lastUpdate": "2020-12-25T13:33:39.993Z",
       "url": "https://www.jma.go.jp/en/quake/20201220115500393-20205222.html"
     },
     {
@@ -820,7 +820,7 @@
         },
         "depth": 40
       },
-      "lastUpdate": "2020-12-25T12:29:54.568Z",
+      "lastUpdate": "2020-12-25T13:33:40.279Z",
       "url": "https://www.jma.go.jp/en/quake/20201220093851393-20183554.html"
     },
     {
@@ -841,7 +841,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:54.869Z",
+      "lastUpdate": "2020-12-25T13:33:40.785Z",
       "url": "https://www.jma.go.jp/en/quake/20201220075001393-20164736.html"
     },
     {
@@ -862,7 +862,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:55.169Z",
+      "lastUpdate": "2020-12-25T13:33:41.150Z",
       "url": "https://www.jma.go.jp/en/quake/20201219191903493-20041539.html"
     },
     {
@@ -883,7 +883,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:55.456Z",
+      "lastUpdate": "2020-12-25T13:33:41.656Z",
       "url": "https://www.jma.go.jp/en/quake/20201219163500393-20013153.html"
     },
     {
@@ -904,7 +904,7 @@
         },
         "depth": null
       },
-      "lastUpdate": "2020-12-25T12:29:55.765Z",
+      "lastUpdate": "2020-12-25T13:33:42.196Z",
       "url": "https://www.jma.go.jp/en/quake/20201219151139493-20000819.html"
     },
     {
@@ -925,7 +925,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:56.071Z",
+      "lastUpdate": "2020-12-25T13:33:42.700Z",
       "url": "https://www.jma.go.jp/en/quake/20201219113414393-19203132.html"
     },
     {
@@ -946,7 +946,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:56.356Z",
+      "lastUpdate": "2020-12-25T13:33:43.059Z",
       "url": "https://www.jma.go.jp/en/quake/20201219110657393-19200332.html"
     },
     {
@@ -967,7 +967,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:56.651Z",
+      "lastUpdate": "2020-12-25T13:33:43.394Z",
       "url": "https://www.jma.go.jp/en/quake/20201219070823493-19160500.html"
     },
     {
@@ -988,7 +988,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:56.935Z",
+      "lastUpdate": "2020-12-25T13:33:43.676Z",
       "url": "https://www.jma.go.jp/en/quake/20201219032810393-19122455.html"
     },
     {
@@ -1009,7 +1009,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:57.263Z",
+      "lastUpdate": "2020-12-25T13:33:43.946Z",
       "url": "https://www.jma.go.jp/en/quake/20201219025042393-19114757.html"
     },
     {
@@ -1030,7 +1030,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:57.559Z",
+      "lastUpdate": "2020-12-25T13:33:44.242Z",
       "url": "https://www.jma.go.jp/en/quake/20201219022805393-19112508.html"
     },
     {
@@ -1051,7 +1051,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:57.844Z",
+      "lastUpdate": "2020-12-25T13:33:44.514Z",
       "url": "https://www.jma.go.jp/en/quake/20201219013520393-19103247.html"
     },
     {
@@ -1072,7 +1072,7 @@
         },
         "depth": 30
       },
-      "lastUpdate": "2020-12-25T12:29:58.157Z",
+      "lastUpdate": "2020-12-25T13:33:44.792Z",
       "url": "https://www.jma.go.jp/en/quake/20201219000252493-19085948.html"
     },
     {
@@ -1093,7 +1093,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:58.445Z",
+      "lastUpdate": "2020-12-25T13:33:45.058Z",
       "url": "https://www.jma.go.jp/en/quake/20201218181212393-19030918.html"
     },
     {
@@ -1114,7 +1114,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:58.750Z",
+      "lastUpdate": "2020-12-25T13:33:45.326Z",
       "url": "https://www.jma.go.jp/en/quake/20201218162354393-19012112.html"
     },
     {
@@ -1135,7 +1135,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:29:59.382Z",
+      "lastUpdate": "2020-12-25T13:33:45.599Z",
       "url": "https://www.jma.go.jp/en/quake/20201218151411393-19001045.html"
     },
     {
@@ -1156,7 +1156,7 @@
         },
         "depth": 40
       },
-      "lastUpdate": "2020-12-25T12:29:59.732Z",
+      "lastUpdate": "2020-12-25T13:33:45.870Z",
       "url": "https://www.jma.go.jp/en/quake/20201218150124393-18235853.html"
     },
     {
@@ -1177,7 +1177,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:30:00.019Z",
+      "lastUpdate": "2020-12-25T13:33:46.140Z",
       "url": "https://www.jma.go.jp/en/quake/20201218134427393-18224141.html"
     },
     {
@@ -1198,7 +1198,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:30:00.315Z",
+      "lastUpdate": "2020-12-25T13:33:46.425Z",
       "url": "https://www.jma.go.jp/en/quake/20201218132756393-18222443.html"
     },
     {
@@ -1219,7 +1219,7 @@
         },
         "depth": 20
       },
-      "lastUpdate": "2020-12-25T12:30:00.606Z",
+      "lastUpdate": "2020-12-25T13:33:46.707Z",
       "url": "https://www.jma.go.jp/en/quake/20201218131559493-18221247.html"
     },
     {
@@ -1240,7 +1240,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:30:00.880Z",
+      "lastUpdate": "2020-12-25T13:33:47.024Z",
       "url": "https://www.jma.go.jp/en/quake/20201218131052393-18220830.html"
     },
     {
@@ -1261,7 +1261,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:30:01.159Z",
+      "lastUpdate": "2020-12-25T13:33:47.308Z",
       "intensityByCity": [
         {
           "prefecture": "Tokyo",
@@ -1295,7 +1295,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:30:01.438Z",
+      "lastUpdate": "2020-12-25T13:33:47.588Z",
       "url": "https://www.jma.go.jp/en/quake/20201218121010393-18210729.html"
     },
     {
@@ -1316,7 +1316,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:30:01.739Z",
+      "lastUpdate": "2020-12-25T13:33:47.880Z",
       "url": "https://www.jma.go.jp/en/quake/20201218114337393-18204055.html"
     },
     {
@@ -1337,7 +1337,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:30:02.045Z",
+      "lastUpdate": "2020-12-25T13:33:48.161Z",
       "intensityByCity": [
         {
           "prefecture": "Tokyo",
@@ -1376,7 +1376,7 @@
         },
         "depth": null
       },
-      "lastUpdate": "2020-12-25T12:30:02.361Z",
+      "lastUpdate": "2020-12-25T13:33:48.478Z",
       "url": "https://www.jma.go.jp/en/quake/20201218112903393-18202423.html"
     },
     {
@@ -1397,7 +1397,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:30:02.677Z",
+      "lastUpdate": "2020-12-25T13:33:48.735Z",
       "url": "https://www.jma.go.jp/en/quake/20201218112615393-18202310.html"
     },
     {
@@ -1418,7 +1418,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:30:02.972Z",
+      "lastUpdate": "2020-12-25T13:33:48.993Z",
       "intensityByCity": [
         {
           "prefecture": "Tokyo",
@@ -1452,7 +1452,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:30:03.249Z",
+      "lastUpdate": "2020-12-25T13:33:49.239Z",
       "url": "https://www.jma.go.jp/en/quake/20201218101508393-18191139.html"
     },
     {
@@ -1473,7 +1473,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T12:30:03.557Z",
+      "lastUpdate": "2020-12-25T13:33:49.499Z",
       "url": "https://www.jma.go.jp/en/quake/20201218095133393-18184924.html"
     },
     {
@@ -1494,7 +1494,7 @@
         },
         "depth": null
       },
-      "lastUpdate": "2020-12-25T12:30:04.868Z",
+      "lastUpdate": "2020-12-25T13:33:49.790Z",
       "intensityByCity": [
         {
           "prefecture": "Tokyo",
@@ -1537,7 +1537,7 @@
         },
         "depth": 20
       },
-      "lastUpdate": "2020-12-25T12:30:05.165Z",
+      "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
     }
   ]

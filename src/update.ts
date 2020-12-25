@@ -105,7 +105,6 @@ export async function updateVolcanoes(updateMetadata?: boolean): Promise<Volcano
     const latestAlert = volcano.alerts.data
       .filter((a) => a.issuedTo === alert.issuedTo)
       .sort((a, b) => b.issuedAt.getTime() - a.issuedAt.getTime())[0];
-    console.error(latestAlert.issuedAt, alert.issuedAt, latestAlert.data, alert.data);
     const duplicateFound = latestAlert !== undefined && volcanoAlertIsDuplicateWithoutIssuedAt(latestAlert, alert);
 
     if (!duplicateFound) {
