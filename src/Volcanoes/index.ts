@@ -67,12 +67,12 @@ interface MapNode {
 const maps: MapNode[] = [];
 const MAPS_CACHE_THRESHOLD = 10 * 1000;
 
-export async function getMapsLastUpdate(area: AreaIdentifier) {
+export async function getMapsLastUpdate(area: AreaIdentifier): Promise<Date> {
   if (maps[area] === undefined) await getMaps(area);
   return maps[area].lastUpdate;
 }
 
-export async function getMaps(area: AreaIdentifier) {
+export async function getMaps(area: AreaIdentifier): Promise<string> {
   if (maps[area] === undefined) {
     console.log('[Debug] Cache Missing at ' + area + '! Updating...');
     const res = await axios.get(getVolcanoMapAreaURL(area));
@@ -92,6 +92,7 @@ export async function getMaps(area: AreaIdentifier) {
             'If-Modified-Since': lastUpdate.toUTCString(),
           },
         });
+        maps[area].body = res.data;
       } catch (e) {
         if (e.response !== undefined) {
           if (e.response.status === 304) {
@@ -235,7 +236,6 @@ export async function loadVolcanoesDataByArea(area: AreaIdentifier): Promise<Are
   const body = await getMaps(area);
   const {
     window: { document },
-    ...dom
   } = new JSDOM(body);
 
   const volcanoURLs: AreaURL[] = [];
@@ -269,7 +269,12 @@ export async function loadVolcanoesDataByArea(area: AreaIdentifier): Promise<Are
   return volcanoURLs;
 }
 
-export function parseRegionAndId(url: string) {
+export function parseRegionAndId(
+  url: string,
+): {
+  region?: string;
+  id?: number;
+} {
   volcanoDetailPageUrlParsing.lastIndex = 0;
   const parsed = volcanoDetailPageUrlParsing.exec(url);
   if (parsed === null) return {};
@@ -565,7 +570,7 @@ interface VolcanoStatus {
   };
 }
 
-export async function getVolcanoStatus(area: AreaIdentifier) {
+export async function getVolcanoStatus(area: AreaIdentifier): Promise<VolcanoStatus[]> {
   const volcanoesStatus: VolcanoStatus[] = [];
   if (area < 0) {
     for (let i = 0; i < AreaIdentifier.MAX; i++) {
@@ -581,7 +586,6 @@ export async function getVolcanoStatus(area: AreaIdentifier) {
   const body = await getMaps(area);
   const {
     window: { document },
-    ...dom
   } = new JSDOM(body);
 
   const regionalCurrent = document.getElementsByClassName('infotable').length;

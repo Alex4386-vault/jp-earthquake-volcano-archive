@@ -11,10 +11,10 @@ export interface LatitudeLongitude {
   };
 }
 
-export function htmlStripper(string: string) {
+export function htmlStripper(string: string): string {
   return string.replace(/(<([^>]+)>)/gi, '');
 }
 
-export function meterToFeet(meter: number) {
+export function meterToFeet(meter: number): number {
   return meter * 3.28084;
 }
