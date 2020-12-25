@@ -6,7 +6,7 @@ This repository will automatically parse the volcano and earthquake data into ma
 * [Earthquakes](earthquakes.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/earthquakes.json) - [Source](https://www.jma.go.jp/en/quake/quake_singendo_index.html) 
 
 ## Update Intervals
-GitHub Actions will run every 10 minutes or every push.  
+GitHub Actions will run every 20 minutes or every push.  
 The commit will not occurr when no updates are found in the webpage.  
   
 If you are going to use raw data, consider using a `If-Modified-Since` header while requesting to Raw JSON file.  
