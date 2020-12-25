@@ -6,9 +6,6 @@ name: Update Alerts
 on:
   schedule:
     - cron: "*/10 * * * *"
-  push:
-    paths:
-      - "src/**/*.ts"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
