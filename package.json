@@ -31,6 +31,7 @@
     "debug": "ts-node ./src/",
     "build": "tsc",
     "start": "tsc && node ./dist/",
+    "start:alerts": "tsc && node ./dist/alerts.ts",  
     "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix"
   },
   "husky": {
