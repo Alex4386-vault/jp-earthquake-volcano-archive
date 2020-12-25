@@ -11,6 +11,7 @@ export function loadVolcanoesFile(): VolcanoModel[] | null {
   const volcanoes = JSON.parse(fs.readFileSync(volcanoesFile, { encoding: 'utf-8' })) as VolcanoModel[];
   for (const volcano of volcanoes) {
     volcano.lastUpdate = new Date(volcano.lastUpdate);
+
     if (volcano.alerts?.lastUpdate) volcano.alerts.lastUpdate = new Date(volcano.alerts.lastUpdate);
   }
 
@@ -25,6 +26,7 @@ export function loadEarthquakesFile(): EarthquakeCache | null {
 
   for (const earthquake of earthquakes.data) {
     earthquake.lastUpdate = new Date(earthquake.lastUpdate);
+    earthquake.issuedAt = new Date(earthquake.issuedAt);
   }
 
   return earthquakes;
@@ -36,7 +38,7 @@ export function saveVolcanoesFile(data: VolcanoModel[]): void {
 }
 
 export function saveEarthquakesFile(data: EarthquakeCache): void {
-  data.data.sort((a, b) => parseInt(a.uuid.split('-')[1]) - parseInt(b.uuid.split('-')[1]));
+  data.data.sort((a, b) => parseInt(b.uuid.split('-')[1]) - parseInt(a.uuid.split('-')[1]));
   saveJSON(earthquakesFile, data);
 }
 

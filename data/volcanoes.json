@@ -1,6 +1,6 @@
 [
   {
-    "lastUpdate": "2020-12-25T05:03:48.479Z",
+    "lastUpdate": "2020-12-25T12:29:48.583Z",
     "id": 101,
     "region": "sapporo",
     "area": 1,
@@ -32,6 +32,7 @@
       "data": [
         {
           "issuedTo": "Shiretoko-Iozan",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -46,11 +47,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:48.873Z",
+    "lastUpdate": "2020-12-25T12:29:48.809Z",
     "id": 102,
     "region": "sapporo",
     "area": 1,
@@ -82,6 +83,7 @@
       "data": [
         {
           "issuedTo": "Rausudake",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -96,11 +98,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:49.157Z",
+    "lastUpdate": "2020-12-25T12:29:49.015Z",
     "id": 103,
     "region": "sapporo",
     "area": 1,
@@ -132,6 +134,7 @@
       "data": [
         {
           "issuedTo": "Mashu",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -146,11 +149,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:49.351Z",
+    "lastUpdate": "2020-12-25T12:29:49.240Z",
     "id": 104,
     "region": "sapporo",
     "area": 1,
@@ -200,6 +203,7 @@
       "data": [
         {
           "issuedTo": "Atosanupuri",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -214,11 +218,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:49.637Z",
+    "lastUpdate": "2020-12-25T12:29:49.478Z",
     "id": 105,
     "region": "sapporo",
     "area": 1,
@@ -251,6 +255,7 @@
       "data": [
         {
           "issuedTo": "Meakandake",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -265,11 +270,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:49.856Z",
+    "lastUpdate": "2020-12-25T12:29:49.779Z",
     "id": 106,
     "region": "sapporo",
     "area": 1,
@@ -301,6 +306,7 @@
       "data": [
         {
           "issuedTo": "Maruyama",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -315,11 +321,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:50.061Z",
+    "lastUpdate": "2020-12-25T12:29:50.080Z",
     "id": 107,
     "region": "sapporo",
     "area": 1,
@@ -351,6 +357,7 @@
       "data": [
         {
           "issuedTo": "Taisetsuzan",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -365,11 +372,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:50.271Z",
+    "lastUpdate": "2020-12-25T12:29:50.324Z",
     "id": 108,
     "region": "sapporo",
     "area": 1,
@@ -402,6 +409,7 @@
       "data": [
         {
           "issuedTo": "Tokachidake",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -416,11 +424,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:50.460Z",
+    "lastUpdate": "2020-12-25T12:29:50.838Z",
     "id": 109,
     "region": "sapporo",
     "area": 1,
@@ -452,6 +460,7 @@
       "data": [
         {
           "issuedTo": "Tarumaesan",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -466,11 +475,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:50.734Z",
+    "lastUpdate": "2020-12-25T12:29:51.048Z",
     "id": 110,
     "region": "sapporo",
     "area": 1,
@@ -502,6 +511,7 @@
       "data": [
         {
           "issuedTo": "Eniwadake",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -516,11 +526,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:50.930Z",
+    "lastUpdate": "2020-12-25T12:29:51.260Z",
     "id": 111,
     "region": "sapporo",
     "area": 1,
@@ -570,6 +580,7 @@
       "data": [
         {
           "issuedTo": "Kuttara",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -584,11 +595,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:51.126Z",
+    "lastUpdate": "2020-12-25T12:29:51.564Z",
     "id": 112,
     "region": "sapporo",
     "area": 1,
@@ -655,6 +666,7 @@
       "data": [
         {
           "issuedTo": "Usuzan",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -669,11 +681,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:51.336Z",
+    "lastUpdate": "2020-12-25T12:29:51.760Z",
     "id": 113,
     "region": "sapporo",
     "area": 1,
@@ -705,6 +717,7 @@
       "data": [
         {
           "issuedTo": "Hokkaido-Komagatake",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -719,11 +732,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:51.963Z",
+    "lastUpdate": "2020-12-25T12:29:52.001Z",
     "id": 114,
     "region": "sapporo",
     "area": 1,
@@ -755,6 +768,7 @@
       "data": [
         {
           "issuedTo": "Esan",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -769,11 +783,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:52.161Z",
+    "lastUpdate": "2020-12-25T12:29:52.228Z",
     "id": 115,
     "region": "sapporo",
     "area": 1,
@@ -805,6 +819,7 @@
       "data": [
         {
           "issuedTo": "Oshima-Oshima",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -819,11 +834,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:52.355Z",
+    "lastUpdate": "2020-12-25T12:29:52.465Z",
     "id": 116,
     "region": "sapporo",
     "area": 1,
@@ -855,6 +870,7 @@
       "data": [
         {
           "issuedTo": "Rishirizan",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -869,11 +885,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:53.320Z",
+    "lastUpdate": "2020-12-25T12:29:52.662Z",
     "id": 117,
     "region": "sapporo",
     "area": 1,
@@ -905,6 +921,7 @@
       "data": [
         {
           "issuedTo": "Yoteisan",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -919,11 +936,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:53.536Z",
+    "lastUpdate": "2020-12-25T12:29:52.923Z",
     "id": 118,
     "region": "sapporo",
     "area": 1,
@@ -973,6 +990,7 @@
       "data": [
         {
           "issuedTo": "Niseko",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -987,11 +1005,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:53.831Z",
+    "lastUpdate": "2020-12-25T12:29:53.168Z",
     "id": 119,
     "region": "sapporo",
     "area": 1,
@@ -1023,6 +1041,7 @@
       "data": [
         {
           "issuedTo": "Tenchozan",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1037,11 +1056,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:54.035Z",
+    "lastUpdate": "2020-12-25T12:29:53.386Z",
     "id": 120,
     "region": "sapporo",
     "area": 1,
@@ -1073,6 +1092,7 @@
       "data": [
         {
           "issuedTo": "Oakandake",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1087,11 +1107,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:54.322Z",
+    "lastUpdate": "2020-12-25T12:29:53.599Z",
     "id": 151,
     "region": "sapporo",
     "area": 1,
@@ -1123,6 +1143,7 @@
       "data": [
         {
           "issuedTo": "Moyorodake",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1137,11 +1158,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:54.517Z",
+    "lastUpdate": "2020-12-25T12:29:53.811Z",
     "id": 152,
     "region": "sapporo",
     "area": 1,
@@ -1173,6 +1194,7 @@
       "data": [
         {
           "issuedTo": "Chirippusan",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1187,11 +1209,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:54.707Z",
+    "lastUpdate": "2020-12-25T12:29:54.046Z",
     "id": 153,
     "region": "sapporo",
     "area": 1,
@@ -1223,6 +1245,7 @@
       "data": [
         {
           "issuedTo": "Sashiusudake",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1237,11 +1260,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:54.916Z",
+    "lastUpdate": "2020-12-25T12:29:54.585Z",
     "id": 154,
     "region": "sapporo",
     "area": 1,
@@ -1273,6 +1296,7 @@
       "data": [
         {
           "issuedTo": "Odamoisan",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1287,11 +1311,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:55.120Z",
+    "lastUpdate": "2020-12-25T12:29:54.786Z",
     "id": 155,
     "region": "sapporo",
     "area": 1,
@@ -1323,6 +1347,7 @@
       "data": [
         {
           "issuedTo": "Etorofu-Yakeyama",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1337,11 +1362,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:55.336Z",
+    "lastUpdate": "2020-12-25T12:29:54.994Z",
     "id": 156,
     "region": "sapporo",
     "area": 1,
@@ -1373,6 +1398,7 @@
       "data": [
         {
           "issuedTo": "Etorofu-Atosanupuri",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1387,11 +1413,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:56.031Z",
+    "lastUpdate": "2020-12-25T12:29:55.236Z",
     "id": 157,
     "region": "sapporo",
     "area": 1,
@@ -1423,6 +1449,7 @@
       "data": [
         {
           "issuedTo": "Berutarubesan",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1437,11 +1464,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:56.300Z",
+    "lastUpdate": "2020-12-25T12:29:55.459Z",
     "id": 158,
     "region": "sapporo",
     "area": 1,
@@ -1473,6 +1500,7 @@
       "data": [
         {
           "issuedTo": "Chachadake",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1487,11 +1515,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:56.502Z",
+    "lastUpdate": "2020-12-25T12:29:55.652Z",
     "id": 159,
     "region": "sapporo",
     "area": 1,
@@ -1523,6 +1551,7 @@
       "data": [
         {
           "issuedTo": "Raususan",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1537,11 +1566,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:57.832Z",
+    "lastUpdate": "2020-12-25T12:29:55.941Z",
     "id": 160,
     "region": "sapporo",
     "area": 1,
@@ -1573,6 +1602,7 @@
       "data": [
         {
           "issuedTo": "Tomariyama",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1587,11 +1617,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:58.023Z",
+    "lastUpdate": "2020-12-25T12:29:56.139Z",
     "id": 161,
     "region": "sapporo",
     "area": 1,
@@ -1623,6 +1653,7 @@
       "data": [
         {
           "issuedTo": "Ruruidake",
+          "issuedAt": "2020-12-25T12:42:44.695Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1637,11 +1668,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:45.786Z"
+      "lastUpdate": "2020-12-25T12:29:45.277Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:58.310Z",
+    "lastUpdate": "2020-12-25T12:29:56.359Z",
     "id": 201,
     "region": "sendai",
     "area": 2,
@@ -1673,6 +1704,7 @@
       "data": [
         {
           "issuedTo": "Osorezan",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1687,11 +1719,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:58.502Z",
+    "lastUpdate": "2020-12-25T12:29:56.939Z",
     "id": 202,
     "region": "sendai",
     "area": 2,
@@ -1723,6 +1755,7 @@
       "data": [
         {
           "issuedTo": "Iwakisan",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -1737,11 +1770,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:58.749Z",
+    "lastUpdate": "2020-12-25T12:29:57.183Z",
     "id": 203,
     "region": "sendai",
     "area": 2,
@@ -1773,6 +1806,7 @@
       "data": [
         {
           "issuedTo": "Hakkodasan",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -1787,11 +1821,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:59.024Z",
+    "lastUpdate": "2020-12-25T12:29:57.387Z",
     "id": 204,
     "region": "sendai",
     "area": 2,
@@ -1841,6 +1875,7 @@
       "data": [
         {
           "issuedTo": "Towada",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1855,11 +1890,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:59.220Z",
+    "lastUpdate": "2020-12-25T12:29:57.626Z",
     "id": 205,
     "region": "sendai",
     "area": 2,
@@ -1891,6 +1926,7 @@
       "data": [
         {
           "issuedTo": "Akita-Yakeyama",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -1905,11 +1941,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:59.410Z",
+    "lastUpdate": "2020-12-25T12:29:58.060Z",
     "id": 206,
     "region": "sendai",
     "area": 2,
@@ -1941,6 +1977,7 @@
       "data": [
         {
           "issuedTo": "Hachimantai",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -1955,11 +1992,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:59.676Z",
+    "lastUpdate": "2020-12-25T12:29:58.336Z",
     "id": 207,
     "region": "sendai",
     "area": 2,
@@ -1991,6 +2028,7 @@
       "data": [
         {
           "issuedTo": "Iwatesan",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -2005,11 +2043,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:03:59.863Z",
+    "lastUpdate": "2020-12-25T12:29:58.569Z",
     "id": 208,
     "region": "sendai",
     "area": 2,
@@ -2041,6 +2079,7 @@
       "data": [
         {
           "issuedTo": "Akita-Komagatake",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -2055,11 +2094,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:00.062Z",
+    "lastUpdate": "2020-12-25T12:29:58.848Z",
     "id": 209,
     "region": "sendai",
     "area": 2,
@@ -2109,6 +2148,7 @@
       "data": [
         {
           "issuedTo": "Chokaisan",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -2123,11 +2163,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:00.941Z",
+    "lastUpdate": "2020-12-25T12:29:59.061Z",
     "id": 210,
     "region": "sendai",
     "area": 2,
@@ -2159,6 +2199,7 @@
       "data": [
         {
           "issuedTo": "Kurikomayama",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -2173,11 +2214,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:01.141Z",
+    "lastUpdate": "2020-12-25T12:29:59.263Z",
     "id": 211,
     "region": "sendai",
     "area": 2,
@@ -2227,6 +2268,7 @@
       "data": [
         {
           "issuedTo": "Naruko",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -2241,11 +2283,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:02.000Z",
+    "lastUpdate": "2020-12-25T12:29:59.514Z",
     "id": 212,
     "region": "sendai",
     "area": 2,
@@ -2277,6 +2319,7 @@
       "data": [
         {
           "issuedTo": "Zaozan(Zaosan)",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -2291,11 +2334,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:02.780Z",
+    "lastUpdate": "2020-12-25T12:29:59.739Z",
     "id": 213,
     "region": "sendai",
     "area": 2,
@@ -2327,6 +2370,7 @@
       "data": [
         {
           "issuedTo": "Azumayama",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -2341,11 +2385,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:02.981Z",
+    "lastUpdate": "2020-12-25T12:29:59.944Z",
     "id": 214,
     "region": "sendai",
     "area": 2,
@@ -2394,6 +2438,7 @@
       "data": [
         {
           "issuedTo": "Adatarayama",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -2408,11 +2453,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:03.178Z",
+    "lastUpdate": "2020-12-25T12:30:00.235Z",
     "id": 215,
     "region": "sendai",
     "area": 2,
@@ -2444,6 +2489,7 @@
       "data": [
         {
           "issuedTo": "Bandaisan",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -2458,11 +2504,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:03.401Z",
+    "lastUpdate": "2020-12-25T12:30:00.446Z",
     "id": 216,
     "region": "sendai",
     "area": 2,
@@ -2512,6 +2558,7 @@
       "data": [
         {
           "issuedTo": "Hiuchigatake",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -2526,11 +2573,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:03.607Z",
+    "lastUpdate": "2020-12-25T12:30:00.671Z",
     "id": 217,
     "region": "sendai",
     "area": 2,
@@ -2562,6 +2609,7 @@
       "data": [
         {
           "issuedTo": "Hijiori",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -2576,11 +2624,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:03.801Z",
+    "lastUpdate": "2020-12-25T12:30:00.884Z",
     "id": 218,
     "region": "sendai",
     "area": 2,
@@ -2612,6 +2660,7 @@
       "data": [
         {
           "issuedTo": "Numazawa",
+          "issuedAt": "2020-12-25T12:42:44.994Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -2626,11 +2675,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.208Z"
+      "lastUpdate": "2020-12-25T12:29:46.038Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:04.008Z",
+    "lastUpdate": "2020-12-25T12:30:01.085Z",
     "id": 301,
     "region": "tokyo",
     "area": 3,
@@ -2662,6 +2711,7 @@
       "data": [
         {
           "issuedTo": "Nasudake",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -2676,11 +2726,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:04.220Z",
+    "lastUpdate": "2020-12-25T12:30:01.283Z",
     "id": 302,
     "region": "tokyo",
     "area": 3,
@@ -2712,6 +2762,7 @@
       "data": [
         {
           "issuedTo": "Nikko-Shiranesan",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -2726,11 +2777,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:04.414Z",
+    "lastUpdate": "2020-12-25T12:30:01.503Z",
     "id": 303,
     "region": "tokyo",
     "area": 3,
@@ -2762,6 +2813,7 @@
       "data": [
         {
           "issuedTo": "Akagisan",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -2776,11 +2828,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:04.654Z",
+    "lastUpdate": "2020-12-25T12:30:01.742Z",
     "id": 304,
     "region": "tokyo",
     "area": 3,
@@ -2812,6 +2864,7 @@
       "data": [
         {
           "issuedTo": "Harunasan",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -2826,11 +2879,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:04.938Z",
+    "lastUpdate": "2020-12-25T12:30:02.049Z",
     "id": 305,
     "region": "tokyo",
     "area": 3,
@@ -2880,6 +2933,7 @@
       "data": [
         {
           "issuedTo": "Kusatsu-Shiranesan",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -2894,11 +2948,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:05.141Z",
+    "lastUpdate": "2020-12-25T12:30:02.365Z",
     "id": 306,
     "region": "tokyo",
     "area": 3,
@@ -2931,7 +2985,7 @@
       "data": [
         {
           "issuedTo": "Asamayama",
-          "issuedAt": "15:00 JST, 25 June 2020",
+          "issuedAt": "2020-06-25T06:00:00.000Z",
           "data": {
             "raw": {
               "keyword": "Level 2 (Do not approach the crater)",
@@ -2951,11 +3005,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:07.559Z",
+    "lastUpdate": "2020-12-25T12:30:02.565Z",
     "id": 307,
     "region": "tokyo",
     "area": 3,
@@ -2987,6 +3041,7 @@
       "data": [
         {
           "issuedTo": "Niigata-Yakeyama",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3001,11 +3056,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:07.837Z",
+    "lastUpdate": "2020-12-25T12:30:02.801Z",
     "id": 308,
     "region": "tokyo",
     "area": 3,
@@ -3037,6 +3092,7 @@
       "data": [
         {
           "issuedTo": "Myokosan",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -3051,11 +3107,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:08.039Z",
+    "lastUpdate": "2020-12-25T12:30:03.037Z",
     "id": 309,
     "region": "tokyo",
     "area": 3,
@@ -3087,6 +3143,7 @@
       "data": [
         {
           "issuedTo": "Midagahara",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3101,11 +3158,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:08.304Z",
+    "lastUpdate": "2020-12-25T12:30:03.253Z",
     "id": 310,
     "region": "tokyo",
     "area": 3,
@@ -3137,6 +3194,7 @@
       "data": [
         {
           "issuedTo": "Yakedake",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3151,11 +3209,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:08.570Z",
+    "lastUpdate": "2020-12-25T12:30:03.503Z",
     "id": 311,
     "region": "tokyo",
     "area": 3,
@@ -3187,6 +3245,7 @@
       "data": [
         {
           "issuedTo": "Norikuradake",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3201,11 +3260,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:08.792Z",
+    "lastUpdate": "2020-12-25T12:30:03.824Z",
     "id": 312,
     "region": "tokyo",
     "area": 3,
@@ -3237,6 +3296,7 @@
       "data": [
         {
           "issuedTo": "Ontakesan",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3251,11 +3311,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:08.988Z",
+    "lastUpdate": "2020-12-25T12:30:04.107Z",
     "id": 313,
     "region": "tokyo",
     "area": 3,
@@ -3287,6 +3347,7 @@
       "data": [
         {
           "issuedTo": "Hakusan",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3301,11 +3362,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:09.179Z",
+    "lastUpdate": "2020-12-25T12:30:04.307Z",
     "id": 314,
     "region": "tokyo",
     "area": 3,
@@ -3337,6 +3398,7 @@
       "data": [
         {
           "issuedTo": "Fujisan",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3351,11 +3413,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:09.486Z",
+    "lastUpdate": "2020-12-25T12:30:05.524Z",
     "id": 315,
     "region": "tokyo",
     "area": 3,
@@ -3387,6 +3449,7 @@
       "data": [
         {
           "issuedTo": "Hakoneyama",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3401,11 +3464,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:09.683Z",
+    "lastUpdate": "2020-12-25T12:30:05.719Z",
     "id": 316,
     "region": "tokyo",
     "area": 3,
@@ -3437,6 +3500,7 @@
       "data": [
         {
           "issuedTo": "Izu-Tobu Volcanoes",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3451,11 +3515,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:10.815Z",
+    "lastUpdate": "2020-12-25T12:30:06.732Z",
     "id": 317,
     "region": "tokyo",
     "area": 4,
@@ -3488,6 +3552,7 @@
       "data": [
         {
           "issuedTo": "Izu-Oshima",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3502,11 +3567,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:11.028Z",
+    "lastUpdate": "2020-12-25T12:30:06.934Z",
     "id": 318,
     "region": "tokyo",
     "area": 4,
@@ -3556,6 +3621,7 @@
       "data": [
         {
           "issuedTo": "Niijima",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3570,11 +3636,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:11.307Z",
+    "lastUpdate": "2020-12-25T12:30:07.217Z",
     "id": 319,
     "region": "tokyo",
     "area": 4,
@@ -3606,6 +3672,7 @@
       "data": [
         {
           "issuedTo": "Kozushima",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3620,11 +3687,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:11.966Z",
+    "lastUpdate": "2020-12-25T12:30:07.409Z",
     "id": 320,
     "region": "tokyo",
     "area": 4,
@@ -3657,6 +3724,7 @@
       "data": [
         {
           "issuedTo": "Miyakejima",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3671,11 +3739,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:12.633Z",
+    "lastUpdate": "2020-12-25T12:30:07.610Z",
     "id": 321,
     "region": "tokyo",
     "area": 4,
@@ -3725,6 +3793,7 @@
       "data": [
         {
           "issuedTo": "Hachijojima",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3739,11 +3808,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:12.944Z",
+    "lastUpdate": "2020-12-25T12:30:07.896Z",
     "id": 322,
     "region": "tokyo",
     "area": 4,
@@ -3775,6 +3844,7 @@
       "data": [
         {
           "issuedTo": "Aogashima",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -3789,11 +3859,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:13.169Z",
+    "lastUpdate": "2020-12-25T12:30:08.087Z",
     "id": 323,
     "region": "tokyo",
     "area": 4,
@@ -3825,6 +3895,7 @@
       "data": [
         {
           "issuedTo": "Beyonesu Rocks",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -3839,11 +3910,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:13.388Z",
+    "lastUpdate": "2020-12-25T12:30:08.664Z",
     "id": 324,
     "region": "tokyo",
     "area": 4,
@@ -3875,6 +3946,7 @@
       "data": [
         {
           "issuedTo": "Sumisujima",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -3889,11 +3961,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:13.623Z",
+    "lastUpdate": "2020-12-25T12:30:08.861Z",
     "id": 325,
     "region": "tokyo",
     "area": 4,
@@ -3925,6 +3997,7 @@
       "data": [
         {
           "issuedTo": "Izu-Torishima",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -3939,11 +4012,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:13.952Z",
+    "lastUpdate": "2020-12-25T12:30:09.058Z",
     "id": 326,
     "region": "tokyo",
     "area": 4,
@@ -3975,7 +4048,7 @@
       "data": [
         {
           "issuedTo": "Nishinoshima",
-          "issuedAt": "14:00 JST, 18 December 2020",
+          "issuedAt": "2020-12-18T05:00:00.000Z",
           "data": {
             "raw": {
               "keyword": "Warning in non-residential areas near the crater",
@@ -3995,11 +4068,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:14.165Z",
+    "lastUpdate": "2020-12-25T12:30:09.372Z",
     "id": 327,
     "region": "tokyo",
     "area": 4,
@@ -4031,6 +4104,7 @@
       "data": [
         {
           "issuedTo": "Kaitoku Seamount",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -4045,11 +4119,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:14.393Z",
+    "lastUpdate": "2020-12-25T12:30:09.651Z",
     "id": 328,
     "region": "tokyo",
     "area": 4,
@@ -4079,7 +4153,7 @@
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:14.725Z",
+    "lastUpdate": "2020-12-25T12:30:09.848Z",
     "id": 329,
     "region": "tokyo",
     "area": 4,
@@ -4111,7 +4185,7 @@
       "data": [
         {
           "issuedTo": "Ioto",
-          "issuedAt": "10:01 JST, 01 December 2007",
+          "issuedAt": "2007-12-01T01:01:00.000Z",
           "data": {
             "raw": {
               "keyword": "Warnings around the crater",
@@ -4131,11 +4205,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:14.964Z",
+    "lastUpdate": "2020-12-25T12:30:10.040Z",
     "id": 330,
     "region": "tokyo",
     "area": 4,
@@ -4167,6 +4241,7 @@
       "data": [
         {
           "issuedTo": "Kita-Fukutokutai",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -4181,11 +4256,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:15.179Z",
+    "lastUpdate": "2020-12-25T12:30:10.413Z",
     "id": 331,
     "region": "tokyo",
     "area": 4,
@@ -4218,7 +4293,7 @@
       "data": [
         {
           "issuedTo": "Fukutoku-Oka-no-Ba",
-          "issuedAt": "10:02 JST, 01 December 2007",
+          "issuedAt": "2007-12-01T01:02:00.000Z",
           "data": {
             "raw": {
               "keyword": "Warnings for sea areas in the vicinity of a volcano",
@@ -4238,11 +4313,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:09.963Z",
+    "lastUpdate": "2020-12-25T12:30:05.919Z",
     "id": 333,
     "region": "tokyo",
     "area": 3,
@@ -4274,6 +4349,7 @@
       "data": [
         {
           "issuedTo": "Takaharayama",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -4288,11 +4364,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:10.153Z",
+    "lastUpdate": "2020-12-25T12:30:06.141Z",
     "id": 334,
     "region": "tokyo",
     "area": 3,
@@ -4324,6 +4400,7 @@
       "data": [
         {
           "issuedTo": "Yokodake",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -4338,11 +4415,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:10.346Z",
+    "lastUpdate": "2020-12-25T12:30:06.331Z",
     "id": 335,
     "region": "tokyo",
     "area": 3,
@@ -4374,6 +4451,7 @@
       "data": [
         {
           "issuedTo": "Akandanayama",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -4388,11 +4466,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:15.400Z",
+    "lastUpdate": "2020-12-25T12:30:10.613Z",
     "id": 336,
     "region": "tokyo",
     "area": 4,
@@ -4424,6 +4502,7 @@
       "data": [
         {
           "issuedTo": "Toshima",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -4438,11 +4517,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:15.638Z",
+    "lastUpdate": "2020-12-25T12:30:10.806Z",
     "id": 337,
     "region": "tokyo",
     "area": 4,
@@ -4474,6 +4553,7 @@
       "data": [
         {
           "issuedTo": "Mikurajima",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -4488,11 +4568,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:15.935Z",
+    "lastUpdate": "2020-12-25T12:30:11.043Z",
     "id": 338,
     "region": "tokyo",
     "area": 4,
@@ -4524,6 +4604,7 @@
       "data": [
         {
           "issuedTo": "Sofugan",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -4538,11 +4619,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:16.163Z",
+    "lastUpdate": "2020-12-25T12:30:11.246Z",
     "id": 339,
     "region": "tokyo",
     "area": 4,
@@ -4574,6 +4655,7 @@
       "data": [
         {
           "issuedTo": "Kaikata Seamount",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -4588,11 +4670,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:16.617Z",
+    "lastUpdate": "2020-12-25T12:30:11.520Z",
     "id": 340,
     "region": "tokyo",
     "area": 4,
@@ -4622,7 +4704,7 @@
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:16.882Z",
+    "lastUpdate": "2020-12-25T12:30:11.711Z",
     "id": 341,
     "region": "tokyo",
     "area": 4,
@@ -4654,6 +4736,7 @@
       "data": [
         {
           "issuedTo": "Nikko Seamount",
+          "issuedAt": "2020-12-25T12:42:45.549Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -4668,11 +4751,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.915Z"
+      "lastUpdate": "2020-12-25T12:29:47.061Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:10.621Z",
+    "lastUpdate": "2020-12-25T12:30:06.534Z",
     "id": 342,
     "region": "tokyo",
     "area": 3,
@@ -4687,6 +4770,7 @@
       "data": [
         {
           "issuedTo": "Nantaisan",
+          "issuedAt": "2020-12-25T12:42:45.275Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -4701,11 +4785,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:46.569Z"
+      "lastUpdate": "2020-12-25T12:29:46.575Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:17.135Z",
+    "lastUpdate": "2020-12-25T12:30:11.920Z",
     "id": 401,
     "region": "tokyo",
     "area": 5,
@@ -4737,6 +4821,7 @@
       "data": [
         {
           "issuedTo": "Sanbesan",
+          "issuedAt": "2020-12-25T12:42:45.838Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -4751,11 +4836,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.250Z"
+      "lastUpdate": "2020-12-25T12:29:47.436Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:18.980Z",
+    "lastUpdate": "2020-12-25T12:30:12.322Z",
     "id": 502,
     "region": "fukuoka",
     "area": 6,
@@ -4805,6 +4890,7 @@
       "data": [
         {
           "issuedTo": "Kujusan",
+          "issuedAt": "2020-12-25T12:42:46.313Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -4819,11 +4905,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:19.355Z",
+    "lastUpdate": "2020-12-25T12:30:12.516Z",
     "id": 503,
     "region": "fukuoka",
     "area": 6,
@@ -4874,6 +4960,7 @@
       "data": [
         {
           "issuedTo": "Asosan",
+          "issuedAt": "2020-12-25T12:42:46.313Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -4888,11 +4975,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:19.593Z",
+    "lastUpdate": "2020-12-25T12:30:12.715Z",
     "id": 504,
     "region": "fukuoka",
     "area": 6,
@@ -4924,6 +5011,7 @@
       "data": [
         {
           "issuedTo": "Unzendake",
+          "issuedAt": "2020-12-25T12:42:46.313Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -4938,11 +5026,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:19.832Z",
+    "lastUpdate": "2020-12-25T12:30:12.920Z",
     "id": 505,
     "region": "fukuoka",
     "area": 6,
@@ -5026,6 +5114,7 @@
       "data": [
         {
           "issuedTo": "Kirishimayama",
+          "issuedAt": "2020-12-25T12:42:46.313Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -5040,11 +5129,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:20.236Z",
+    "lastUpdate": "2020-12-25T12:30:13.125Z",
     "id": 506,
     "region": "fukuoka",
     "area": 6,
@@ -5095,7 +5184,7 @@
       "data": [
         {
           "issuedTo": "Sakurajima",
-          "issuedAt": "19:13 JST, 05 February 2016",
+          "issuedAt": "2016-02-05T10:13:00.000Z",
           "data": {
             "raw": {
               "keyword": "Level 3 (Do not approach the volcano)",
@@ -5115,11 +5204,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:20.454Z",
+    "lastUpdate": "2020-12-25T12:30:13.318Z",
     "id": 507,
     "region": "fukuoka",
     "area": 6,
@@ -5151,6 +5240,7 @@
       "data": [
         {
           "issuedTo": "Kaimondake",
+          "issuedAt": "2020-12-25T12:42:46.313Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -5165,11 +5255,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:20.784Z",
+    "lastUpdate": "2020-12-25T12:30:13.526Z",
     "id": 508,
     "region": "fukuoka",
     "area": 6,
@@ -5201,7 +5291,7 @@
       "data": [
         {
           "issuedTo": "Satsuma-Iojima",
-          "issuedAt": "17:50 JST, 02 November 2019",
+          "issuedAt": "2019-11-02T08:50:00.000Z",
           "data": {
             "raw": {
               "keyword": "Level 2 (Do not approach the crater)",
@@ -5221,11 +5311,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:21.027Z",
+    "lastUpdate": "2020-12-25T12:30:13.773Z",
     "id": 509,
     "region": "fukuoka",
     "area": 6,
@@ -5258,7 +5348,7 @@
       "data": [
         {
           "issuedTo": "Kuchinoerabujima",
-          "issuedAt": "00:15 JST, 28 October 2019",
+          "issuedAt": "2019-10-27T15:15:00.000Z",
           "data": {
             "raw": {
               "keyword": "Level 3 (Do not approach the volcano)",
@@ -5278,11 +5368,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:21.705Z",
+    "lastUpdate": "2020-12-25T12:30:14.551Z",
     "id": 510,
     "region": "fukuoka",
     "area": 6,
@@ -5314,6 +5404,7 @@
       "data": [
         {
           "issuedTo": "Nakanoshima",
+          "issuedAt": "2020-12-25T12:42:46.313Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -5328,11 +5419,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:21.941Z",
+    "lastUpdate": "2020-12-25T12:30:14.751Z",
     "id": 511,
     "region": "fukuoka",
     "area": 6,
@@ -5365,7 +5456,7 @@
       "data": [
         {
           "issuedTo": "Suwanosejima",
-          "issuedAt": "10:06 JST, 01 December 2007",
+          "issuedAt": "2007-12-01T01:06:00.000Z",
           "data": {
             "raw": {
               "keyword": "Level 2 (Do not approach the crater)",
@@ -5385,11 +5476,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:18.761Z",
+    "lastUpdate": "2020-12-25T12:30:12.124Z",
     "id": 512,
     "region": "fukuoka",
     "area": 5,
@@ -5422,6 +5513,7 @@
       "data": [
         {
           "issuedTo": "Abu Volcanoes",
+          "issuedAt": "2020-12-25T12:42:45.838Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -5436,11 +5528,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.250Z"
+      "lastUpdate": "2020-12-25T12:29:47.436Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:22.163Z",
+    "lastUpdate": "2020-12-25T12:30:14.963Z",
     "id": 513,
     "region": "fukuoka",
     "area": 6,
@@ -5490,6 +5582,7 @@
       "data": [
         {
           "issuedTo": "Tsurumidake and Garandake",
+          "issuedAt": "2020-12-25T12:42:46.313Z",
           "data": {
             "raw": {
               "keyword": "Level 1 (Potential for increased activity)"
@@ -5504,11 +5597,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:23.086Z",
+    "lastUpdate": "2020-12-25T12:30:15.169Z",
     "id": 514,
     "region": "fukuoka",
     "area": 6,
@@ -5540,6 +5633,7 @@
       "data": [
         {
           "issuedTo": "Yufudake",
+          "issuedAt": "2020-12-25T12:42:46.313Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -5554,11 +5648,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:23.297Z",
+    "lastUpdate": "2020-12-25T12:30:15.645Z",
     "id": 515,
     "region": "fukuoka",
     "area": 6,
@@ -5590,6 +5684,7 @@
       "data": [
         {
           "issuedTo": "Fukue Volcanoes",
+          "issuedAt": "2020-12-25T12:42:46.313Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -5604,11 +5699,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:23.509Z",
+    "lastUpdate": "2020-12-25T12:30:15.857Z",
     "id": 516,
     "region": "fukuoka",
     "area": 6,
@@ -5658,6 +5753,7 @@
       "data": [
         {
           "issuedTo": "Yonemaru and Sumiyoshiike",
+          "issuedAt": "2020-12-25T12:42:46.313Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -5672,11 +5768,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:23.795Z",
+    "lastUpdate": "2020-12-25T12:30:16.049Z",
     "id": 517,
     "region": "fukuoka",
     "area": 6,
@@ -5708,6 +5804,7 @@
       "data": [
         {
           "issuedTo": "Wakamiko",
+          "issuedAt": "2020-12-25T12:42:46.313Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -5722,11 +5819,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:24.018Z",
+    "lastUpdate": "2020-12-25T12:30:16.337Z",
     "id": 518,
     "region": "fukuoka",
     "area": 6,
@@ -5776,6 +5873,7 @@
       "data": [
         {
           "issuedTo": "Ikeda and Yamagawa",
+          "issuedAt": "2020-12-25T12:42:46.313Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -5790,11 +5888,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:24.228Z",
+    "lastUpdate": "2020-12-25T12:30:16.533Z",
     "id": 519,
     "region": "fukuoka",
     "area": 6,
@@ -5844,6 +5942,7 @@
       "data": [
         {
           "issuedTo": "Kuchinoshima",
+          "issuedAt": "2020-12-25T12:42:46.313Z",
           "data": {
             "raw": {
               "keyword": "Potential for increased activity"
@@ -5858,11 +5957,11 @@
           }
         }
       ],
-      "lastUpdate": "2020-12-25T05:03:47.585Z"
+      "lastUpdate": "2020-12-25T12:29:47.733Z"
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:24.554Z",
+    "lastUpdate": "2020-12-25T12:30:16.732Z",
     "id": 601,
     "region": "tokyo",
     "area": 7,
@@ -5892,7 +5991,7 @@
     }
   },
   {
-    "lastUpdate": "2020-12-25T05:04:24.838Z",
+    "lastUpdate": "2020-12-25T12:30:16.936Z",
     "id": 602,
     "region": "tokyo",
     "area": 7,

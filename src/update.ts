@@ -7,6 +7,7 @@ import {
   getVolcanoMetadata,
   getVolcanoStatus,
   getMapsLastUpdate,
+  VolcanoStatus,
 } from './Volcanoes';
 
 export const updateFile = './data/updates.json';
@@ -101,8 +102,9 @@ export async function updateVolcanoes(updateMetadata?: boolean): Promise<Volcano
       };
     }
 
-    const duplicateFound =
-      volcano.alerts.data.map((n) => JSON.stringify(n) === JSON.stringify(alert)).indexOf(true) >= 0;
+    const latestAlert = volcano.alerts.data.sort((a, b) => b.issuedAt.getTime() - a.issuedAt.getTime())[0];
+
+    const duplicateFound = latestAlert !== undefined && volcanoAlertIsDuplicateWithoutIssuedAt(latestAlert, alert);
 
     if (!duplicateFound) {
       updated.push(volcano);
@@ -112,4 +114,17 @@ export async function updateVolcanoes(updateMetadata?: boolean): Promise<Volcano
 
   saveVolcanoesFile(volcanoes);
   return updated;
+}
+
+function volcanoAlertIsDuplicateWithoutIssuedAt(a: VolcanoStatus, b: VolcanoStatus) {
+  const aTmp = {
+    issuedTo: a.issuedTo,
+    data: a.data,
+  };
+  const bTmp = {
+    issuedTo: b.issuedTo,
+    data: b.data,
+  };
+
+  return JSON.stringify(aTmp) === JSON.stringify(bTmp);
 }

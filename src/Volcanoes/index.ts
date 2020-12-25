@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { JSDOM } from 'jsdom';
-import { htmlStripper, jmaRoot, LatitudeLongitude, meterToFeet } from '../common';
+import { convertDate, htmlStripper, jmaRoot, LatitudeLongitude, meterToFeet } from '../common';
 import * as geolib from 'geolib';
 
 export enum AreaIdentifier {
@@ -342,7 +342,7 @@ export async function getVolcanoMetadata(areaUrl: AreaURL, cache?: VolcanoModel)
           'If-Modified-Since': cache.lastUpdate.toUTCString(),
         },
       });
-      console.log('[Debug] Non Cache hit at ' + areaUrl.url);
+      console.log('[Debug] Cache expired at ' + url + ' !');
     } catch (e) {
       if (e.response !== undefined) {
         if (e.response.status === 304) {
@@ -355,6 +355,7 @@ export async function getVolcanoMetadata(areaUrl: AreaURL, cache?: VolcanoModel)
     }
   } else {
     volcanoInfoWeb = await axios(url);
+    console.log('[Debug] Non Cache hit at ' + areaUrl.url);
   }
 
   let lastUpdate =
@@ -554,9 +555,9 @@ export async function getVolcanoMetadata(areaUrl: AreaURL, cache?: VolcanoModel)
   return volcanoInfo;
 }
 
-interface VolcanoStatus {
+export interface VolcanoStatus {
   issuedTo: string;
-  issuedAt?: string;
+  issuedAt: Date;
   data: {
     parsed?: ParsedVolcanoAlert | null;
     raw: {
@@ -610,7 +611,7 @@ export async function getVolcanoStatus(area: AreaIdentifier): Promise<VolcanoSta
 
       const data = {
         issuedTo: details[2].innerHTML.trim(),
-        issuedAt: details[3].innerHTML.trim(),
+        issuedAt: convertDate(details[3].innerHTML.trim()),
         data: {
           raw: {
             keyword: details[1].innerHTML.trim(),
@@ -636,7 +637,7 @@ export async function getVolcanoStatus(area: AreaIdentifier): Promise<VolcanoSta
 
       const data = {
         issuedTo: issuedTo.trim(),
-        issuedAt: undefined,
+        issuedAt: await getMapsLastUpdate(area),
         data: {
           raw: {
             keyword: volcanoAlert,

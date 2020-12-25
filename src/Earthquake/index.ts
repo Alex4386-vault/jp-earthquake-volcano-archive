@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { JSDOM } from 'jsdom';
 import * as geolib from 'geolib';
-import { htmlStripper, jmaRoot, LatitudeLongitude } from '../common';
+import { convertDate, htmlStripper, jmaRoot, LatitudeLongitude } from '../common';
 
 const earthquakeDir = jmaRoot + '/en/quake';
 const earthquakeTableEndpoint = earthquakeDir + '/quake_singendo_index.html';
@@ -25,7 +25,7 @@ interface EarthquakeMetadata {
   uuid: string;
   regionName: string;
   magnitude: number;
-  occurredAt: string;
+  occurredAt: Date;
   location: EarthquakeLocation;
   lastUpdate: Date;
   intensityByCity?: IntensityByCity[];
@@ -35,7 +35,7 @@ interface EarthquakeMetadata {
 
 export interface EarthquakeData extends EarthquakeMetadata {
   maxIntensity: string;
-  issuedAt: string;
+  issuedAt: Date;
 }
 
 export interface EarthquakeCache {
@@ -61,6 +61,7 @@ export async function getEarthquake(uuid: string, lastUpdate?: Date): Promise<Ea
           },
         })
       ).data;
+      console.log('[Debug] Cache expired at ' + infoUrl + ' ! Updating!');
     } catch (e) {
       if (e.response !== undefined) {
         if (e.response.status === 304) {
@@ -83,7 +84,7 @@ export async function getEarthquake(uuid: string, lastUpdate?: Date): Promise<Ea
 
   const metadataTable = tables[0];
   const metadataTableRow = metadataTable.getElementsByTagName('tr')[1].getElementsByTagName('td');
-  const occurredAt = htmlStripper(metadataTableRow[0].innerHTML);
+  const occurredAt = convertDate(htmlStripper(metadataTableRow[0].innerHTML));
   const latitude = htmlStripper(metadataTableRow[1].innerHTML);
   const latitudeDec = parseFloat(latitude.replace(/NS/gi, '')) * (latitude.toLowerCase().indexOf('N') ? 1 : -1);
 
@@ -194,6 +195,7 @@ export async function getEarthquakes(cache?: EarthquakeCache): Promise<Earthquak
 
   if (cache === undefined) {
     res = await axios(earthquakeTableEndpoint);
+    console.log('[Debug] Non-Cache hit at ' + earthquakeTableEndpoint + ' ! Requesting!');
   } else {
     try {
       res = await axios(earthquakeTableEndpoint, {
@@ -201,9 +203,11 @@ export async function getEarthquakes(cache?: EarthquakeCache): Promise<Earthquak
           'If-Modified-Since': cache.lastUpdate.toUTCString(),
         },
       });
+      console.log('[Debug] Cache expired at ' + earthquakeTableEndpoint + ' ! Updating!');
     } catch (e) {
       if (e.response !== undefined) {
         if (e.response.status === 304) {
+          console.log('[Debug] Cache hit at ' + earthquakeTableEndpoint);
           return null;
         }
       }
@@ -232,7 +236,7 @@ export async function getEarthquakes(cache?: EarthquakeCache): Promise<Earthquak
     const uuid = anchorTag.href.slice(anchorTag.href.lastIndexOf('/') + 1).split('.')[0] as string;
 
     const maxIntensity = htmlStripper(tds[3].innerHTML);
-    const issuedAt = htmlStripper(tds[4].innerHTML);
+    const issuedAt = convertDate(htmlStripper(tds[4].innerHTML));
 
     let idx = -1;
 
