@@ -2,7 +2,7 @@
 
 ## Volcanoes
 
-```json
+```js
 {
   // last time when volcano's metadata has been updated
   // ex: id, region, area, name, location, craters
@@ -205,7 +205,7 @@
 
 ## Earthquakes
 
-```json
+```js
 {
   // max intensity defined by JMA.
   // not number only
@@ -284,7 +284,7 @@
 ```
 
 ## Updates
-```json
+```js
 {
   // when was the data on repository were last updated
   "lastUpdate": "2020-12-25T13:12:36.640Z",
