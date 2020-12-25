@@ -33,7 +33,7 @@ interface EarthquakeMetadata {
   url: string;
 }
 
-interface EarthquakeData extends EarthquakeMetadata {
+export interface EarthquakeData extends EarthquakeMetadata {
   maxIntensity: string;
   issuedAt: string;
 }
@@ -50,7 +50,7 @@ export async function getEarthquake(uuid: string, lastUpdate?: Date): Promise<Ea
 
   if (lastUpdate === undefined) {
     infoData = (await axios(infoUrl)).data;
-    console.log('[Debug] Cache hit at ' + infoUrl + '! Requesting!');
+    console.log('[Debug] Non-Cache hit at ' + infoUrl + ' ! Requesting!');
   } else {
     lastUpdate = new Date(lastUpdate);
     try {
@@ -61,7 +61,6 @@ export async function getEarthquake(uuid: string, lastUpdate?: Date): Promise<Ea
           },
         })
       ).data;
-      console.log('[Debug] Non-Cache hit at ' + infoUrl);
     } catch (e) {
       if (e.response !== undefined) {
         if (e.response.status === 304) {
@@ -190,7 +189,7 @@ export async function getEarthquake(uuid: string, lastUpdate?: Date): Promise<Ea
   };
 }
 
-export async function getEarthquakes(cache?: EarthquakeCache): Promise<EarthquakeData[]> {
+export async function getEarthquakes(cache?: EarthquakeCache): Promise<EarthquakeData[] | null> {
   let res;
 
   if (cache === undefined) {
@@ -205,7 +204,7 @@ export async function getEarthquakes(cache?: EarthquakeCache): Promise<Earthquak
     } catch (e) {
       if (e.response !== undefined) {
         if (e.response.status === 304) {
-          return cache.data;
+          return null;
         }
       }
       throw e;
@@ -265,6 +264,9 @@ export async function getEarthquakes(cache?: EarthquakeCache): Promise<Earthquak
       (n) => cache.data.map((j) => j.uuid === n.uuid).indexOf(true) < 0,
     ) as EarthquakeData[];
     cache.data.push(...nonDuplicates);
+    cache.lastUpdate = new Date();
+
+    return nonDuplicates;
   }
 
   return earthquakes;

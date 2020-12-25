@@ -321,7 +321,7 @@ interface CraterModel {
   location: CraterLocation;
 }
 
-export async function getVolcanoMetadata(areaUrl: AreaURL, cache?: VolcanoModel): Promise<VolcanoModel> {
+export async function getVolcanoMetadata(areaUrl: AreaURL, cache?: VolcanoModel): Promise<VolcanoModel | null> {
   const url = areaUrl.url;
   const area = areaUrl.area;
 
@@ -342,7 +342,7 @@ export async function getVolcanoMetadata(areaUrl: AreaURL, cache?: VolcanoModel)
       if (e.response !== undefined) {
         if (e.response.status === 304) {
           console.log('[Debug] Cache hit at ' + areaUrl.url);
-          return cache;
+          return null;
         }
       }
 
@@ -552,7 +552,7 @@ export async function getVolcanoMetadata(areaUrl: AreaURL, cache?: VolcanoModel)
 interface VolcanoStatus {
   issuedTo: string;
   issuedAt?: string;
-  alert: {
+  data: {
     parsed?: ParsedVolcanoAlert | null;
     raw: {
       keyword: string;
@@ -607,7 +607,7 @@ export async function getVolcanoStatus(area: AreaIdentifier) {
       const data = {
         issuedTo: details[2].innerHTML.trim(),
         issuedAt: details[3].innerHTML.trim(),
-        alert: {
+        data: {
           raw: {
             keyword: details[1].innerHTML.trim(),
             code: htmlStripper(details[0].innerHTML),
@@ -633,7 +633,7 @@ export async function getVolcanoStatus(area: AreaIdentifier) {
       const data = {
         issuedTo: issuedTo.trim(),
         issuedAt: undefined,
-        alert: {
+        data: {
           raw: {
             keyword: volcanoAlert,
             code: undefined,
