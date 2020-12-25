@@ -65,3 +65,7 @@ export function saveJSON(fileName: string, data: unknown): void {
   fs.writeFileSync(fileName, JSON.stringify(data, null, 2));
   fs.writeFileSync(minified, JSON.stringify(data));
 }
+
+export function saveReportFile(fileName: string, data: string): void {
+  fs.writeFileSync('./reports/' + fileName, data);
+}

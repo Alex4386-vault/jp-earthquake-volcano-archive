@@ -404,7 +404,8 @@ export async function getVolcanoMetadata(areaUrl: AreaURL, cache?: VolcanoModel)
     }
   }
 
-  const volcanoImage = volcanoDir + '/' + document.getElementsByTagName('img')[0].src;
+  let volcanoImage: string | undefined = volcanoDir + '/' + document.getElementsByTagName('img')[0].src;
+  volcanoImage = volcanoImage.includes('map') ? undefined : volcanoImage;
 
   // remove <br> and trim the spaces
   let plainTextRaw = htmlStripper(volcanoData.replace(/\<br\>/gi, ''));

@@ -1,4 +1,11 @@
-import { loadEarthquakesFile, saveEarthquakesFile, loadVolcanoesFile, saveVolcanoesFile } from './common/fileSystem';
+import { LatitudeLongitude } from './common';
+import {
+  loadEarthquakesFile,
+  saveEarthquakesFile,
+  loadVolcanoesFile,
+  saveVolcanoesFile,
+  saveReportFile,
+} from './common/fileSystem';
 import { EarthquakeData, EarthquakeCache, getEarthquakes } from './Earthquake';
 import {
   VolcanoModel,
@@ -128,4 +135,196 @@ function volcanoAlertIsDuplicateWithoutIssuedAt(a: VolcanoStatus, b: VolcanoStat
   };
 
   return JSON.stringify(aTmp) === JSON.stringify(bTmp);
+}
+
+function convertDateToHumanStrings(date: Date) {
+  const westernYear = date.getFullYear();
+  const nengo = getNengo(date);
+
+  const month = (date.getMonth() + 1).toString();
+  const monthPad = month.padStart(2, '0');
+  const dateCal = date.getDate().toString();
+  const datePad = dateCal.padStart(2, '0');
+
+  const hours = date.getHours();
+  const hoursPad = hours.toString().padStart(2, '0');
+  const minutes = date.getMinutes();
+  const minutesPad = minutes.toString().padStart(2, '0');
+
+  return {
+    year: {
+      westernYear,
+      nengo,
+    },
+    month,
+    date: dateCal,
+
+    ymdString: westernYear + '-' + monthPad + '-' + datePad,
+    nengoString:
+      nengo !== undefined ? `${nengo.nengo.kanjiName} ${nengo.year.kanji} ${month}月 ${dateCal}日` : undefined,
+    timeString: hoursPad + ':' + minutesPad,
+
+    fileSafeString: westernYear + monthPad + datePad + hoursPad + minutesPad,
+  };
+}
+
+export function getMapLink(coord: LatitudeLongitude): string {
+  return `https://www.google.com/maps/place/${coord.sexagesimal.latitude
+    .replace(/"/g, '%22')
+    .replace(/ /g, '')}+${coord.sexagesimal.longitude.replace(/"/g, '%22').replace(/ /g, '')}/@${
+    coord.decimal.latitude
+  },${coord.decimal.longitude},17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d${coord.decimal.latitude}!4d${
+    coord.decimal.longitude
+  }`;
+}
+
+export function createReportFile(updates: UpdateModel): void {
+  let markdown = '';
+
+  const lastUpdateDate = updates.lastUpdate;
+
+  const humanTime = convertDateToHumanStrings(lastUpdateDate);
+
+  markdown += `# ${humanTime.ymdString} ${humanTime.timeString} Report\n`;
+  markdown += humanTime.nengoString !== undefined ? `${humanTime.nengoString} ${humanTime.timeString}\n` : '';
+
+  markdown += '\n';
+
+  if (updates.volcanoes.length > 0) {
+    markdown += `## Volcanoes\n`;
+
+    markdown += updates.volcanoes
+      .map((n) => {
+        return `### **[${n.name}](${n.metadata.page})**
+${n.metadata.img !== undefined ? `![${n.name} volcano image](${n.metadata.img})` : ''}  
+${n.metadata.memo !== undefined ? `${n.metadata.memo}` : ''}  
+
+#### Craters / Sub-Volcanoes
+${n.craters
+  .map(
+    (crater) =>
+      `* [${crater.name !== undefined ? crater.name : n.name} @ ${crater.location.elevation?.meter}m](${getMapLink(
+        crater.location,
+      )})`,
+  )
+  .join('\n')}
+
+#### Alerts
+${
+  n.alerts !== undefined
+    ? n.alerts.data
+        .map((alert) => {
+          const date = convertDateToHumanStrings(alert.issuedAt);
+          return `* ${alert.issuedTo} - ${date.ymdString}${
+            date.nengoString !== undefined ? ' (' + date.nengoString + ' ' + date.timeString + ')' : ''
+          } ${date.timeString}  
+**${alert.data.raw.keyword}**  
+          ${
+            alert.data.raw.info !== undefined
+              ? '\n```' + alert.data.raw.info.contents + '```  \n[Link](' + alert.data.raw.info.link + ')  \n'
+              : ''
+          }
+`;
+        })
+        .join('\n')
+    : ''
+}
+`;
+      })
+      .join('\n');
+  }
+
+  if (updates.earthquakes.length > 0) {
+    markdown += '## Earthquakes\n';
+    markdown += updates.earthquakes
+      .map((quake) => {
+        const humanTime = convertDateToHumanStrings(quake.occurredAt);
+        return `### ${quake.regionName} @ M${quake.magnitude}
+${humanTime.ymdString} ${humanTime.timeString} ${
+          humanTime.nengoString !== undefined ? `(${humanTime.nengoString} ${humanTime.timeString})\n` : ''
+        }  
+[epicenter @ ${quake.location.depth}km](${getMapLink(quake.location)})`;
+      })
+      .join('\n');
+  }
+
+  saveReportFile(humanTime.fileSafeString + '.md', markdown);
+}
+
+interface NengoInterface {
+  name: string;
+  kanjiName: string;
+  baseYear: number;
+  years?: number;
+}
+
+interface NengoYearInterface {
+  nengo: NengoInterface;
+  year: {
+    number: number;
+    kanji: string;
+  };
+}
+
+const nengos: NengoInterface[] = [
+  { name: 'reiwa', kanjiName: '令和', baseYear: 2019 },
+  { name: 'heisei', kanjiName: '平成', baseYear: 1989 },
+];
+
+function inNengoRange(baseYear: number, year: number, years?: number) {
+  const workYear = years === undefined ? 30 : years;
+  return baseYear <= year && year < baseYear + workYear;
+}
+
+function getNengo(date: Date): NengoYearInterface | undefined {
+  // First, Convert to JST
+  const jpDate = new Date(date.setMinutes(date.getMinutes() + (date.getTimezoneOffset() - -540)));
+
+  // get Year and Months
+  let year = jpDate.getFullYear();
+  const month = jpDate.getMonth() + 1; // counting from 0
+
+  if (month > 4) {
+    // new Nengo System is used. Dafaq
+  } else {
+    // prev Nengo System is used.
+    year--;
+  }
+
+  const kanjiIdx = ' 一二三四五六七八九';
+
+  for (const nengo of nengos) {
+    if (inNengoRange(nengo.baseYear, year, nengo.years)) {
+      const nengoYear = year - nengo.baseYear + 1;
+
+      let kanji = '';
+      if (nengoYear === 1) {
+        kanji = '元';
+      } else {
+        if (nengoYear > 10) {
+          if (nengoYear / 10 >= 2) {
+            kanji += kanjiIdx.charAt(Math.floor(nengoYear / 10));
+          }
+          kanji += '十';
+        }
+
+        if (nengoYear % 10 !== 0) {
+          kanji += kanjiIdx.charAt(Math.floor(nengoYear % 10));
+        }
+      }
+
+      kanji += '年';
+
+      return {
+        nengo,
+        year: {
+          number: nengoYear,
+          kanji,
+        },
+      };
+    }
+  }
+
+  // Why am i doing this
+  return undefined;
 }
