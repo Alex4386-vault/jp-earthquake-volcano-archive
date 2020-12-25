@@ -2,8 +2,8 @@ import fs from 'fs';
 import { EarthquakeCache } from '../Earthquake';
 import { VolcanoModel } from '../Volcanoes';
 
-export const volcanoesFile = './volcanoes.json';
-export const earthquakesFile = './earthquakes.json';
+export const volcanoesFile = './data/volcanoes.json';
+export const earthquakesFile = './data/earthquakes.json';
 
 export function loadVolcanoesFile(): VolcanoModel[] | null {
   if (!fs.existsSync(volcanoesFile)) return null;
@@ -41,5 +41,20 @@ export function saveEarthquakesFile(data: EarthquakeCache): void {
 }
 
 export function saveJSON(fileName: string, data: unknown): void {
+  const dotIdx = fileName.lastIndexOf('.');
+
+  let pureFilename: string;
+  let pureExtension = '';
+
+  if (dotIdx < 0) {
+    pureFilename = fileName;
+  } else {
+    pureFilename = fileName.slice(0, dotIdx);
+    pureExtension = fileName.slice(dotIdx);
+  }
+
+  const minified = pureFilename + '.min' + pureExtension;
+
   fs.writeFileSync(fileName, JSON.stringify(data, null, 2));
+  fs.writeFileSync(minified, JSON.stringify(data));
 }

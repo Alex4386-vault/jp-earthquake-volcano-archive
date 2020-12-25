@@ -2,8 +2,8 @@
 This repository will automatically parse the volcano and earthquake data into machine readable JSON format and archive it from [Japan Meteorological Agency's webpage](https://www.jma.go.jp/jma/indexe.html).  
 
 ## Data
-* [Volcanoes](volcanoes.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/volcanoes.json) - [Source](https://www.jma.go.jp/en/volcano/)
-* [Earthquakes](earthquakes.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/earthquakes.json) - [Source](https://www.jma.go.jp/en/quake/quake_singendo_index.html) 
+* [Volcanoes](data/volcanoes.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/volcanoes.json) - [Source](https://www.jma.go.jp/en/volcano/)
+* [Earthquakes](data/earthquakes.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/earthquakes.json) - [Source](https://www.jma.go.jp/en/quake/quake_singendo_index.html) 
 
 ## Update Intervals
 GitHub Actions will run every 20 minutes or every push.  

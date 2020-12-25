@@ -1,5 +1,5 @@
 import { saveJSON } from './common/fileSystem';
-import { updateEarthquakes, updateVolcanoes } from './update';
+import { updateEarthquakes, updateFile, updateVolcanoes } from './update';
 
 (async () => {
   const [earthquakeUpdates, volcanoesUpdates] = await Promise.all([updateEarthquakes(), updateVolcanoes()]);
@@ -12,6 +12,6 @@ import { updateEarthquakes, updateVolcanoes } from './update';
   };
 
   if (isThereUpdates) {
-    saveJSON('updates.json', updates);
+    saveJSON(updateFile, updates);
   }
 })();

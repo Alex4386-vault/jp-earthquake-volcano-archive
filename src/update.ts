@@ -9,6 +9,8 @@ import {
   getMapsLastUpdate,
 } from './Volcanoes';
 
+export const updateFile = './data/updates.json';
+
 export interface UpdateModel {
   volcanoes: VolcanoModel[];
   earthquakes: EarthquakeData[];
