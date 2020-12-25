@@ -3,11 +3,11 @@
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "13:19 JST 25 Dec 2020",
+      "issuedAt": "2020-12-25T04:19:00.000Z",
       "uuid": "20201225041923393-25131217",
       "regionName": "Kumamoto-ken Kumamoto-chiho",
       "magnitude": 2.2,
-      "occurredAt": "13:12 JST 25 Dec 2020",
+      "occurredAt": "2020-12-25T04:12:00.000Z",
       "location": {
         "decimal": {
           "latitude": 32.7,
@@ -19,7 +19,7 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-25T05:07:37.885Z",
+      "lastUpdate": "2020-12-25T12:29:46.227Z",
       "url": "https://www.jma.go.jp/en/quake/20201225041923393-25131217.html"
     }
   ],
