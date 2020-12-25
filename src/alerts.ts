@@ -1,10 +1,4 @@
-import {
-  AreaIdentifier,
-  getVolcanoMetadata,
-  getVolcanoStatus,
-  loadVolcanoesDataByArea,
-  VolcanoModel,
-} from './Volcanoes';
+import { AreaIdentifier, getVolcanoStatus, loadVolcanoesDataByArea, VolcanoModel } from './Volcanoes';
 import fs from 'fs';
 import { EarthquakeCache, getEarthquakes } from './Earthquake';
 import { getMapsLastUpdate } from './Volcanoes';
@@ -32,37 +26,12 @@ const earthquakeFile = './earthquakes.json';
 (async () => {
   let volcanoes: VolcanoModel[] = [];
 
-  if (!fs.existsSync(volcanoesFile)) {
-    volcanoes = [];
-    const volcanoesURL = await loadVolcanoesDataByArea(AreaIdentifier.GLOBAL);
-
-    /*
-    for (const volcanoURL of volcanoesURL) {
-      const volcano = await getVolcanoMetadata(volcanoURL);
-      volcanoes.push(volcano);
-      volcano?.craters.length == 0
-        ? console.log(
-            '[Volca] Error while processing volcano ' + volcano.name + ' at ' + volcano.region + '#' + volcano.id,
-          )
-        : console.log('[Volca] Processed volcano ' + volcano?.name + '!');
-    }
-    */
-  } else {
+  if (fs.existsSync(volcanoesFile)) {
     volcanoes = JSON.parse(fs.readFileSync('./volcanoes.json', { encoding: 'utf-8' }));
 
     for (const volcano of volcanoes) {
       volcano.lastUpdate = new Date(volcano.lastUpdate);
       if (volcano.alerts?.lastUpdate) volcano.alerts.lastUpdate = new Date(volcano.alerts?.lastUpdate);
-
-      /*
-      await getVolcanoMetadata(
-        {
-          area: volcano.area,
-          url: volcano.metadata.page,
-        },
-        volcano,
-      );
-      */
     }
   }
 
