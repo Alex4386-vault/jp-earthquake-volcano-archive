@@ -1,0 +1,1607 @@
+{
+  "lastUpdate": "2020-12-24T13:27:55.463Z",
+  "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "22:01 JST 24 Dec 2020",
+      "uuid": "20201224130116393-24215838",
+      "regionName": "Gifu-ken Mino-chuseibu",
+      "magnitude": 2.9,
+      "occurredAt": "21:58 JST 24 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 35.8,
+          "longitude": 136.9
+        },
+        "sexagesimal": {
+          "latitude": "35° 48' 00\"",
+          "longitude": "136° 54' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:27:57.579Z",
+      "url": "https://www.jma.go.jp/en/quake/20201224130116393-24215838.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "08:14 JST 24 Dec 2020",
+      "uuid": "20201223231451493-24081149",
+      "regionName": "Bungo-suido",
+      "magnitude": 3.4,
+      "occurredAt": "08:11 JST 24 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 33.2,
+          "longitude": 132.4
+        },
+        "sexagesimal": {
+          "latitude": "33° 12' 00\"",
+          "longitude": "132° 24' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2020-12-24T13:27:58.198Z",
+      "url": "https://www.jma.go.jp/en/quake/20201223231451493-24081149.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "03:23 JST 24 Dec 2020",
+      "uuid": "20201223182300493-24031915",
+      "regionName": "Kyoto-fu Nambu",
+      "magnitude": 3.1,
+      "occurredAt": "03:18 JST 24 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 35.1,
+          "longitude": 135.7
+        },
+        "sexagesimal": {
+          "latitude": "35° 06' 00\"",
+          "longitude": "135° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:27:58.983Z",
+      "url": "https://www.jma.go.jp/en/quake/20201223182300493-24031915.html"
+    },
+    {
+      "maxIntensity": "3",
+      "issuedAt": "02:59 JST 24 Dec 2020",
+      "uuid": "20201223175946493-24025558",
+      "regionName": "Mie-ken Nambu",
+      "magnitude": 3.7,
+      "occurredAt": "02:55 JST 24 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.3,
+          "longitude": 136.1
+        },
+        "sexagesimal": {
+          "latitude": "34° 18' 00\"",
+          "longitude": "136° 06' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2020-12-24T13:27:59.956Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Nara",
+          "intensity": "3",
+          "city": "Yoshino-cho"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Nara-ken"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20201223175946493-24025558.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "22:11 JST 23 Dec 2020",
+      "uuid": "20201223131144393-23220844",
+      "regionName": "Miyagi-ken Oki",
+      "magnitude": 4.1,
+      "occurredAt": "22:08 JST 23 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 38.9,
+          "longitude": 142.6
+        },
+        "sexagesimal": {
+          "latitude": "38° 54' 00\"",
+          "longitude": "142° 36' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2020-12-24T13:28:00.726Z",
+      "url": "https://www.jma.go.jp/en/quake/20201223131144393-23220844.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "09:06 JST 23 Dec 2020",
+      "uuid": "20201223000609393-23090306",
+      "regionName": "Ibaraki-ken Oki",
+      "magnitude": 3.5,
+      "occurredAt": "09:03 JST 23 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 36.6,
+          "longitude": 141
+        },
+        "sexagesimal": {
+          "latitude": "36° 36' 00\"",
+          "longitude": "141° 00' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2020-12-24T13:28:01.514Z",
+      "url": "https://www.jma.go.jp/en/quake/20201223000609393-23090306.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "06:37 JST 23 Dec 2020",
+      "uuid": "20201222213755393-23063447",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 1.9,
+      "occurredAt": "06:34 JST 23 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.2
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 12' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2020-12-24T13:28:02.107Z",
+      "url": "https://www.jma.go.jp/en/quake/20201222213755393-23063447.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "03:28 JST 23 Dec 2020",
+      "uuid": "20201222182817493-23032445",
+      "regionName": "Amami-oshima Hokusei-oki",
+      "magnitude": 4.8,
+      "occurredAt": "03:24 JST 23 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 29.4,
+          "longitude": 128.6
+        },
+        "sexagesimal": {
+          "latitude": "29° 24' 00\"",
+          "longitude": "128° 36' 00\""
+        },
+        "depth": 20
+      },
+      "lastUpdate": "2020-12-24T13:28:02.879Z",
+      "url": "https://www.jma.go.jp/en/quake/20201222182817493-23032445.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "02:08 JST 23 Dec 2020",
+      "uuid": "20201222170853393-23020408",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4.2,
+      "occurredAt": "02:04 JST 23 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 37.2,
+          "longitude": 141.3
+        },
+        "sexagesimal": {
+          "latitude": "37° 12' 00\"",
+          "longitude": "141° 18' 00\""
+        },
+        "depth": 20
+      },
+      "lastUpdate": "2020-12-24T13:28:03.488Z",
+      "url": "https://www.jma.go.jp/en/quake/20201222170853393-23020408.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "16:33 JST 22 Dec 2020",
+      "uuid": "20201222073331393-22163059",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.6,
+      "occurredAt": "16:30 JST 22 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:04.056Z",
+      "url": "https://www.jma.go.jp/en/quake/20201222073331393-22163059.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "11:54 JST 22 Dec 2020",
+      "uuid": "20201222025454393-22115204",
+      "regionName": "Gifu-ken Hida-chiho",
+      "magnitude": 2.4,
+      "occurredAt": "11:52 JST 22 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 36.2,
+          "longitude": 137.5
+        },
+        "sexagesimal": {
+          "latitude": "36° 12' 00\"",
+          "longitude": "137° 30' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:04.637Z",
+      "url": "https://www.jma.go.jp/en/quake/20201222025454393-22115204.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "01:31 JST 22 Dec 2020",
+      "uuid": "20201221163130393-22012850",
+      "regionName": "Fukushima-ken Hamadori",
+      "magnitude": 3.3,
+      "occurredAt": "01:28 JST 22 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 37.4,
+          "longitude": 140.9
+        },
+        "sexagesimal": {
+          "latitude": "37° 24' 00\"",
+          "longitude": "140° 54' 00\""
+        },
+        "depth": 70
+      },
+      "lastUpdate": "2020-12-24T13:28:05.384Z",
+      "url": "https://www.jma.go.jp/en/quake/20201221163130393-22012850.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "00:44 JST 22 Dec 2020",
+      "uuid": "20201221154457393-22004142",
+      "regionName": "Tochigi-ken Hokubu",
+      "magnitude": 2.5,
+      "occurredAt": "00:41 JST 22 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 36.8,
+          "longitude": 139.6
+        },
+        "sexagesimal": {
+          "latitude": "36° 48' 00\"",
+          "longitude": "139° 36' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:06.141Z",
+      "url": "https://www.jma.go.jp/en/quake/20201221154457393-22004142.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "06:35 JST 21 Dec 2020",
+      "uuid": "20201220213511493-21063214",
+      "regionName": "Kumamoto-ken Kumamoto-chiho",
+      "magnitude": 2.8,
+      "occurredAt": "06:32 JST 21 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 32.7,
+          "longitude": 130.7
+        },
+        "sexagesimal": {
+          "latitude": "32° 42' 00\"",
+          "longitude": "130° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:06.886Z",
+      "url": "https://www.jma.go.jp/en/quake/20201220213511493-21063214.html"
+    },
+    {
+      "maxIntensity": "5 Lower",
+      "issuedAt": "02:28 JST 21 Dec 2020",
+      "uuid": "20201220172819393-21022329",
+      "regionName": "Aomori-ken Toho-oki",
+      "magnitude": 6.3,
+      "occurredAt": "02:23 JST 21 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 40.7,
+          "longitude": 142.7
+        },
+        "sexagesimal": {
+          "latitude": "40° 42' 00\"",
+          "longitude": "142° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:07.471Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Iwate",
+          "intensity": "5 Lower",
+          "city": "Morioka-shi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "4",
+          "city": "Ninohe-shi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "4",
+          "city": "Hachimantai-shi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "4",
+          "city": "Takizawa-shi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "4",
+          "city": "Iwate-machi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "4",
+          "city": "Yahaba-cho"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "4",
+          "city": "Karumai-machi"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "4",
+          "city": "Hakodate-shi"
+        },
+        {
+          "prefecture": "Aomori",
+          "intensity": "4",
+          "city": "Hachinohe-shi"
+        },
+        {
+          "prefecture": "Aomori",
+          "intensity": "4",
+          "city": "Towada-shi"
+        },
+        {
+          "prefecture": "Aomori",
+          "intensity": "4",
+          "city": "Misawa-shi"
+        },
+        {
+          "prefecture": "Aomori",
+          "intensity": "4",
+          "city": "Noheji-machi"
+        },
+        {
+          "prefecture": "Aomori",
+          "intensity": "4",
+          "city": "Shichinohe-machi"
+        },
+        {
+          "prefecture": "Aomori",
+          "intensity": "4",
+          "city": "Rokunohe-machi"
+        },
+        {
+          "prefecture": "Aomori",
+          "intensity": "4",
+          "city": "Tohoku-machi"
+        },
+        {
+          "prefecture": "Aomori",
+          "intensity": "4",
+          "city": "Oirase-cho"
+        },
+        {
+          "prefecture": "Aomori",
+          "intensity": "4",
+          "city": "Sannohe-machi"
+        },
+        {
+          "prefecture": "Aomori",
+          "intensity": "4",
+          "city": "Gonohe-machi"
+        },
+        {
+          "prefecture": "Aomori",
+          "intensity": "4",
+          "city": "Aomori Nambu-cho"
+        },
+        {
+          "prefecture": "Aomori",
+          "intensity": "4",
+          "city": "Hashikami-cho"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "5 Lower",
+          "regionName": "Iwate-ken Nairiku-hokubu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Oshima-chiho Tobu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Aomori-ken Sampachi-Kamikita"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Ishikari-chiho Hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Oshima-chiho Seibu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Sorachi-chiho Nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Iburi-chiho Chutobu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Hidaka-chiho Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Hidaka-chiho Tobu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Aomori-ken Tsugaru-hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Aomori-ken Tsugaru-nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Aomori-ken Shimokita"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Iwate-ken Engan-hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Iwate-ken Engan-nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Iwate-ken Nairiku-nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Miyagi-ken Hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Miyagi-ken Nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Miyagi-ken Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Akita-ken Engan-hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Akita-ken Engan-nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Akita-ken Nairiku-hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Akita-ken Nairiku-nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Yamagata-ken Murayama"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Fukushima-ken Nakadori"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Fukushima-ken Hamadori"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Ibaraki-ken Hokubu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20201220172819393-21022329.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "02:07 JST 21 Dec 2020",
+      "uuid": "20201220170726393-21020418",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.5,
+      "occurredAt": "02:04 JST 21 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2020-12-24T13:28:08.418Z",
+      "url": "https://www.jma.go.jp/en/quake/20201220170726393-21020418.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "01:28 JST 21 Dec 2020",
+      "uuid": "20201220162843393-21012528",
+      "regionName": "Hidaka-chiho Tobu",
+      "magnitude": 4.3,
+      "occurredAt": "01:25 JST 21 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 42.2,
+          "longitude": 142.7
+        },
+        "sexagesimal": {
+          "latitude": "42° 12' 00\"",
+          "longitude": "142° 42' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2020-12-24T13:28:09.176Z",
+      "url": "https://www.jma.go.jp/en/quake/20201220162843393-21012528.html"
+    },
+    {
+      "maxIntensity": "3",
+      "issuedAt": "00:42 JST 21 Dec 2020",
+      "uuid": "20201220154231393-21003912",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 4.2,
+      "occurredAt": "00:39 JST 21 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:09.935Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Tokyo",
+          "intensity": "3",
+          "city": "Tokyo Toshima-mura"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Niijima-Kozushima"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20201220154231393-21003912.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "23:58 JST 20 Dec 2020",
+      "uuid": "20201220145853393-20235618",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.5,
+      "occurredAt": "23:56 JST 20 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:10.698Z",
+      "url": "https://www.jma.go.jp/en/quake/20201220145853393-20235618.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "22:50 JST 20 Dec 2020",
+      "uuid": "20201220135036493-20224800",
+      "regionName": "Osaka-fu Nambu",
+      "magnitude": 2.7,
+      "occurredAt": "22:48 JST 20 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.3,
+          "longitude": 135.2
+        },
+        "sexagesimal": {
+          "latitude": "34° 18' 00\"",
+          "longitude": "135° 12' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:11.323Z",
+      "url": "https://www.jma.go.jp/en/quake/20201220135036493-20224800.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "21:25 JST 20 Dec 2020",
+      "uuid": "20201220122544493-20212239",
+      "regionName": "Wakayama-ken Hokubu",
+      "magnitude": 2.7,
+      "occurredAt": "21:22 JST 20 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.2,
+          "longitude": 135.2
+        },
+        "sexagesimal": {
+          "latitude": "34° 12' 00\"",
+          "longitude": "135° 12' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:12.254Z",
+      "url": "https://www.jma.go.jp/en/quake/20201220122544493-20212239.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "20:55 JST 20 Dec 2020",
+      "uuid": "20201220115500393-20205222",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.6,
+      "occurredAt": "20:52 JST 20 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:12.864Z",
+      "url": "https://www.jma.go.jp/en/quake/20201220115500393-20205222.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "18:38 JST 20 Dec 2020",
+      "uuid": "20201220093851393-20183554",
+      "regionName": "Miyagi-ken Oki",
+      "magnitude": 4.5,
+      "occurredAt": "18:35 JST 20 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 38.7,
+          "longitude": 142.3
+        },
+        "sexagesimal": {
+          "latitude": "38° 42' 00\"",
+          "longitude": "142° 18' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2020-12-24T13:28:13.625Z",
+      "url": "https://www.jma.go.jp/en/quake/20201220093851393-20183554.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "16:50 JST 20 Dec 2020",
+      "uuid": "20201220075001393-20164736",
+      "regionName": "Nagano-ken Nambu",
+      "magnitude": 2.6,
+      "occurredAt": "16:47 JST 20 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 35.8,
+          "longitude": 137.7
+        },
+        "sexagesimal": {
+          "latitude": "35° 48' 00\"",
+          "longitude": "137° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:14.359Z",
+      "url": "https://www.jma.go.jp/en/quake/20201220075001393-20164736.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "04:19 JST 20 Dec 2020",
+      "uuid": "20201219191903493-20041539",
+      "regionName": "Kumamoto-ken Kumamoto-chiho",
+      "magnitude": 2,
+      "occurredAt": "04:15 JST 20 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 32.6,
+          "longitude": 130.7
+        },
+        "sexagesimal": {
+          "latitude": "32° 36' 00\"",
+          "longitude": "130° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:15.091Z",
+      "url": "https://www.jma.go.jp/en/quake/20201219191903493-20041539.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "01:35 JST 20 Dec 2020",
+      "uuid": "20201219163500393-20013153",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.5,
+      "occurredAt": "01:31 JST 20 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:15.857Z",
+      "url": "https://www.jma.go.jp/en/quake/20201219163500393-20013153.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "00:11 JST 20 Dec 2020",
+      "uuid": "20201219151139493-20000819",
+      "regionName": "Wakayama-ken Hokubu",
+      "magnitude": 2,
+      "occurredAt": "00:08 JST 20 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.2,
+          "longitude": 135.2
+        },
+        "sexagesimal": {
+          "latitude": "34° 12' 00\"",
+          "longitude": "135° 12' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2020-12-24T13:28:16.443Z",
+      "url": "https://www.jma.go.jp/en/quake/20201219151139493-20000819.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "20:34 JST 19 Dec 2020",
+      "uuid": "20201219113414393-19203132",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 3.1,
+      "occurredAt": "20:31 JST 19 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:17.030Z",
+      "url": "https://www.jma.go.jp/en/quake/20201219113414393-19203132.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "20:06 JST 19 Dec 2020",
+      "uuid": "20201219110657393-19200332",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.5,
+      "occurredAt": "20:03 JST 19 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:17.637Z",
+      "url": "https://www.jma.go.jp/en/quake/20201219110657393-19200332.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "16:08 JST 19 Dec 2020",
+      "uuid": "20201219070823493-19160500",
+      "regionName": "Amami-oshima Kinkai",
+      "magnitude": 4.4,
+      "occurredAt": "16:05 JST 19 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 27.7,
+          "longitude": 129.9
+        },
+        "sexagesimal": {
+          "latitude": "27° 42' 00\"",
+          "longitude": "129° 54' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:18.213Z",
+      "url": "https://www.jma.go.jp/en/quake/20201219070823493-19160500.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "12:28 JST 19 Dec 2020",
+      "uuid": "20201219032810393-19122455",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.1,
+      "occurredAt": "12:24 JST 19 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:19.002Z",
+      "url": "https://www.jma.go.jp/en/quake/20201219032810393-19122455.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "11:50 JST 19 Dec 2020",
+      "uuid": "20201219025042393-19114757",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.1,
+      "occurredAt": "11:47 JST 19 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.3,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 18' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:19.756Z",
+      "url": "https://www.jma.go.jp/en/quake/20201219025042393-19114757.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "11:28 JST 19 Dec 2020",
+      "uuid": "20201219022805393-19112508",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.6,
+      "occurredAt": "11:25 JST 19 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:20.348Z",
+      "url": "https://www.jma.go.jp/en/quake/20201219022805393-19112508.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "10:35 JST 19 Dec 2020",
+      "uuid": "20201219013520393-19103247",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 3,
+      "occurredAt": "10:32 JST 19 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:20.917Z",
+      "url": "https://www.jma.go.jp/en/quake/20201219013520393-19103247.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "09:02 JST 19 Dec 2020",
+      "uuid": "20201219000252493-19085948",
+      "regionName": "Hyuga-nada",
+      "magnitude": 3.5,
+      "occurredAt": "08:59 JST 19 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 32.3,
+          "longitude": 132
+        },
+        "sexagesimal": {
+          "latitude": "32° 18' 00\"",
+          "longitude": "132° 00' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2020-12-24T13:28:21.677Z",
+      "url": "https://www.jma.go.jp/en/quake/20201219000252493-19085948.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "03:12 JST 19 Dec 2020",
+      "uuid": "20201218181212393-19030918",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.3,
+      "occurredAt": "03:09 JST 19 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:22.252Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218181212393-19030918.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "01:23 JST 19 Dec 2020",
+      "uuid": "20201218162354393-19012112",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 3,
+      "occurredAt": "01:21 JST 19 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:23.047Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218162354393-19012112.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "00:14 JST 19 Dec 2020",
+      "uuid": "20201218151411393-19001045",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.2,
+      "occurredAt": "00:10 JST 19 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:23.788Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218151411393-19001045.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "00:01 JST 19 Dec 2020",
+      "uuid": "20201218150124393-18235853",
+      "regionName": "Iwate-ken Oki",
+      "magnitude": 3.4,
+      "occurredAt": "23:58 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 40.1,
+          "longitude": 142.2
+        },
+        "sexagesimal": {
+          "latitude": "40° 06' 00\"",
+          "longitude": "142° 12' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2020-12-24T13:28:24.362Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218150124393-18235853.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "22:44 JST 18 Dec 2020",
+      "uuid": "20201218134427393-18224141",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 3.3,
+      "occurredAt": "22:41 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:24.926Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218134427393-18224141.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "22:27 JST 18 Dec 2020",
+      "uuid": "20201218132756393-18222443",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.2,
+      "occurredAt": "22:24 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:25.706Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218132756393-18222443.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "22:15 JST 18 Dec 2020",
+      "uuid": "20201218131559493-18221247",
+      "regionName": "Amami-oshima Kinkai",
+      "magnitude": 3.3,
+      "occurredAt": "22:12 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 28,
+          "longitude": 129.1
+        },
+        "sexagesimal": {
+          "latitude": "28° 00' 00\"",
+          "longitude": "129° 06' 00\""
+        },
+        "depth": 20
+      },
+      "lastUpdate": "2020-12-24T13:28:26.281Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218131559493-18221247.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "22:10 JST 18 Dec 2020",
+      "uuid": "20201218131052393-18220830",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 3,
+      "occurredAt": "22:08 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:26.855Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218131052393-18220830.html"
+    },
+    {
+      "maxIntensity": "3",
+      "issuedAt": "21:42 JST 18 Dec 2020",
+      "uuid": "20201218124229393-18213909",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 3.6,
+      "occurredAt": "21:39 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:27.448Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Tokyo",
+          "intensity": "3",
+          "city": "Tokyo Toshima-mura"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Niijima-Kozushima"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20201218124229393-18213909.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "21:10 JST 18 Dec 2020",
+      "uuid": "20201218121010393-18210729",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.6,
+      "occurredAt": "21:07 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:28.021Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218121010393-18210729.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "20:43 JST 18 Dec 2020",
+      "uuid": "20201218114337393-18204055",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 3,
+      "occurredAt": "20:40 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:28.602Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218114337393-18204055.html"
+    },
+    {
+      "maxIntensity": "4",
+      "issuedAt": "20:40 JST 18 Dec 2020",
+      "uuid": "20201218114007393-18203634",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 4.7,
+      "occurredAt": "20:36 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:29.204Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Tokyo",
+          "intensity": "4",
+          "city": "Tokyo Toshima-mura"
+        },
+        {
+          "prefecture": "Tokyo",
+          "intensity": "3",
+          "city": "Niijima-mura"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "4",
+          "regionName": "Niijima-Kozushima"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20201218114007393-18203634.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "20:29 JST 18 Dec 2020",
+      "uuid": "20201218112903393-18202423",
+      "regionName": "Izu-ohshima Kinkai",
+      "magnitude": 2.5,
+      "occurredAt": "20:24 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.6,
+          "longitude": 139.2
+        },
+        "sexagesimal": {
+          "latitude": "34° 36' 00\"",
+          "longitude": "139° 12' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2020-12-24T13:28:29.768Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218112903393-18202423.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "20:26 JST 18 Dec 2020",
+      "uuid": "20201218112615393-18202310",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.5,
+      "occurredAt": "20:23 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:30.565Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218112615393-18202310.html"
+    },
+    {
+      "maxIntensity": "3",
+      "issuedAt": "20:23 JST 18 Dec 2020",
+      "uuid": "20201218112352393-18202039",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 3.4,
+      "occurredAt": "20:20 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:31.332Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Tokyo",
+          "intensity": "3",
+          "city": "Tokyo Toshima-mura"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Niijima-Kozushima"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20201218112352393-18202039.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "19:15 JST 18 Dec 2020",
+      "uuid": "20201218101508393-18191139",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.7,
+      "occurredAt": "19:11 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:31.909Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218101508393-18191139.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "18:51 JST 18 Dec 2020",
+      "uuid": "20201218095133393-18184924",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.9,
+      "occurredAt": "18:49 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:32.495Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218095133393-18184924.html"
+    },
+    {
+      "maxIntensity": "5 Lower",
+      "issuedAt": "18:13 JST 18 Dec 2020",
+      "uuid": "20201218091348393-18180943",
+      "regionName": "Izu-ohshima Kinkai",
+      "magnitude": 5.1,
+      "occurredAt": "18:09 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 34.6,
+          "longitude": 139.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 36' 00\"",
+          "longitude": "139° 18' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2020-12-24T13:28:33.449Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Tokyo",
+          "intensity": "5 Lower",
+          "city": "Tokyo Toshima-mura"
+        },
+        {
+          "prefecture": "Tokyo",
+          "intensity": "4",
+          "city": "Niijima-mura"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "5 Lower",
+          "regionName": "Niijima-Kozushima"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Izu-oshima"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20201218091348393-18180943.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "14:27 JST 18 Dec 2020",
+      "uuid": "20201218052726493-18142415",
+      "regionName": "Hyuga-nada",
+      "magnitude": 3.7,
+      "occurredAt": "14:24 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 31.8,
+          "longitude": 131.9
+        },
+        "sexagesimal": {
+          "latitude": "31° 48' 00\"",
+          "longitude": "131° 54' 00\""
+        },
+        "depth": 20
+      },
+      "lastUpdate": "2020-12-24T13:28:34.026Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "11:00 JST 18 Dec 2020",
+      "uuid": "20201218020053393-18105801",
+      "regionName": "Fukui-ken Reihoku",
+      "magnitude": 2.8,
+      "occurredAt": "10:58 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 35.9,
+          "longitude": 136.6
+        },
+        "sexagesimal": {
+          "latitude": "35° 54' 00\"",
+          "longitude": "136° 36' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:34.614Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218020053393-18105801.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "10:49 JST 18 Dec 2020",
+      "uuid": "20201218014903393-18104549",
+      "regionName": "Fukui-ken Reihoku",
+      "magnitude": 2.8,
+      "occurredAt": "10:46 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 35.9,
+          "longitude": 136.6
+        },
+        "sexagesimal": {
+          "latitude": "35° 54' 00\"",
+          "longitude": "136° 36' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:35.201Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218014903393-18104549.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "10:06 JST 18 Dec 2020",
+      "uuid": "20201218010622393-18100320",
+      "regionName": "Fukui-ken Reihoku",
+      "magnitude": 3.1,
+      "occurredAt": "10:03 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 35.9,
+          "longitude": 136.6
+        },
+        "sexagesimal": {
+          "latitude": "35° 54' 00\"",
+          "longitude": "136° 36' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T13:28:35.790Z",
+      "url": "https://www.jma.go.jp/en/quake/20201218010622393-18100320.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "08:06 JST 18 Dec 2020",
+      "uuid": "20201217230635393-18080325",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4,
+      "occurredAt": "08:03 JST 18 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 36.9,
+          "longitude": 141.1
+        },
+        "sexagesimal": {
+          "latitude": "36° 54' 00\"",
+          "longitude": "141° 06' 00\""
+        },
+        "depth": 90
+      },
+      "lastUpdate": "2020-12-24T13:28:36.540Z",
+      "url": "https://www.jma.go.jp/en/quake/20201217230635393-18080325.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "06:30 JST 25 Dec 2020",
+      "uuid": "20201224213052393-25062739",
+      "regionName": "Miyagi-ken Hokubu",
+      "magnitude": 4,
+      "occurredAt": "06:27 JST 25 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 38.8,
+          "longitude": 141.5
+        },
+        "sexagesimal": {
+          "latitude": "38° 48' 00\"",
+          "longitude": "141° 30' 00\""
+        },
+        "depth": 100
+      },
+      "lastUpdate": "2020-12-24T22:45:08.090Z",
+      "url": "https://www.jma.go.jp/en/quake/20201224213052393-25062739.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "05:42 JST 25 Dec 2020",
+      "uuid": "20201224204235493-25053846",
+      "regionName": "Tanegashima Kinkai",
+      "magnitude": 4.5,
+      "occurredAt": "05:38 JST 25 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 30.8,
+          "longitude": 130.5
+        },
+        "sexagesimal": {
+          "latitude": "30° 48' 00\"",
+          "longitude": "130° 30' 00\""
+        },
+        "depth": 110
+      },
+      "lastUpdate": "2020-12-24T22:45:09.008Z",
+      "url": "https://www.jma.go.jp/en/quake/20201224204235493-25053846.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "05:38 JST 25 Dec 2020",
+      "uuid": "20201224203818393-25053514",
+      "regionName": "Nagano-ken Chubu",
+      "magnitude": 3.3,
+      "occurredAt": "05:35 JST 25 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 36.2,
+          "longitude": 137.7
+        },
+        "sexagesimal": {
+          "latitude": "36° 12' 00\"",
+          "longitude": "137° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-24T22:45:09.590Z",
+      "url": "https://www.jma.go.jp/en/quake/20201224203818393-25053514.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "04:43 JST 25 Dec 2020",
+      "uuid": "20201224194330393-25044015",
+      "regionName": "Ibaraki-ken Oki",
+      "magnitude": 3.9,
+      "occurredAt": "04:40 JST 25 Dec 2020",
+      "location": {
+        "decimal": {
+          "latitude": 36.6,
+          "longitude": 141
+        },
+        "sexagesimal": {
+          "latitude": "36° 36' 00\"",
+          "longitude": "141° 00' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2020-12-24T22:45:10.571Z",
+      "url": "https://www.jma.go.jp/en/quake/20201224194330393-25044015.html"
+    }
+  ]
+}
