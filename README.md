@@ -17,7 +17,8 @@ Please check the following GitHub Actions status to make sure you get a latest i
 
 | Name                      | Status                                                                                                         |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Update Database           | [![Update Database](https://github.com/Alex4386/japan-earthquake-volcano-archive/workflows/Update%20Database/badge.svg)](https://github.com/Alex4386/japan-earthquake-volcano-archive/actions?query=workflow%3A%22Update+Database%22) |
+| Update Database           | [![Update Database](https://github.com/Alex4386/jp-earthquake-volcano-archive/workflows/Update%20Database/badge.svg)](https://github.com/Alex4386/jp-earthquake-volcano-archive/actions?query=workflow%3A%22Update+Database%22) |
+| Update Alerts             | [![Update Alerts](https://github.com/Alex4386/jp-earthquake-volcano-archive/workflows/Update%20Alerts/badge.svg)](https://github.com/Alex4386/jp-earthquake-volcano-archive/actions?query=workflow%3A%22Update+Alerts%22) |
 
 ## License
 The Source code is distributed under [WTFPL](LICENSE).  
