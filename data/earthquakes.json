@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2020-12-26T09:46:53.257Z",
+  "lastUpdate": "2020-12-26T19:22:45.925Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2020-12-26T19:11:00.000Z",
+      "uuid": "20201226191156393-27040909",
+      "regionName": "Ibaraki-ken Oki",
+      "magnitude": 3.4,
+      "occurredAt": "2020-12-26T19:09:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.5,
+          "longitude": 140.9
+        },
+        "sexagesimal": {
+          "latitude": "36° 30' 00\"",
+          "longitude": "140° 54' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2020-12-26T19:22:26.541Z",
+      "url": "https://www.jma.go.jp/en/quake/20201226191156393-27040909.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2020-12-26T09:28:00.000Z",
