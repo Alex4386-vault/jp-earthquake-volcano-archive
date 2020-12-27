@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2020-12-27T18:13:19.918Z",
+  "lastUpdate": "2020-12-27T18:54:49.715Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2020-12-27T18:18:00.000Z",
+      "uuid": "20201227181822393-28031548",
+      "regionName": "Ishikawa-ken Seiho-oki",
+      "magnitude": 3.5,
+      "occurredAt": "2020-12-27T18:15:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37,
+          "longitude": 136.4
+        },
+        "sexagesimal": {
+          "latitude": "37° 00' 00\"",
+          "longitude": "136° 24' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-27T18:54:32.177Z",
+      "url": "https://www.jma.go.jp/en/quake/20201227181822393-28031548.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2020-12-27T17:40:00.000Z",
