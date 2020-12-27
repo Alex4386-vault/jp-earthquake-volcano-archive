@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2020-12-27T23:39:34.246Z",
+  "lastUpdate": "2020-12-28T00:42:43.557Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2020-12-27T14:19:00.000Z",
-      "uuid": "20201227141938493-27231627",
-      "regionName": "Amami-oshima Kinkai",
-      "magnitude": 2.9,
-      "occurredAt": "2020-12-27T14:16:00.000Z",
+      "maxIntensity": "2",
+      "issuedAt": "2020-12-27T15:31:00.000Z",
+      "uuid": "20201227153114393-28002826",
+      "regionName": "Tochigi-ken Nambu",
+      "magnitude": 3.3,
+      "occurredAt": "2020-12-27T15:28:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 28.3,
-          "longitude": 129.5
+          "latitude": 36.4,
+          "longitude": 139.5
         },
         "sexagesimal": {
-          "latitude": "28° 18' 00\"",
-          "longitude": "129° 30' 00\""
+          "latitude": "36° 24' 00\"",
+          "longitude": "139° 30' 00\""
         },
-        "depth": 30
+        "depth": 10
       },
-      "lastUpdate": "2020-12-27T14:39:16.628Z",
-      "url": "https://www.jma.go.jp/en/quake/20201227141938493-27231627.html"
+      "lastUpdate": "2020-12-27T15:42:22.677Z",
+      "url": "https://www.jma.go.jp/en/quake/20201227153114393-28002826.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202012272339.md"
+  "reportFile": "202012280042.md"
 }
