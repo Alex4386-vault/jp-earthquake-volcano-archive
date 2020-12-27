@@ -28,7 +28,7 @@ You can check `updates.json` to check when it was last synchornized.
 
 ## Human Readable Data
 Human readable reports (in English) is available at: [reports/](reports/).  
-Most Latest Report is available at: [reports/latest.json](reports/latest.json).
+Most Latest Report is available at: [reports/latest.md](reports/latest.md).
 ## License
 The Source code is distributed under [WTFPL](LICENSE).  
   
