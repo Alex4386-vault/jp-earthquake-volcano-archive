@@ -69,3 +69,12 @@ export function saveJSON(fileName: string, data: unknown): void {
 export function saveReportFile(fileName: string, data: string): void {
   fs.writeFileSync('./reports/' + fileName, data);
 }
+
+const latestReportFile = './reports/latest.md';
+
+export function saveLatestReport(data: string): void {
+  if (fs.existsSync(latestReportFile)) {
+    fs.unlinkSync(latestReportFile);
+  }
+  fs.writeFileSync(latestReportFile, data);
+}

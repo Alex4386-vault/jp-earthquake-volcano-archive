@@ -1,5 +1,5 @@
 import { convertDateToHumanStrings, getMapLink } from './common';
-import { saveReportFile } from './common/fileSystem';
+import { saveLatestReport, saveReportFile } from './common/fileSystem';
 import { UpdateModel } from './update';
 
 export function createReportFile(updates: UpdateModel): void {
@@ -73,4 +73,5 @@ ${humanTime.ymdString} ${humanTime.timeString} ${
   }
 
   saveReportFile(humanTime.fileSafeString + '.md', markdown);
+  saveLatestReport(markdown);
 }
