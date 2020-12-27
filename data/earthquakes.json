@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2020-12-27T11:50:51.638Z",
+  "lastUpdate": "2020-12-27T14:39:34.245Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2020-12-27T14:19:00.000Z",
+      "uuid": "20201227141938493-27231627",
+      "regionName": "Amami-oshima Kinkai",
+      "magnitude": 2.9,
+      "occurredAt": "2020-12-27T14:16:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 28.3,
+          "longitude": 129.5
+        },
+        "sexagesimal": {
+          "latitude": "28° 18' 00\"",
+          "longitude": "129° 30' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2020-12-27T14:39:16.628Z",
+      "url": "https://www.jma.go.jp/en/quake/20201227141938493-27231627.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2020-12-27T11:41:00.000Z",

@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2020-12-27T20:50:51.640Z",
+  "lastUpdate": "2020-12-27T23:39:34.246Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2020-12-27T11:41:00.000Z",
-      "uuid": "20201227114132393-27203854",
-      "regionName": "Miyakejima Kinkai",
-      "magnitude": 2.7,
-      "occurredAt": "2020-12-27T11:38:00.000Z",
+      "issuedAt": "2020-12-27T14:19:00.000Z",
+      "uuid": "20201227141938493-27231627",
+      "regionName": "Amami-oshima Kinkai",
+      "magnitude": 2.9,
+      "occurredAt": "2020-12-27T14:16:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 34.1,
-          "longitude": 139.4
+          "latitude": 28.3,
+          "longitude": 129.5
         },
         "sexagesimal": {
-          "latitude": "34° 06' 00\"",
-          "longitude": "139° 24' 00\""
+          "latitude": "28° 18' 00\"",
+          "longitude": "129° 30' 00\""
         },
-        "depth": 10
+        "depth": 30
       },
-      "lastUpdate": "2020-12-27T11:50:32.288Z",
-      "url": "https://www.jma.go.jp/en/quake/20201227114132393-27203854.html"
+      "lastUpdate": "2020-12-27T14:39:16.628Z",
+      "url": "https://www.jma.go.jp/en/quake/20201227141938493-27231627.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202012272050.md"
+  "reportFile": "202012272339.md"
 }
