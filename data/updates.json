@@ -1,26 +1,26 @@
 {
-  "lastUpdate": "2020-12-26T19:22:45.927Z",
+  "lastUpdate": "2020-12-27T04:00:30.522Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2020-12-26T19:11:00.000Z",
-      "uuid": "20201226191156393-27040909",
-      "regionName": "Ibaraki-ken Oki",
-      "magnitude": 3.4,
-      "occurredAt": "2020-12-26T19:09:00.000Z",
+      "issuedAt": "2020-12-27T03:55:00.000Z",
+      "uuid": "20201227035546393-27125306",
+      "regionName": "Nagano-ken Nambu",
+      "magnitude": 2.5,
+      "occurredAt": "2020-12-27T03:53:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 36.5,
-          "longitude": 140.9
+          "latitude": 35.9,
+          "longitude": 137.7
         },
         "sexagesimal": {
-          "latitude": "36° 30' 00\"",
-          "longitude": "140° 54' 00\""
+          "latitude": "35° 54' 00\"",
+          "longitude": "137° 42' 00\""
         },
-        "depth": 50
+        "depth": 10
       },
-      "lastUpdate": "2020-12-26T19:22:26.541Z",
-      "url": "https://www.jma.go.jp/en/quake/20201226191156393-27040909.html"
+      "lastUpdate": "2020-12-27T04:00:11.006Z",
+      "url": "https://www.jma.go.jp/en/quake/20201227035546393-27125306.html"
     }
   ],
   "volcanoes": []
