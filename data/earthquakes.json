@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2020-12-27T04:00:30.520Z",
+  "lastUpdate": "2020-12-27T11:50:51.638Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2020-12-27T11:41:00.000Z",
+      "uuid": "20201227114132393-27203854",
+      "regionName": "Miyakejima Kinkai",
+      "magnitude": 2.7,
+      "occurredAt": "2020-12-27T11:38:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.1,
+          "longitude": 139.4
+        },
+        "sexagesimal": {
+          "latitude": "34° 06' 00\"",
+          "longitude": "139° 24' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-27T11:50:32.288Z",
+      "url": "https://www.jma.go.jp/en/quake/20201227114132393-27203854.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2020-12-27T03:55:00.000Z",
