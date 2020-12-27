@@ -5564,6 +5564,27 @@
               }
             }
           }
+        },
+        {
+          "issuedTo": "Suwanosejima",
+          "issuedAt": "2020-12-27T17:56:00.000Z",
+          "data": {
+            "raw": {
+              "keyword": "Level 3 (Do not approach the volcano)",
+              "code": "Near-crater warning",
+              "info": {
+                "contents": "Suwanosejima Volcanic Warning (Near the crater)\n02:56 JST, 28 December 2020\n\nNear-crater Warning (Level 3, Do not approach the volcano) issued for Suwanosejima.\nVolcanic Alert Level upgraded from 2 to 3.\n\nRefrain from entering the danger zone in the following local municipalities.\nKagoshima:Toshima-mura\n** (Reference : Description of Volcanic Alert Levels) **\nLevel 5 (Evacuate) : Evacuate from the danger zone.\nLevel 4 (Prepare to evacuate) : Prepare to evacuate from alert areas. Have disabled people evacuate.\nLevel 3 (Do not approach the volcano) : Refrain from entering the danger zone. (Target areas are determined in line with current volcanic activity.)\nLevel 2 (Do not approach the crater) : Refrain from approaching the crater.\nLevel 1 (Potential for increased activity)\n\n\n",
+                "link": "https://www.jma.go.jp/en/volcano/forecast_05_20201227175653.html"
+              }
+            },
+            "parsed": {
+              "type": "volcano",
+              "alert": {
+                "type": "volcanicAlert",
+                "level": 3
+              }
+            }
+          }
         }
       ],
       "lastUpdate": "2020-12-25T13:36:34.625Z"
