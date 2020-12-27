@@ -16,6 +16,7 @@ export interface UpdateModel {
   volcanoes: VolcanoModel[];
   earthquakes: EarthquakeData[];
   lastUpdate: Date;
+  reportFile?: string;
 }
 
 export async function updateEarthquakes(): Promise<EarthquakeData[]> {
