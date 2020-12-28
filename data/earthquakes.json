@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2020-12-28T05:23:36.079Z",
+  "lastUpdate": "2020-12-28T09:34:43.073Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2020-12-28T09:28:00.000Z",
+      "uuid": "20201228092851493-28182546",
+      "regionName": "Okinawa-honto Kinkai",
+      "magnitude": 2.6,
+      "occurredAt": "2020-12-28T09:25:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 27.1,
+          "longitude": 127.9
+        },
+        "sexagesimal": {
+          "latitude": "27° 06' 00\"",
+          "longitude": "127° 54' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-28T09:34:26.307Z",
+      "url": "https://www.jma.go.jp/en/quake/20201228092851493-28182546.html"
+    },
     {
       "maxIntensity": "2",
       "issuedAt": "2020-12-28T05:20:00.000Z",
