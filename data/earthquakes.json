@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2020-12-28T19:36:14.944Z",
+  "lastUpdate": "2020-12-29T08:21:53.639Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2020-12-29T08:11:00.000Z",
+      "uuid": "20201229081151393-29170859",
+      "regionName": "Urakawa Oki",
+      "magnitude": 3.5,
+      "occurredAt": "2020-12-29T08:09:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 41.6,
+          "longitude": 142.1
+        },
+        "sexagesimal": {
+          "latitude": "41° 36' 00\"",
+          "longitude": "142° 06' 00\""
+        },
+        "depth": 70
+      },
+      "lastUpdate": "2020-12-29T08:21:35.031Z",
+      "url": "https://www.jma.go.jp/en/quake/20201229081151393-29170859.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2020-12-28T19:28:00.000Z",

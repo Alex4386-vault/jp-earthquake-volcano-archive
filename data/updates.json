@@ -1,49 +1,28 @@
 {
-  "lastUpdate": "2020-12-29T04:36:14.946Z",
+  "lastUpdate": "2020-12-29T17:21:53.642Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2020-12-28T19:28:00.000Z",
-      "uuid": "20201228192850393-29042415",
-      "regionName": "Wakayama-ken Nampo-oki",
-      "magnitude": 4.4,
-      "occurredAt": "2020-12-28T19:24:00.000Z",
+      "issuedAt": "2020-12-29T08:11:00.000Z",
+      "uuid": "20201229081151393-29170859",
+      "regionName": "Urakawa Oki",
+      "magnitude": 3.5,
+      "occurredAt": "2020-12-29T08:09:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 33.1,
-          "longitude": 135.8
+          "latitude": 41.6,
+          "longitude": 142.1
         },
         "sexagesimal": {
-          "latitude": "33° 06' 00\"",
-          "longitude": "135° 48' 00\""
+          "latitude": "41° 36' 00\"",
+          "longitude": "142° 06' 00\""
         },
-        "depth": 440
+        "depth": 70
       },
-      "lastUpdate": "2020-12-28T19:35:57.112Z",
-      "url": "https://www.jma.go.jp/en/quake/20201228192850393-29042415.html"
-    },
-    {
-      "maxIntensity": "1",
-      "issuedAt": "2020-12-28T19:23:00.000Z",
-      "uuid": "20201228192302393-29041953",
-      "regionName": "Ibaraki-ken Nambu",
-      "magnitude": 2.8,
-      "occurredAt": "2020-12-28T19:19:00.000Z",
-      "location": {
-        "decimal": {
-          "latitude": 36.1,
-          "longitude": 139.9
-        },
-        "sexagesimal": {
-          "latitude": "36° 06' 00\"",
-          "longitude": "139° 54' 00\""
-        },
-        "depth": 40
-      },
-      "lastUpdate": "2020-12-28T19:35:57.842Z",
-      "url": "https://www.jma.go.jp/en/quake/20201228192302393-29041953.html"
+      "lastUpdate": "2020-12-29T08:21:35.031Z",
+      "url": "https://www.jma.go.jp/en/quake/20201229081151393-29170859.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202012290436.md"
+  "reportFile": "202012291721.md"
 }
