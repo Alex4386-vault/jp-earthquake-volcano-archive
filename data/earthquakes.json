@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2020-12-30T09:02:14.498Z",
+  "lastUpdate": "2020-12-30T19:19:12.745Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2020-12-30T19:14:00.000Z",
+      "uuid": "20201230191456493-31041214",
+      "regionName": "Kumamoto-ken Aso-chiho",
+      "magnitude": 2.7,
+      "occurredAt": "2020-12-30T19:12:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 32.9,
+          "longitude": 131
+        },
+        "sexagesimal": {
+          "latitude": "32° 54' 00\"",
+          "longitude": "131° 00' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-30T19:18:57.897Z",
+      "url": "https://www.jma.go.jp/en/quake/20201230191456493-31041214.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2020-12-30T08:23:00.000Z",
