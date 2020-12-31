@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2020-12-31T00:56:30.955Z",
+  "lastUpdate": "2020-12-31T14:55:20.682Z",
   "data": [
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2020-12-31T14:48:00.000Z",
+      "uuid": "20201231144827393-31234545",
+      "regionName": "Kushiro Oki",
+      "magnitude": 3.8,
+      "occurredAt": "2020-12-31T14:45:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 43,
+          "longitude": 145.4
+        },
+        "sexagesimal": {
+          "latitude": "43° 00' 00\"",
+          "longitude": "145° 24' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2020-12-31T14:55:03.854Z",
+      "url": "https://www.jma.go.jp/en/quake/20201231144827393-31234545.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2020-12-31T00:28:00.000Z",
