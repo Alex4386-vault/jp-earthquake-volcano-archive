@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "2021-01-01T02:37:18.697Z",
+  "lastUpdate": "2021-01-01T03:22:54.216Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2020-12-31T17:30:00.000Z",
-      "uuid": "20201231173022393-01022708",
+      "issuedAt": "2020-12-31T18:20:00.000Z",
+      "uuid": "20201231182040393-01031733",
       "regionName": "Niijima-Kozushima Kinkai",
-      "magnitude": 2.6,
-      "occurredAt": "2020-12-31T17:27:00.000Z",
+      "magnitude": 2.4,
+      "occurredAt": "2020-12-31T18:17:00.000Z",
       "location": {
         "decimal": {
           "latitude": 34.5,
@@ -19,70 +19,10 @@
         },
         "depth": 10
       },
-      "lastUpdate": "2020-12-31T17:36:59.583Z",
-      "url": "https://www.jma.go.jp/en/quake/20201231173022393-01022708.html"
-    },
-    {
-      "maxIntensity": "1",
-      "issuedAt": "2020-12-31T17:13:00.000Z",
-      "uuid": "20201231171316393-01021039",
-      "regionName": "Niijima-Kozushima Kinkai",
-      "magnitude": 2.9,
-      "occurredAt": "2020-12-31T17:10:00.000Z",
-      "location": {
-        "decimal": {
-          "latitude": 34.5,
-          "longitude": 139.3
-        },
-        "sexagesimal": {
-          "latitude": "34° 30' 00\"",
-          "longitude": "139° 18' 00\""
-        },
-        "depth": 10
-      },
-      "lastUpdate": "2020-12-31T17:37:00.607Z",
-      "url": "https://www.jma.go.jp/en/quake/20201231171316393-01021039.html"
-    },
-    {
-      "maxIntensity": "4",
-      "issuedAt": "2020-12-31T16:57:00.000Z",
-      "uuid": "20201231165738393-01015338",
-      "regionName": "Niijima-Kozushima Kinkai",
-      "magnitude": 4.7,
-      "occurredAt": "2020-12-31T16:53:00.000Z",
-      "location": {
-        "decimal": {
-          "latitude": 34.5,
-          "longitude": 139.3
-        },
-        "sexagesimal": {
-          "latitude": "34° 30' 00\"",
-          "longitude": "139° 18' 00\""
-        },
-        "depth": 10
-      },
-      "lastUpdate": "2020-12-31T17:37:01.399Z",
-      "intensityByCity": [
-        {
-          "prefecture": "Tokyo",
-          "intensity": "4",
-          "city": "Tokyo Toshima-mura"
-        },
-        {
-          "prefecture": "Tokyo",
-          "intensity": "3",
-          "city": "Niijima-mura"
-        }
-      ],
-      "intensityByRegion": [
-        {
-          "intensity": "4",
-          "regionName": "Niijima-Kozushima"
-        }
-      ],
-      "url": "https://www.jma.go.jp/en/quake/20201231165738393-01015338.html"
+      "lastUpdate": "2020-12-31T18:22:35.353Z",
+      "url": "https://www.jma.go.jp/en/quake/20201231182040393-01031733.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202001010237.md"
+  "reportFile": "202001010322.md"
 }
