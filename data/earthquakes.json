@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2020-12-30T19:19:12.745Z",
+  "lastUpdate": "2020-12-31T00:56:30.955Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2020-12-31T00:28:00.000Z",
+      "uuid": "20201231002835393-31092605",
+      "regionName": "Gumma-ken Nambu",
+      "magnitude": 2.8,
+      "occurredAt": "2020-12-31T00:26:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.3,
+          "longitude": 139.4
+        },
+        "sexagesimal": {
+          "latitude": "36° 18' 00\"",
+          "longitude": "139° 24' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2020-12-31T00:56:14.615Z",
+      "url": "https://www.jma.go.jp/en/quake/20201231002835393-31092605.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2020-12-30T19:14:00.000Z",
