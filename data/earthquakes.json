@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2020-12-31T19:17:02.091Z",
+  "lastUpdate": "2021-01-01T07:51:21.188Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-01T07:19:00.000Z",
+      "uuid": "20210101071939493-01161640",
+      "regionName": "Fukuoka-ken Chikugo-chiho",
+      "magnitude": 2.8,
+      "occurredAt": "2021-01-01T07:16:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 33,
+          "longitude": 130.4
+        },
+        "sexagesimal": {
+          "latitude": "33° 00' 00\"",
+          "longitude": "130° 24' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-01T07:51:01.644Z",
+      "url": "https://www.jma.go.jp/en/quake/20210101071939493-01161640.html"
     },
     {
       "maxIntensity": "1",
