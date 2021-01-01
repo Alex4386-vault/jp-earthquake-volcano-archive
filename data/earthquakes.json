@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-01T13:48:02.926Z",
+  "lastUpdate": "2021-01-01T22:53:32.209Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-01T22:14:00.000Z",
+      "uuid": "20210101221454393-02071207",
+      "regionName": "Iwate-ken Engan-hokubu",
+      "magnitude": 3.7,
+      "occurredAt": "2021-01-01T22:12:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 39.8,
+          "longitude": 141.8
+        },
+        "sexagesimal": {
+          "latitude": "39° 48' 00\"",
+          "longitude": "141° 48' 00\""
+        },
+        "depth": 60
+      },
+      "lastUpdate": "2021-01-01T22:53:14.506Z",
+      "url": "https://www.jma.go.jp/en/quake/20210101221454393-02071207.html"
     },
     {
       "maxIntensity": "1",
