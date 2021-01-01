@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-01T16:51:21.190Z",
+  "lastUpdate": "2021-01-01T18:03:53.378Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-01T07:19:00.000Z",
-      "uuid": "20210101071939493-01161640",
-      "regionName": "Fukuoka-ken Chikugo-chiho",
-      "magnitude": 2.8,
-      "occurredAt": "2021-01-01T07:16:00.000Z",
+      "issuedAt": "2021-01-01T08:39:00.000Z",
+      "uuid": "20210101083913393-01173654",
+      "regionName": "Miyagi-ken Oki",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-01T08:36:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 33,
-          "longitude": 130.4
+          "latitude": 38.8,
+          "longitude": 141.7
         },
         "sexagesimal": {
-          "latitude": "33° 00' 00\"",
-          "longitude": "130° 24' 00\""
+          "latitude": "38° 48' 00\"",
+          "longitude": "141° 42' 00\""
         },
-        "depth": 10
+        "depth": 70
       },
-      "lastUpdate": "2021-01-01T07:51:01.644Z",
-      "url": "https://www.jma.go.jp/en/quake/20210101071939493-01161640.html"
+      "lastUpdate": "2021-01-01T09:03:36.542Z",
+      "url": "https://www.jma.go.jp/en/quake/20210101083913393-01173654.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101011651.md"
+  "reportFile": "202101011803.md"
 }
