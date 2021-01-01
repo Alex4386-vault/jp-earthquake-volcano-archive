@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-01T09:03:53.375Z",
+  "lastUpdate": "2021-01-01T13:48:02.926Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-01T13:13:00.000Z",
+      "uuid": "20210101131319393-01221055",
+      "regionName": "Hokkaido Nansei-oki",
+      "magnitude": 3.6,
+      "occurredAt": "2021-01-01T13:10:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 42.6,
+          "longitude": 139.1
+        },
+        "sexagesimal": {
+          "latitude": "42° 36' 00\"",
+          "longitude": "139° 06' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-01T13:47:44.882Z",
+      "url": "https://www.jma.go.jp/en/quake/20210101131319393-01221055.html"
     },
     {
       "maxIntensity": "1",
