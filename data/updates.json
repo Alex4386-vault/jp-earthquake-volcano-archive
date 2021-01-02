@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-02T09:55:22.202Z",
+  "lastUpdate": "2021-01-02T14:59:48.584Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-02T00:28:00.000Z",
-      "uuid": "20210102002841493-02092545",
-      "regionName": "Kumamoto-ken Kumamoto-chiho",
-      "magnitude": 2.4,
-      "occurredAt": "2021-01-02T00:25:00.000Z",
+      "issuedAt": "2021-01-02T05:54:00.000Z",
+      "uuid": "20210102055420393-02145131",
+      "regionName": "Iwate-ken Oki",
+      "magnitude": 3.7,
+      "occurredAt": "2021-01-02T05:51:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 32.7,
-          "longitude": 130.7
+          "latitude": 39,
+          "longitude": 142.3
         },
         "sexagesimal": {
-          "latitude": "32° 42' 00\"",
-          "longitude": "130° 42' 00\""
+          "latitude": "39° 00' 00\"",
+          "longitude": "142° 18' 00\""
         },
-        "depth": 10
+        "depth": 40
       },
-      "lastUpdate": "2021-01-02T00:54:47.963Z",
-      "url": "https://www.jma.go.jp/en/quake/20210102002841493-02092545.html"
+      "lastUpdate": "2021-01-02T05:59:30.711Z",
+      "url": "https://www.jma.go.jp/en/quake/20210102055420393-02145131.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101020955.md"
+  "reportFile": "202101021459.md"
 }
