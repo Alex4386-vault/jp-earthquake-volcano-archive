@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-02T13:47:17.234Z",
+  "lastUpdate": "2021-01-02T16:32:44.252Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-02T16:07:00.000Z",
+      "uuid": "20210102160750493-03010503",
+      "regionName": "Hyogo-ken Nantobu",
+      "magnitude": 2.9,
+      "occurredAt": "2021-01-02T16:05:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.9,
+          "longitude": 135.4
+        },
+        "sexagesimal": {
+          "latitude": "34° 54' 00\"",
+          "longitude": "135° 24' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-02T16:32:25.556Z",
+      "url": "https://www.jma.go.jp/en/quake/20210102160750493-03010503.html"
     },
     {
       "maxIntensity": "2",
