@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-02T14:59:48.584Z",
+  "lastUpdate": "2021-01-02T16:06:00.754Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-01-02T05:54:00.000Z",
-      "uuid": "20210102055420393-02145131",
-      "regionName": "Iwate-ken Oki",
-      "magnitude": 3.7,
-      "occurredAt": "2021-01-02T05:51:00.000Z",
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-02T06:38:00.000Z",
+      "uuid": "20210102063832393-02153538",
+      "regionName": "Gifu-ken Mino-tobu",
+      "magnitude": 2.8,
+      "occurredAt": "2021-01-02T06:35:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 39,
-          "longitude": 142.3
+          "latitude": 35.4,
+          "longitude": 137
         },
         "sexagesimal": {
-          "latitude": "39° 00' 00\"",
-          "longitude": "142° 18' 00\""
+          "latitude": "35° 24' 00\"",
+          "longitude": "137° 00' 00\""
         },
-        "depth": 40
+        "depth": 10
       },
-      "lastUpdate": "2021-01-02T05:59:30.711Z",
-      "url": "https://www.jma.go.jp/en/quake/20210102055420393-02145131.html"
+      "lastUpdate": "2021-01-02T07:05:43.032Z",
+      "url": "https://www.jma.go.jp/en/quake/20210102063832393-02153538.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101021459.md"
+  "reportFile": "202101021606.md"
 }

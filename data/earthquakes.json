@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-02T05:59:48.582Z",
+  "lastUpdate": "2021-01-02T07:06:00.751Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-02T06:38:00.000Z",
+      "uuid": "20210102063832393-02153538",
+      "regionName": "Gifu-ken Mino-tobu",
+      "magnitude": 2.8,
+      "occurredAt": "2021-01-02T06:35:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 35.4,
+          "longitude": 137
+        },
+        "sexagesimal": {
+          "latitude": "35° 24' 00\"",
+          "longitude": "137° 00' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-02T07:05:43.032Z",
+      "url": "https://www.jma.go.jp/en/quake/20210102063832393-02153538.html"
     },
     {
       "maxIntensity": "1",
