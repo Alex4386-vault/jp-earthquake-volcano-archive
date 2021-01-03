@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-03T01:32:44.254Z",
+  "lastUpdate": "2021-01-03T13:30:17.645Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-02T16:07:00.000Z",
-      "uuid": "20210102160750493-03010503",
-      "regionName": "Hyogo-ken Nantobu",
-      "magnitude": 2.9,
-      "occurredAt": "2021-01-02T16:05:00.000Z",
+      "issuedAt": "2021-01-03T04:06:00.000Z",
+      "uuid": "20210103040657493-03130337",
+      "regionName": "Miyakojima Kinkai",
+      "magnitude": 3.7,
+      "occurredAt": "2021-01-03T04:03:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 34.9,
-          "longitude": 135.4
+          "latitude": 24.9,
+          "longitude": 125.7
         },
         "sexagesimal": {
-          "latitude": "34° 54' 00\"",
-          "longitude": "135° 24' 00\""
+          "latitude": "24° 54' 00\"",
+          "longitude": "125° 42' 00\""
         },
-        "depth": 10
+        "depth": 50
       },
-      "lastUpdate": "2021-01-02T16:32:25.556Z",
-      "url": "https://www.jma.go.jp/en/quake/20210102160750493-03010503.html"
+      "lastUpdate": "2021-01-03T04:29:59.338Z",
+      "url": "https://www.jma.go.jp/en/quake/20210103040657493-03130337.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101030132.md"
+  "reportFile": "202101031330.md"
 }
