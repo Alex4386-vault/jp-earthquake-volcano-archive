@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-03T16:07:13.020Z",
+  "lastUpdate": "2021-01-03T19:26:56.401Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-03T06:46:00.000Z",
-      "uuid": "20210103064613493-03154246",
-      "regionName": "Okinawa-honto Kinkai",
-      "magnitude": 4.6,
-      "occurredAt": "2021-01-03T06:42:00.000Z",
+      "issuedAt": "2021-01-03T10:02:00.000Z",
+      "uuid": "20210103100248393-03185953",
+      "regionName": "Miyagi-ken Oki",
+      "magnitude": 4,
+      "occurredAt": "2021-01-03T09:59:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 26,
-          "longitude": 128.7
+          "latitude": 38.7,
+          "longitude": 142.3
         },
         "sexagesimal": {
-          "latitude": "26° 00' 00\"",
-          "longitude": "128° 42' 00\""
+          "latitude": "38° 42' 00\"",
+          "longitude": "142° 18' 00\""
         },
-        "depth": 10
+        "depth": 40
       },
-      "lastUpdate": "2021-01-03T07:06:52.997Z",
-      "url": "https://www.jma.go.jp/en/quake/20210103064613493-03154246.html"
+      "lastUpdate": "2021-01-03T10:26:36.888Z",
+      "url": "https://www.jma.go.jp/en/quake/20210103100248393-03185953.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101031607.md"
+  "reportFile": "202101031926.md"
 }
