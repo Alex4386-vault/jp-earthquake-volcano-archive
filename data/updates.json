@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-03T14:49:45.739Z",
+  "lastUpdate": "2021-01-03T16:07:13.020Z",
   "earthquakes": [
     {
-      "maxIntensity": "2",
-      "issuedAt": "2021-01-03T05:28:00.000Z",
-      "uuid": "20210103052800493-03142431",
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-03T06:46:00.000Z",
+      "uuid": "20210103064613493-03154246",
       "regionName": "Okinawa-honto Kinkai",
-      "magnitude": 4.9,
-      "occurredAt": "2021-01-03T05:24:00.000Z",
+      "magnitude": 4.6,
+      "occurredAt": "2021-01-03T06:42:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 25.9,
+          "latitude": 26,
           "longitude": 128.7
         },
         "sexagesimal": {
-          "latitude": "25° 54' 00\"",
+          "latitude": "26° 00' 00\"",
           "longitude": "128° 42' 00\""
         },
         "depth": 10
       },
-      "lastUpdate": "2021-01-03T05:49:26.732Z",
-      "url": "https://www.jma.go.jp/en/quake/20210103052800493-03142431.html"
+      "lastUpdate": "2021-01-03T07:06:52.997Z",
+      "url": "https://www.jma.go.jp/en/quake/20210103064613493-03154246.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101031449.md"
+  "reportFile": "202101031607.md"
 }
