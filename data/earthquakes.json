@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-05T08:03:55.582Z",
+  "lastUpdate": "2021-01-06T19:18:04.690Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-06T19:16:00.000Z",
+      "uuid": "20210106191649393-07041331",
+      "regionName": "Sanriku Oki",
+      "magnitude": 4.4,
+      "occurredAt": "2021-01-06T19:13:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 39.8,
+          "longitude": 143.7
+        },
+        "sexagesimal": {
+          "latitude": "39° 48' 00\"",
+          "longitude": "143° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-06T19:17:51.005Z",
+      "url": "https://www.jma.go.jp/en/quake/20210106191649393-07041331.html"
     },
     {
       "maxIntensity": "1",

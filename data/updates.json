@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-05T17:03:55.584Z",
+  "lastUpdate": "2021-01-07T04:18:04.694Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-05T07:55:00.000Z",
-      "uuid": "20210105075515493-05165150",
-      "regionName": "Kumamoto-ken Kumamoto-chiho",
-      "magnitude": 2.2,
-      "occurredAt": "2021-01-05T07:51:00.000Z",
+      "issuedAt": "2021-01-06T19:16:00.000Z",
+      "uuid": "20210106191649393-07041331",
+      "regionName": "Sanriku Oki",
+      "magnitude": 4.4,
+      "occurredAt": "2021-01-06T19:13:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 32.7,
-          "longitude": 130.7
+          "latitude": 39.8,
+          "longitude": 143.7
         },
         "sexagesimal": {
-          "latitude": "32° 42' 00\"",
-          "longitude": "130° 42' 00\""
+          "latitude": "39° 48' 00\"",
+          "longitude": "143° 42' 00\""
         },
         "depth": 10
       },
-      "lastUpdate": "2021-01-05T08:03:40.097Z",
-      "url": "https://www.jma.go.jp/en/quake/20210105075515493-05165150.html"
+      "lastUpdate": "2021-01-06T19:17:51.005Z",
+      "url": "https://www.jma.go.jp/en/quake/20210106191649393-07041331.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101051703.md"
+  "reportFile": "202101070418.md"
 }
