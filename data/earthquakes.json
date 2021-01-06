@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-06T19:18:04.690Z",
+  "lastUpdate": "2021-01-06T19:52:16.938Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-06T19:20:00.000Z",
+      "uuid": "20210106192054493-07041752",
+      "regionName": "Kochi-ken Chubu",
+      "magnitude": 3.6,
+      "occurredAt": "2021-01-06T19:17:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 33.8,
+          "longitude": 133.8
+        },
+        "sexagesimal": {
+          "latitude": "33° 48' 00\"",
+          "longitude": "133° 48' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2021-01-06T19:52:05.643Z",
+      "url": "https://www.jma.go.jp/en/quake/20210106192054493-07041752.html"
     },
     {
       "maxIntensity": "1",
