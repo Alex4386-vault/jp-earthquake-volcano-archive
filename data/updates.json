@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-07T06:26:55.040Z",
+  "lastUpdate": "2021-01-07T10:54:55.948Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-06T21:13:00.000Z",
-      "uuid": "20210106211332393-07060700",
-      "regionName": "Sanriku Oki",
-      "magnitude": 5.1,
-      "occurredAt": "2021-01-06T21:07:00.000Z",
+      "issuedAt": "2021-01-07T01:13:00.000Z",
+      "uuid": "20210107011312493-07101016",
+      "regionName": "Tanegashima Kinkai",
+      "magnitude": 2.5,
+      "occurredAt": "2021-01-07T01:10:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 40,
-          "longitude": 144.3
+          "latitude": 30.7,
+          "longitude": 131
         },
         "sexagesimal": {
-          "latitude": "40° 00' 00\"",
-          "longitude": "144° 18' 00\""
+          "latitude": "30° 42' 00\"",
+          "longitude": "131° 00' 00\""
         },
         "depth": 10
       },
-      "lastUpdate": "2021-01-06T21:26:38.964Z",
-      "url": "https://www.jma.go.jp/en/quake/20210106211332393-07060700.html"
+      "lastUpdate": "2021-01-07T01:54:39.591Z",
+      "url": "https://www.jma.go.jp/en/quake/20210107011312493-07101016.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101070626.md"
+  "reportFile": "202101071054.md"
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-06T21:26:55.036Z",
+  "lastUpdate": "2021-01-07T01:54:55.944Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-07T01:13:00.000Z",
+      "uuid": "20210107011312493-07101016",
+      "regionName": "Tanegashima Kinkai",
+      "magnitude": 2.5,
+      "occurredAt": "2021-01-07T01:10:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 30.7,
+          "longitude": 131
+        },
+        "sexagesimal": {
+          "latitude": "30° 42' 00\"",
+          "longitude": "131° 00' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-07T01:54:39.591Z",
+      "url": "https://www.jma.go.jp/en/quake/20210107011312493-07101016.html"
     },
     {
       "maxIntensity": "1",
