@@ -10,7 +10,7 @@ export function createReportFile(updates: UpdateModel): void {
   const humanTime = convertDateToHumanStrings(lastUpdateDate);
 
   markdown += `# ${humanTime.ymdString} ${humanTime.timeString} Report\n`;
-  markdown += humanTime.nengoString !== undefined ? `${humanTime.nengoString} ${humanTime.timeString}\n` : '';
+  markdown += humanTime.nengoString !== undefined ? `${humanTime.nengoString}\n` : '';
 
   markdown += '\n';
 
@@ -41,7 +41,7 @@ ${
           const date = convertDateToHumanStrings(alert.issuedAt);
           return `* ${alert.issuedTo} - ${date.ymdString}${
             date.nengoString !== undefined ? ' (' + date.nengoString + ' ' + date.timeString + ')' : ''
-          } ${date.timeString}  
+          } ${date.timeString} UTC  
 **${alert.data.raw.keyword}**  
           ${
             alert.data.raw.info !== undefined

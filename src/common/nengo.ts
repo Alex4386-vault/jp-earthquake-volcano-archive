@@ -11,6 +11,11 @@ export interface NengoYearInterface {
     number: number;
     kanji: string;
   };
+  month: number;
+  date: number;
+
+  hours: number;
+  minutes: number;
 }
 
 const nengos: NengoInterface[] = [
@@ -68,6 +73,10 @@ export function getNengo(date: Date): NengoYearInterface | undefined {
           number: nengoYear,
           kanji,
         },
+        month: date.getMonth(),
+        date: date.getDate(),
+        hours: date.getHours(),
+        minutes: date.getMinutes(),
       };
     }
   }

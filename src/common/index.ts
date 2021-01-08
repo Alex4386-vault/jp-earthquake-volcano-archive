@@ -67,6 +67,12 @@ export function convertDateToHumanStrings(date: Date): HumanDateCollection {
   const minutes = date.getMinutes();
   const minutesPad = minutes.toString().padStart(2, '0');
 
+  const nengoHours = nengo?.hours;
+  const nengoMinutes = nengo?.minutes;
+
+  const nengoHoursPad = nengoHours?.toString().padStart(2, '0');
+  const nengoMinutesPad = nengoMinutes?.toString().padStart(2, '0');
+
   return {
     year: {
       westernYear,
@@ -77,7 +83,9 @@ export function convertDateToHumanStrings(date: Date): HumanDateCollection {
 
     ymdString: westernYear + '-' + monthPad + '-' + datePad,
     nengoString:
-      nengo !== undefined ? `${nengo.nengo.kanjiName} ${nengo.year.kanji} ${month}月 ${dateCal}日` : undefined,
+      nengo !== undefined
+        ? `${nengo.nengo.kanjiName} ${nengo.year.kanji} ${nengo.month}月 ${nengo.date}日 ${nengoHoursPad}:${nengoMinutesPad}`
+        : undefined,
     timeString: hoursPad + ':' + minutesPad,
 
     fileSafeString: westernYear + monthPad + datePad + hoursPad + minutesPad,
