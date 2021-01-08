@@ -67,6 +67,7 @@ ${
 ${humanTime.ymdString} ${humanTime.timeString} ${
           humanTime.nengoString !== undefined ? `(${humanTime.nengoString} ${humanTime.timeString})\n` : ''
         }  
+        [Report Link](${quake.url})  
 [epicenter @ ${quake.location.depth}km](${getMapLink(quake.location)})`;
       })
       .join('\n');
