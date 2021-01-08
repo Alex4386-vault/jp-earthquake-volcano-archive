@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-08T15:31:34.279Z",
+  "lastUpdate": "2021-01-08T19:15:37.668Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-08T18:27:00.000Z",
+      "uuid": "20210108182723393-09032344",
+      "regionName": "Saitama-ken Nambu",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-08T18:23:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36,
+          "longitude": 139.5
+        },
+        "sexagesimal": {
+          "latitude": "36° 00' 00\"",
+          "longitude": "139° 30' 00\""
+        },
+        "depth": 60
+      },
+      "lastUpdate": "2021-01-08T19:15:24.422Z",
+      "url": "https://www.jma.go.jp/en/quake/20210108182723393-09032344.html"
     },
     {
       "maxIntensity": "2",
