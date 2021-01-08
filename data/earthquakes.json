@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-08T13:17:00.218Z",
+  "lastUpdate": "2021-01-08T15:31:34.279Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-08T15:08:00.000Z",
+      "uuid": "20210108150800393-09000458",
+      "regionName": "Tsugaru-kaikyo",
+      "magnitude": 3.4,
+      "occurredAt": "2021-01-08T15:04:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 41.5,
+          "longitude": 141.3
+        },
+        "sexagesimal": {
+          "latitude": "41° 30' 00\"",
+          "longitude": "141° 18' 00\""
+        },
+        "depth": 90
+      },
+      "lastUpdate": "2021-01-08T15:31:23.560Z",
+      "url": "https://www.jma.go.jp/en/quake/20210108150800393-09000458.html"
     },
     {
       "maxIntensity": "1",
