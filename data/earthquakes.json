@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-09T05:58:20.051Z",
+  "lastUpdate": "2021-01-09T09:44:08.193Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-09T09:34:00.000Z",
+      "uuid": "20210109093400393-09183115",
+      "regionName": "Iwate-ken Nairiku-nambu",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-09T09:31:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 39.1,
+          "longitude": 140.9
+        },
+        "sexagesimal": {
+          "latitude": "39° 06' 00\"",
+          "longitude": "140° 54' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-09T09:43:58.006Z",
+      "url": "https://www.jma.go.jp/en/quake/20210109093400393-09183115.html"
     },
     {
       "maxIntensity": "2",

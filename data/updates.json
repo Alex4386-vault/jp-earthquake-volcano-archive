@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-09T14:58:20.053Z",
+  "lastUpdate": "2021-01-09T18:44:08.197Z",
   "earthquakes": [
     {
-      "maxIntensity": "2",
-      "issuedAt": "2021-01-09T05:40:00.000Z",
-      "uuid": "20210109054054393-09143641",
-      "regionName": "Sanriku Oki",
-      "magnitude": 4.6,
-      "occurredAt": "2021-01-09T05:36:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-09T09:34:00.000Z",
+      "uuid": "20210109093400393-09183115",
+      "regionName": "Iwate-ken Nairiku-nambu",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-09T09:31:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.8,
-          "longitude": 142.8
+          "latitude": 39.1,
+          "longitude": 140.9
         },
         "sexagesimal": {
-          "latitude": "37° 48' 00\"",
-          "longitude": "142° 48' 00\""
+          "latitude": "39° 06' 00\"",
+          "longitude": "140° 54' 00\""
         },
         "depth": 10
       },
-      "lastUpdate": "2021-01-09T05:58:09.177Z",
-      "url": "https://www.jma.go.jp/en/quake/20210109054054393-09143641.html"
+      "lastUpdate": "2021-01-09T09:43:58.006Z",
+      "url": "https://www.jma.go.jp/en/quake/20210109093400393-09183115.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101091458.md"
+  "reportFile": "202101091844.md"
 }
