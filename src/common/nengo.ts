@@ -43,7 +43,7 @@ export function getNengo(date: Date): NengoYearInterface | undefined {
     year--;
   }
 
-  const kanjiIdx = ' 一二三四五六七八九';
+  const kanjiIdx = ' 一二三四五六七八九';
 
   for (const nengo of nengos) {
     if (inNengoRange(nengo.baseYear, year, nengo.years)) {
@@ -73,7 +73,7 @@ export function getNengo(date: Date): NengoYearInterface | undefined {
           number: nengoYear,
           kanji,
         },
-        month: date.getMonth(),
+        month: date.getMonth() + 1,
         date: date.getDate(),
         hours: date.getHours(),
         minutes: date.getMinutes(),
