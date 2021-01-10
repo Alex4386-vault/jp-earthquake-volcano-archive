@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-10T13:20:03.676Z",
+  "lastUpdate": "2021-01-10T14:10:28.363Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-10T03:35:00.000Z",
-      "uuid": "20210110033554493-10123258",
-      "regionName": "Kumamoto-ken Kumamoto-chiho",
-      "magnitude": 2.3,
-      "occurredAt": "2021-01-10T03:32:00.000Z",
+      "issuedAt": "2021-01-10T04:49:00.000Z",
+      "uuid": "20210110044920393-10134641",
+      "regionName": "Gifu-ken Mino-chuseibu",
+      "magnitude": 2.6,
+      "occurredAt": "2021-01-10T04:46:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 32.6,
-          "longitude": 130.7
+          "latitude": 35.8,
+          "longitude": 136.9
         },
         "sexagesimal": {
-          "latitude": "32° 36' 00\"",
-          "longitude": "130° 42' 00\""
+          "latitude": "35° 48' 00\"",
+          "longitude": "136° 54' 00\""
         },
         "depth": 10
       },
-      "lastUpdate": "2021-01-10T04:19:53.653Z",
-      "url": "https://www.jma.go.jp/en/quake/20210110033554493-10123258.html"
+      "lastUpdate": "2021-01-10T05:10:19.084Z",
+      "url": "https://www.jma.go.jp/en/quake/20210110044920393-10134641.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101101320.md"
+  "reportFile": "202101101410.md"
 }
