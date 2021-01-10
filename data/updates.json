@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-10T14:10:28.363Z",
+  "lastUpdate": "2021-01-10T15:59:18.963Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-01-10T04:49:00.000Z",
-      "uuid": "20210110044920393-10134641",
-      "regionName": "Gifu-ken Mino-chuseibu",
-      "magnitude": 2.6,
-      "occurredAt": "2021-01-10T04:46:00.000Z",
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-10T06:41:00.000Z",
+      "uuid": "20210110064116393-10153827",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4.2,
+      "occurredAt": "2021-01-10T06:38:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 35.8,
-          "longitude": 136.9
+          "latitude": 37.8,
+          "longitude": 141.6
         },
         "sexagesimal": {
-          "latitude": "35° 48' 00\"",
-          "longitude": "136° 54' 00\""
+          "latitude": "37° 48' 00\"",
+          "longitude": "141° 36' 00\""
         },
-        "depth": 10
+        "depth": 50
       },
-      "lastUpdate": "2021-01-10T05:10:19.084Z",
-      "url": "https://www.jma.go.jp/en/quake/20210110044920393-10134641.html"
+      "lastUpdate": "2021-01-10T06:59:09.378Z",
+      "url": "https://www.jma.go.jp/en/quake/20210110064116393-10153827.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101101410.md"
+  "reportFile": "202101101559.md"
 }
