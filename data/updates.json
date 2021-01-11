@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-10T15:59:18.963Z",
+  "lastUpdate": "2021-01-11T10:04:32.816Z",
   "earthquakes": [
     {
-      "maxIntensity": "2",
-      "issuedAt": "2021-01-10T06:41:00.000Z",
-      "uuid": "20210110064116393-10153827",
-      "regionName": "Fukushima-ken Oki",
-      "magnitude": 4.2,
-      "occurredAt": "2021-01-10T06:38:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-11T00:28:00.000Z",
+      "uuid": "20210111002833493-11092503",
+      "regionName": "Miyakojima Hokusei-oki",
+      "magnitude": 4.9,
+      "occurredAt": "2021-01-11T00:25:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.8,
-          "longitude": 141.6
+          "latitude": 25.7,
+          "longitude": 124.4
         },
         "sexagesimal": {
-          "latitude": "37° 48' 00\"",
-          "longitude": "141° 36' 00\""
+          "latitude": "25° 42' 00\"",
+          "longitude": "124° 24' 00\""
         },
-        "depth": 50
+        "depth": 150
       },
-      "lastUpdate": "2021-01-10T06:59:09.378Z",
-      "url": "https://www.jma.go.jp/en/quake/20210110064116393-10153827.html"
+      "lastUpdate": "2021-01-11T01:03:30.837Z",
+      "url": "https://www.jma.go.jp/en/quake/20210111002833493-11092503.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101101559.md"
+  "reportFile": "202101111004.md"
 }
