@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-11T01:03:40.168Z",
+  "lastUpdate": "2021-01-12T02:33:56.740Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-12T02:10:00.000Z",
+      "uuid": "20210112021004493-12110724",
+      "regionName": "Kochi-ken Seibu",
+      "magnitude": 2.8,
+      "occurredAt": "2021-01-12T02:07:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 33,
+          "longitude": 132.7
+        },
+        "sexagesimal": {
+          "latitude": "33° 00' 00\"",
+          "longitude": "132° 42' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2021-01-12T02:33:45.821Z",
+      "url": "https://www.jma.go.jp/en/quake/20210112021004493-12110724.html"
     },
     {
       "maxIntensity": "1",

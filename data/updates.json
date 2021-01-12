@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-11T10:04:32.816Z",
+  "lastUpdate": "2021-01-12T11:33:57.795Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-11T00:28:00.000Z",
-      "uuid": "20210111002833493-11092503",
-      "regionName": "Miyakojima Hokusei-oki",
-      "magnitude": 4.9,
-      "occurredAt": "2021-01-11T00:25:00.000Z",
+      "issuedAt": "2021-01-12T02:10:00.000Z",
+      "uuid": "20210112021004493-12110724",
+      "regionName": "Kochi-ken Seibu",
+      "magnitude": 2.8,
+      "occurredAt": "2021-01-12T02:07:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 25.7,
-          "longitude": 124.4
+          "latitude": 33,
+          "longitude": 132.7
         },
         "sexagesimal": {
-          "latitude": "25° 42' 00\"",
-          "longitude": "124° 24' 00\""
+          "latitude": "33° 00' 00\"",
+          "longitude": "132° 42' 00\""
         },
-        "depth": 150
+        "depth": 30
       },
-      "lastUpdate": "2021-01-11T01:03:30.837Z",
-      "url": "https://www.jma.go.jp/en/quake/20210111002833493-11092503.html"
+      "lastUpdate": "2021-01-12T02:33:45.821Z",
+      "url": "https://www.jma.go.jp/en/quake/20210112021004493-12110724.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101111004.md"
+  "reportFile": "202101121133.md"
 }
