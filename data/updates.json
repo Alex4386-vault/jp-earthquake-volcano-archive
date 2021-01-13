@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-13T10:13:35.876Z",
+  "lastUpdate": "2021-01-13T14:13:03.835Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-13T00:10:00.000Z",
-      "uuid": "20210113001003393-13090750",
-      "regionName": "Fukushima-ken Aizu",
-      "magnitude": 2.8,
-      "occurredAt": "2021-01-13T00:07:00.000Z",
+      "issuedAt": "2021-01-13T04:48:00.000Z",
+      "uuid": "20210113044845393-13134532",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4.3,
+      "occurredAt": "2021-01-13T04:45:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.3,
-          "longitude": 139.4
+          "latitude": 36.8,
+          "longitude": 141.8
         },
         "sexagesimal": {
-          "latitude": "37° 18' 00\"",
-          "longitude": "139° 24' 00\""
+          "latitude": "36° 48' 00\"",
+          "longitude": "141° 48' 00\""
         },
-        "depth": 10
+        "depth": 30
       },
-      "lastUpdate": "2021-01-13T01:12:45.155Z",
-      "url": "https://www.jma.go.jp/en/quake/20210113001003393-13090750.html"
+      "lastUpdate": "2021-01-13T05:12:54.176Z",
+      "url": "https://www.jma.go.jp/en/quake/20210113044845393-13134532.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101131013.md"
+  "reportFile": "202101131413.md"
 }
