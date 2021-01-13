@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-13T20:11:29.966Z",
+  "lastUpdate": "2021-01-14T02:15:06.607Z",
   "earthquakes": [
     {
       "maxIntensity": "2",
-      "issuedAt": "2021-01-13T10:32:00.000Z",
-      "uuid": "20210113103236393-13192911",
-      "regionName": "Nagano-ken Chubu",
-      "magnitude": 3.2,
-      "occurredAt": "2021-01-13T10:29:00.000Z",
+      "issuedAt": "2021-01-13T16:00:00.000Z",
+      "uuid": "20210113160046393-14005749",
+      "regionName": "Miyagi-ken Oki",
+      "magnitude": 4,
+      "occurredAt": "2021-01-13T15:57:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 36.2,
-          "longitude": 137.7
+          "latitude": 38.3,
+          "longitude": 141.8
         },
         "sexagesimal": {
-          "latitude": "36° 12' 00\"",
-          "longitude": "137° 42' 00\""
+          "latitude": "38° 18' 00\"",
+          "longitude": "141° 48' 00\""
         },
-        "depth": null
+        "depth": 60
       },
-      "lastUpdate": "2021-01-13T11:11:19.855Z",
-      "url": "https://www.jma.go.jp/en/quake/20210113103236393-13192911.html"
+      "lastUpdate": "2021-01-13T17:14:54.652Z",
+      "url": "https://www.jma.go.jp/en/quake/20210113160046393-14005749.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101132011.md"
+  "reportFile": "202101140215.md"
 }
