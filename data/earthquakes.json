@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-13T05:13:03.832Z",
+  "lastUpdate": "2021-01-13T11:11:29.963Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-13T10:32:00.000Z",
+      "uuid": "20210113103236393-13192911",
+      "regionName": "Nagano-ken Chubu",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-13T10:29:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.2,
+          "longitude": 137.7
+        },
+        "sexagesimal": {
+          "latitude": "36° 12' 00\"",
+          "longitude": "137° 42' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-01-13T11:11:19.855Z",
+      "url": "https://www.jma.go.jp/en/quake/20210113103236393-13192911.html"
     },
     {
       "maxIntensity": "1",
