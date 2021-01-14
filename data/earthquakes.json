@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-14T13:34:42.894Z",
+  "lastUpdate": "2021-01-14T17:16:37.415Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-14T16:31:00.000Z",
+      "uuid": "20210114163141493-15012832",
+      "regionName": "Miyakojima Hokusei-oki",
+      "magnitude": 4.5,
+      "occurredAt": "2021-01-14T16:28:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 25.3,
+          "longitude": 124.3
+        },
+        "sexagesimal": {
+          "latitude": "25° 18' 00\"",
+          "longitude": "124° 18' 00\""
+        },
+        "depth": 130
+      },
+      "lastUpdate": "2021-01-14T17:16:25.162Z",
+      "url": "https://www.jma.go.jp/en/quake/20210114163141493-15012832.html"
     },
     {
       "maxIntensity": "1",
