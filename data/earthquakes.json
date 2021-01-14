@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-13T17:15:06.604Z",
+  "lastUpdate": "2021-01-14T01:21:11.012Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-14T00:33:00.000Z",
+      "uuid": "20210114003303493-14092949",
+      "regionName": "Kagoshima-wan",
+      "magnitude": 2,
+      "occurredAt": "2021-01-14T00:29:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 31.3,
+          "longitude": 130.6
+        },
+        "sexagesimal": {
+          "latitude": "31° 18' 00\"",
+          "longitude": "130° 36' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-01-14T01:21:01.503Z",
+      "url": "https://www.jma.go.jp/en/quake/20210114003303493-14092949.html"
     },
     {
       "maxIntensity": "2",
