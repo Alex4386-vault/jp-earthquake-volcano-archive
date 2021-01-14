@@ -1,106 +1,28 @@
 {
-  "lastUpdate": "2021-01-14T11:13:57.075Z",
-  "earthquakes": [],
-  "volcanoes": [
+  "lastUpdate": "2021-01-14T12:58:55.918Z",
+  "earthquakes": [
     {
-      "lastUpdate": "2020-12-25T13:36:49.925Z",
-      "id": 511,
-      "region": "fukuoka",
-      "area": 6,
-      "name": "Suwanosejima",
-      "location": "Ryukyu Islands, Japan",
-      "craters": [
-        {
-          "location": {
-            "decimal": {
-              "latitude": 29.638333333333332,
-              "longitude": 129.71388888888887
-            },
-            "sexagesimal": {
-              "latitude": "29°38'18\"N",
-              "longitude": "129°42'50\"E"
-            },
-            "elevation": {
-              "meter": 799,
-              "feet": 2621.39116
-            }
-          }
-        }
-      ],
-      "metadata": {
-        "img": "https://www.data.jma.go.jp/svd/vois/data/fukuoka/eng/511/511_pic1.jpg",
-        "memo": "\nSuwanosejima is a volcano island in Satsunan Islands, Japan,\nabout 230 km SSW of Kagoshima city (about 1,200 km WSW of Tokyo).\nIts activities are charcterized by strombolian eruption at the summit of the volcano.\nSince 1956, this volcano has erupted every year.\n",
-        "page": "https://www.data.jma.go.jp/svd/vois/data/fukuoka/eng/511/511-eng.htm"
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-14T03:51:00.000Z",
+      "uuid": "20210114035111393-14124811",
+      "regionName": "Ibaraki-ken Oki",
+      "magnitude": 3.1,
+      "occurredAt": "2021-01-14T03:48:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.3,
+          "longitude": 140.6
+        },
+        "sexagesimal": {
+          "latitude": "36° 18' 00\"",
+          "longitude": "140° 36' 00\""
+        },
+        "depth": 70
       },
-      "alerts": {
-        "data": [
-          {
-            "issuedTo": "Suwanosejima",
-            "issuedAt": "2007-12-01T01:06:00.000Z",
-            "data": {
-              "raw": {
-                "keyword": "Level 2 (Do not approach the crater)",
-                "code": "Near-crater warning",
-                "info": {
-                  "contents": "Suwanosejima Volcanic Warning (Near the crater)\n10:06 JST, 01 December 2007\n\nVolcanic activity status remains unchanged for Suwanosejima.\nNear-Crater Warning (Level 2, Do not approach the crater) is in effect for Suwanosejima.\n\n\nRefrain from entering the danger zone in the following local municipalities.\nKagoshima:Toshima-mura\n** (Reference : Description of Volcanic Alert Levels) **\nLevel 5 (Evacuate) : Evacuate from the danger zone.\nLevel 4 (Prepare to evacuate) : Prepare to evacuate from alert areas. Have disabled people evacuate.\nLevel 3 (Do not approach the volcano) : Refrain from entering the danger zone. (Target areas are determined in line with current volcanic activity.)\nLevel 2 (Do not approach the crater) : Refrain from approaching the crater.\nLevel 1 (Potential for increased activity)\n\n\n",
-                  "link": "https://www.jma.go.jp/en/volcano/forecast_05_20071201010600.html"
-                }
-              },
-              "parsed": {
-                "type": "volcano",
-                "alert": {
-                  "type": "volcanicAlert",
-                  "level": 2
-                }
-              }
-            }
-          },
-          {
-            "issuedTo": "Suwanosejima",
-            "issuedAt": "2020-12-27T17:56:00.000Z",
-            "data": {
-              "raw": {
-                "keyword": "Level 3 (Do not approach the volcano)",
-                "code": "Near-crater warning",
-                "info": {
-                  "contents": "Suwanosejima Volcanic Warning (Near the crater)\n02:56 JST, 28 December 2020\n\nNear-crater Warning (Level 3, Do not approach the volcano) issued for Suwanosejima.\nVolcanic Alert Level upgraded from 2 to 3.\n\nRefrain from entering the danger zone in the following local municipalities.\nKagoshima:Toshima-mura\n** (Reference : Description of Volcanic Alert Levels) **\nLevel 5 (Evacuate) : Evacuate from the danger zone.\nLevel 4 (Prepare to evacuate) : Prepare to evacuate from alert areas. Have disabled people evacuate.\nLevel 3 (Do not approach the volcano) : Refrain from entering the danger zone. (Target areas are determined in line with current volcanic activity.)\nLevel 2 (Do not approach the crater) : Refrain from approaching the crater.\nLevel 1 (Potential for increased activity)\n\n\n",
-                  "link": "https://www.jma.go.jp/en/volcano/forecast_05_20201227175653.html"
-                }
-              },
-              "parsed": {
-                "type": "volcano",
-                "alert": {
-                  "type": "volcanicAlert",
-                  "level": 3
-                }
-              }
-            }
-          },
-          {
-            "issuedTo": "Suwanosejima",
-            "issuedAt": "2021-01-14T02:00:00.000Z",
-            "data": {
-              "raw": {
-                "keyword": "Level 2 (Do not approach the crater)",
-                "code": "Near-crater warning",
-                "info": {
-                  "contents": "Suwanosejima Volcanic Warning (Near the crater)\n11:00 JST, 14 January 2021\n\nNear-crater Warning (Level 2, Do not approach the crater) issued for Suwanosejima.\nVolcanic Alert Level downgraded from 3 to 2.\n\nRefrain from entering the danger zone in the following local municipalities.\nKagoshima:Toshima-mura\n** (Reference : Description of Volcanic Alert Levels) **\nLevel 5 (Evacuate) : Evacuate from the danger zone.\nLevel 4 (Prepare to evacuate) : Prepare to evacuate from alert areas. Have disabled people evacuate.\nLevel 3 (Do not approach the volcano) : Refrain from entering the danger zone. (Target areas are determined in line with current volcanic activity.)\nLevel 2 (Do not approach the crater) : Refrain from approaching the crater.\nLevel 1 (Potential for increased activity)\n\n\n",
-                  "link": "https://www.jma.go.jp/en/volcano/forecast_05_20210114020039.html"
-                }
-              },
-              "parsed": {
-                "type": "volcano",
-                "alert": {
-                  "type": "volcanicAlert",
-                  "level": 2
-                }
-              }
-            }
-          }
-        ],
-        "lastUpdate": "2020-12-25T13:36:34.625Z"
-      }
+      "lastUpdate": "2021-01-14T03:58:44.441Z",
+      "url": "https://www.jma.go.jp/en/quake/20210114035111393-14124811.html"
     }
   ],
-  "reportFile": "202101141113.md"
+  "volcanoes": [],
+  "reportFile": "202101141258.md"
 }
