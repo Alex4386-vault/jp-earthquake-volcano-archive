@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-15T11:42:29.017Z",
+  "lastUpdate": "2021-01-15T13:51:56.755Z",
   "earthquakes": [
     {
       "maxIntensity": "2",
-      "issuedAt": "2021-01-15T02:19:00.000Z",
-      "uuid": "20210115021907393-15111635",
-      "regionName": "Sado Fukin",
-      "magnitude": 3.5,
-      "occurredAt": "2021-01-15T02:16:00.000Z",
+      "issuedAt": "2021-01-15T04:02:00.000Z",
+      "uuid": "20210115040216393-15125937",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 3.8,
+      "occurredAt": "2021-01-15T03:59:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.8,
-          "longitude": 138.3
+          "latitude": 37.2,
+          "longitude": 141.2
         },
         "sexagesimal": {
-          "latitude": "37° 48' 00\"",
-          "longitude": "138° 18' 00\""
+          "latitude": "37° 12' 00\"",
+          "longitude": "141° 12' 00\""
         },
-        "depth": 10
+        "depth": 30
       },
-      "lastUpdate": "2021-01-15T02:42:17.017Z",
-      "url": "https://www.jma.go.jp/en/quake/20210115021907393-15111635.html"
+      "lastUpdate": "2021-01-15T04:51:47.751Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115040216393-15125937.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101151142.md"
+  "reportFile": "202101151351.md"
 }
