@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-16T02:17:12.583Z",
+  "lastUpdate": "2021-01-16T05:20:45.187Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-15T17:07:00.000Z",
-      "uuid": "20210115170710393-16020429",
-      "regionName": "Tokachi-chiho Chubu",
-      "magnitude": 2.4,
-      "occurredAt": "2021-01-15T17:04:00.000Z",
+      "issuedAt": "2021-01-15T20:13:00.000Z",
+      "uuid": "20210115201326393-16051020",
+      "regionName": "Tokachi Oki",
+      "magnitude": 4.2,
+      "occurredAt": "2021-01-15T20:10:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 42.8,
-          "longitude": 143.6
+          "latitude": 42,
+          "longitude": 144.4
         },
         "sexagesimal": {
-          "latitude": "42° 48' 00\"",
-          "longitude": "143° 36' 00\""
+          "latitude": "42° 00' 00\"",
+          "longitude": "144° 24' 00\""
         },
-        "depth": 30
+        "depth": 60
       },
-      "lastUpdate": "2021-01-15T17:16:56.763Z",
-      "url": "https://www.jma.go.jp/en/quake/20210115170710393-16020429.html"
+      "lastUpdate": "2021-01-15T20:20:30.166Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115201326393-16051020.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101160217.md"
+  "reportFile": "202101160520.md"
 }
