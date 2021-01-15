@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-14T17:16:37.415Z",
+  "lastUpdate": "2021-01-15T02:42:29.014Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-15T02:19:00.000Z",
+      "uuid": "20210115021907393-15111635",
+      "regionName": "Sado Fukin",
+      "magnitude": 3.5,
+      "occurredAt": "2021-01-15T02:16:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.8,
+          "longitude": 138.3
+        },
+        "sexagesimal": {
+          "latitude": "37° 48' 00\"",
+          "longitude": "138° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-15T02:42:17.017Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115021907393-15111635.html"
     },
     {
       "maxIntensity": "1",
