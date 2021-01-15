@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-15T04:51:56.752Z",
+  "lastUpdate": "2021-01-15T05:45:00.110Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-15T05:07:00.000Z",
+      "uuid": "20210115050726393-15140418",
+      "regionName": "Hachijojima Kinkai",
+      "magnitude": 3.6,
+      "occurredAt": "2021-01-15T05:04:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 32.9,
+          "longitude": 139.5
+        },
+        "sexagesimal": {
+          "latitude": "32° 54' 00\"",
+          "longitude": "139° 30' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-15T05:44:46.761Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115050726393-15140418.html"
     },
     {
       "maxIntensity": "2",

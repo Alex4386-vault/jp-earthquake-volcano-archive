@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-15T13:51:56.755Z",
+  "lastUpdate": "2021-01-15T14:45:00.113Z",
   "earthquakes": [
     {
-      "maxIntensity": "2",
-      "issuedAt": "2021-01-15T04:02:00.000Z",
-      "uuid": "20210115040216393-15125937",
-      "regionName": "Fukushima-ken Oki",
-      "magnitude": 3.8,
-      "occurredAt": "2021-01-15T03:59:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-15T05:07:00.000Z",
+      "uuid": "20210115050726393-15140418",
+      "regionName": "Hachijojima Kinkai",
+      "magnitude": 3.6,
+      "occurredAt": "2021-01-15T05:04:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.2,
-          "longitude": 141.2
+          "latitude": 32.9,
+          "longitude": 139.5
         },
         "sexagesimal": {
-          "latitude": "37° 12' 00\"",
-          "longitude": "141° 12' 00\""
+          "latitude": "32° 54' 00\"",
+          "longitude": "139° 30' 00\""
         },
-        "depth": 30
+        "depth": 10
       },
-      "lastUpdate": "2021-01-15T04:51:47.751Z",
-      "url": "https://www.jma.go.jp/en/quake/20210115040216393-15125937.html"
+      "lastUpdate": "2021-01-15T05:44:46.761Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115050726393-15140418.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101151351.md"
+  "reportFile": "202101151445.md"
 }
