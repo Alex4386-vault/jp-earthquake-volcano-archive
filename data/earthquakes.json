@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-16T12:05:18.655Z",
+  "lastUpdate": "2021-01-16T18:21:18.310Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-16T17:42:00.000Z",
+      "uuid": "20210116174214393-17023923",
+      "regionName": "Iburi-chiho Chutobu",
+      "magnitude": 2.5,
+      "occurredAt": "2021-01-16T17:39:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 42.5,
+          "longitude": 141.1
+        },
+        "sexagesimal": {
+          "latitude": "42° 30' 00\"",
+          "longitude": "141° 06' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-16T18:20:59.981Z",
+      "url": "https://www.jma.go.jp/en/quake/20210116174214393-17023923.html"
     },
     {
       "maxIntensity": "1",
