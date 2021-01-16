@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-15T23:25:51.531Z",
+  "lastUpdate": "2021-01-16T03:57:33.557Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2549,6 +2549,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-16T03:04:00.000Z",
+      "uuid": "20210116030423393-16120134",
+      "regionName": "Nagano-ken Hokubu",
+      "magnitude": 2.1,
+      "occurredAt": "2021-01-16T03:01:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.7,
+          "longitude": 138.1
+        },
+        "sexagesimal": {
+          "latitude": "36° 42' 00\"",
+          "longitude": "138° 06' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-16T03:57:16.513Z",
+      "url": "https://www.jma.go.jp/en/quake/20210116030423393-16120134.html"
     },
     {
       "maxIntensity": "2",
