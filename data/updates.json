@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-17T03:21:18.315Z",
+  "lastUpdate": "2021-01-17T06:51:19.448Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-16T17:42:00.000Z",
-      "uuid": "20210116174214393-17023923",
-      "regionName": "Iburi-chiho Chutobu",
-      "magnitude": 2.5,
-      "occurredAt": "2021-01-16T17:39:00.000Z",
+      "issuedAt": "2021-01-16T21:36:00.000Z",
+      "uuid": "20210116213636493-17063252",
+      "regionName": "Kagoshima-wan",
+      "magnitude": 2.2,
+      "occurredAt": "2021-01-16T21:32:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 42.5,
-          "longitude": 141.1
+          "latitude": 31.3,
+          "longitude": 130.6
         },
         "sexagesimal": {
-          "latitude": "42° 30' 00\"",
-          "longitude": "141° 06' 00\""
+          "latitude": "31° 18' 00\"",
+          "longitude": "130° 36' 00\""
         },
-        "depth": 10
+        "depth": null
       },
-      "lastUpdate": "2021-01-16T18:20:59.981Z",
-      "url": "https://www.jma.go.jp/en/quake/20210116174214393-17023923.html"
+      "lastUpdate": "2021-01-16T21:51:01.287Z",
+      "url": "https://www.jma.go.jp/en/quake/20210116213636493-17063252.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101170321.md"
+  "reportFile": "202101170651.md"
 }
