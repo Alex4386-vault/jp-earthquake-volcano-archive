@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-17T06:51:19.448Z",
+  "lastUpdate": "2021-01-17T12:58:34.378Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-16T21:36:00.000Z",
-      "uuid": "20210116213636493-17063252",
-      "regionName": "Kagoshima-wan",
-      "magnitude": 2.2,
-      "occurredAt": "2021-01-16T21:32:00.000Z",
+      "issuedAt": "2021-01-17T03:44:00.000Z",
+      "uuid": "20210117034454393-17124211",
+      "regionName": "Gifu-ken Mino-tobu",
+      "magnitude": 3.1,
+      "occurredAt": "2021-01-17T03:42:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 31.3,
-          "longitude": 130.6
+          "latitude": 35.3,
+          "longitude": 137.2
         },
         "sexagesimal": {
-          "latitude": "31° 18' 00\"",
-          "longitude": "130° 36' 00\""
+          "latitude": "35° 18' 00\"",
+          "longitude": "137° 12' 00\""
         },
-        "depth": null
+        "depth": 40
       },
-      "lastUpdate": "2021-01-16T21:51:01.287Z",
-      "url": "https://www.jma.go.jp/en/quake/20210116213636493-17063252.html"
+      "lastUpdate": "2021-01-17T03:58:15.410Z",
+      "url": "https://www.jma.go.jp/en/quake/20210117034454393-17124211.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101170651.md"
+  "reportFile": "202101171258.md"
 }
