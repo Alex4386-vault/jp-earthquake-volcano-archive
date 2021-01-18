@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-18T02:11:22.933Z",
+  "lastUpdate": "2021-01-18T11:45:01.122Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2328,6 +2328,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:47.880Z",
       "url": "https://www.jma.go.jp/en/quake/20201218114337393-18204055.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-18T11:41:00.000Z",
+      "uuid": "20210118114156493-18203817",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.4,
+      "occurredAt": "2021-01-18T11:38:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.2
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 12' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-18T11:44:42.514Z",
+      "url": "https://www.jma.go.jp/en/quake/20210118114156493-18203817.html"
     },
     {
       "maxIntensity": "4",
