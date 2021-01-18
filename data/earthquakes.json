@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-18T13:35:43.974Z",
+  "lastUpdate": "2021-01-18T15:13:19.324Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -2168,6 +2168,48 @@
       },
       "lastUpdate": "2020-12-25T13:33:45.870Z",
       "url": "https://www.jma.go.jp/en/quake/20201218150124393-18235853.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-18T14:59:00.000Z",
+      "uuid": "20210118145949493-18235544",
+      "regionName": "Amami-oshima Kinkai",
+      "magnitude": 3.4,
+      "occurredAt": "2021-01-18T14:55:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 28.3,
+          "longitude": 130
+        },
+        "sexagesimal": {
+          "latitude": "28° 18' 00\"",
+          "longitude": "130° 00' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2021-01-18T15:12:58.057Z",
+      "url": "https://www.jma.go.jp/en/quake/20210118145949493-18235544.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-18T14:48:00.000Z",
+      "uuid": "20210118144804393-18234535",
+      "regionName": "Tsugaru-kaikyo",
+      "magnitude": 2.7,
+      "occurredAt": "2021-01-18T14:45:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 41.5,
+          "longitude": 141
+        },
+        "sexagesimal": {
+          "latitude": "41° 30' 00\"",
+          "longitude": "141° 00' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-18T15:12:58.828Z",
+      "url": "https://www.jma.go.jp/en/quake/20210118144804393-18234535.html"
     },
     {
       "maxIntensity": "2",
