@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-18T20:45:01.125Z",
+  "lastUpdate": "2021-01-18T22:35:43.977Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-18T11:41:00.000Z",
-      "uuid": "20210118114156493-18203817",
-      "regionName": "Niijima-Kozushima Kinkai",
-      "magnitude": 2.4,
-      "occurredAt": "2021-01-18T11:38:00.000Z",
+      "issuedAt": "2021-01-18T13:23:00.000Z",
+      "uuid": "20210118132309393-18222041",
+      "regionName": "Fukui-ken Reihoku",
+      "magnitude": 2.6,
+      "occurredAt": "2021-01-18T13:20:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 34.5,
-          "longitude": 139.2
+          "latitude": 35.9,
+          "longitude": 136.6
         },
         "sexagesimal": {
-          "latitude": "34° 30' 00\"",
-          "longitude": "139° 12' 00\""
+          "latitude": "35° 54' 00\"",
+          "longitude": "136° 36' 00\""
         },
         "depth": 10
       },
-      "lastUpdate": "2021-01-18T11:44:42.514Z",
-      "url": "https://www.jma.go.jp/en/quake/20210118114156493-18203817.html"
+      "lastUpdate": "2021-01-18T13:35:25.406Z",
+      "url": "https://www.jma.go.jp/en/quake/20210118132309393-18222041.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101182045.md"
+  "reportFile": "202101182235.md"
 }
