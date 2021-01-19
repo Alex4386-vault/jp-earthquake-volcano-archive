@@ -1,85 +1,28 @@
 {
-  "lastUpdate": "2021-01-19T11:12:08.614Z",
-  "earthquakes": [],
-  "volcanoes": [
+  "lastUpdate": "2021-01-19T16:12:29.313Z",
+  "earthquakes": [
     {
-      "lastUpdate": "2020-12-25T13:36:49.618Z",
-      "id": 509,
-      "region": "fukuoka",
-      "area": 6,
-      "name": "Kuchinoerabujima",
-      "location": "Ryukyu Islands, Japan",
-      "craters": [
-        {
-          "location": {
-            "decimal": {
-              "latitude": 30.443333333333335,
-              "longitude": 130.21722222222223
-            },
-            "sexagesimal": {
-              "latitude": "30°26'36\"N",
-              "longitude": "130°13'02\"E"
-            },
-            "elevation": {
-              "meter": 657,
-              "feet": 2155.51188
-            }
-          }
-        }
-      ],
-      "metadata": {
-        "img": "https://www.data.jma.go.jp/svd/vois/data/fukuoka/eng/509/509_pic1.jpg",
-        "memo": "\nKuchinoerabujima is a volcano island in Satsunan Islands, Japan, about\n120 km SSW of Kagoshima city (about 1,100 km WSW of Tokyo). Recent activity\nhas occurred at two composite volcanoes, Shin-dake and Furu-dake. Phreatic\nexplosions and Vulcanian eruptions have occurred at Shin-dake in historical\nrecord, that is after 1841, and were accompanied with mud flows frequently.\nEruptions with pyroclastic flows occurred at Furu-dake about 200 years ago.\n",
-        "page": "https://www.data.jma.go.jp/svd/vois/data/fukuoka/eng/509/509-eng.htm"
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-19T07:11:00.000Z",
+      "uuid": "20210119071143393-19160857",
+      "regionName": "Iwate-ken Oki",
+      "magnitude": 3.5,
+      "occurredAt": "2021-01-19T07:08:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 39.1,
+          "longitude": 142.1
+        },
+        "sexagesimal": {
+          "latitude": "39° 06' 00\"",
+          "longitude": "142° 06' 00\""
+        },
+        "depth": 50
       },
-      "alerts": {
-        "data": [
-          {
-            "issuedTo": "Kuchinoerabujima",
-            "issuedAt": "2019-10-27T15:15:00.000Z",
-            "data": {
-              "raw": {
-                "keyword": "Level 3 (Do not approach the volcano)",
-                "code": "Near-crater warning",
-                "info": {
-                  "contents": "Kuchinoerabujima Volcanic Warning (Near the crater)\n00:15 JST, 28 October 2019\n\nNear-crater Warning (Level 3, Do not approach the volcano) issued for Kuchinoerabujima.\nVolcanic Alert Level upgraded from 2 to 3.\n\nRefrain from entering the danger zone in the following local municipalities.\nKagoshima:Yakushima-cho\n** (Reference : Description of Volcanic Alert Levels) **\nLevel 5 (Evacuate) : Evacuate from the danger zone.\nLevel 4 (Prepare to evacuate) : Prepare to evacuate from alert areas. Have disabled people evacuate.\nLevel 3 (Do not approach the volcano) : Refrain from entering the danger zone. (Target areas are determined in line with current volcanic activity.)\nLevel 2 (Do not approach the crater) : Refrain from approaching the crater.\nLevel 1 (Potential for increased activity)\n\n\n",
-                  "link": "https://www.jma.go.jp/en/volcano/forecast_05_20191027151518.html"
-                }
-              },
-              "parsed": {
-                "type": "volcano",
-                "alert": {
-                  "type": "volcanicAlert",
-                  "level": 3
-                }
-              }
-            }
-          },
-          {
-            "issuedTo": "Kuchinoerabujima",
-            "issuedAt": "2021-01-19T02:00:00.000Z",
-            "data": {
-              "raw": {
-                "keyword": "Level 2 (Do not approach the crater)",
-                "code": "Near-crater warning",
-                "info": {
-                  "contents": "Kuchinoerabujima Volcanic Warning (Near the crater)\n11:00 JST, 19 January 2021\n\nNear-crater Warning (Level 2, Do not approach the crater) issued for Kuchinoerabujima.\nVolcanic Alert Level downgraded from 3 to 2.\n\nRefrain from entering the danger zone in the following local municipalities.\nKagoshima:Yakushima-cho\n** (Reference : Description of Volcanic Alert Levels) **\nLevel 5 (Evacuate) : Evacuate from the danger zone.\nLevel 4 (Prepare to evacuate) : Prepare to evacuate from alert areas. Have disabled people evacuate.\nLevel 3 (Do not approach the volcano) : Refrain from entering the danger zone. (Target areas are determined in line with current volcanic activity.)\nLevel 2 (Do not approach the crater) : Refrain from approaching the crater.\nLevel 1 (Potential for increased activity)\n\n\n",
-                  "link": "https://www.jma.go.jp/en/volcano/forecast_05_20210119020031.html"
-                }
-              },
-              "parsed": {
-                "type": "volcano",
-                "alert": {
-                  "type": "volcanicAlert",
-                  "level": 2
-                }
-              }
-            }
-          }
-        ],
-        "lastUpdate": "2020-12-25T13:36:34.625Z"
-      }
+      "lastUpdate": "2021-01-19T07:12:05.122Z",
+      "url": "https://www.jma.go.jp/en/quake/20210119071143393-19160857.html"
     }
   ],
-  "reportFile": "202101191112.md"
+  "volcanoes": [],
+  "reportFile": "202101191612.md"
 }
