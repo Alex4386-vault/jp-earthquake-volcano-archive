@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-19T07:12:29.310Z",
+  "lastUpdate": "2021-01-19T20:22:12.354Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1853,6 +1853,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:40.785Z",
       "url": "https://www.jma.go.jp/en/quake/20201220075001393-20164736.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-19T20:13:00.000Z",
+      "uuid": "20210119201336493-20051002",
+      "regionName": "Kumamoto-ken Kumamoto-chiho",
+      "magnitude": 1.8,
+      "occurredAt": "2021-01-19T20:10:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 32.7,
+          "longitude": 130.7
+        },
+        "sexagesimal": {
+          "latitude": "32° 42' 00\"",
+          "longitude": "130° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-19T20:21:49.754Z",
+      "url": "https://www.jma.go.jp/en/quake/20210119201336493-20051002.html"
     },
     {
       "maxIntensity": "1",
