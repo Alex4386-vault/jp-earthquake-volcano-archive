@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-20T02:13:39.537Z",
+  "lastUpdate": "2021-01-20T04:02:10.808Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1853,6 +1853,48 @@
       },
       "lastUpdate": "2020-12-25T13:33:40.785Z",
       "url": "https://www.jma.go.jp/en/quake/20201220075001393-20164736.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-20T03:25:00.000Z",
+      "uuid": "20210120032543393-20122237",
+      "regionName": "Ibaraki-ken Hokubu",
+      "magnitude": 2.5,
+      "occurredAt": "2021-01-20T03:22:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.6,
+          "longitude": 140.6
+        },
+        "sexagesimal": {
+          "latitude": "36° 36' 00\"",
+          "longitude": "140° 36' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-20T04:01:43.326Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120032543393-20122237.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-20T03:00:00.000Z",
+      "uuid": "20210120030010493-20115708",
+      "regionName": "Yamaguchi-ken Hokubu",
+      "magnitude": 3.1,
+      "occurredAt": "2021-01-20T02:57:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.2,
+          "longitude": 131.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 12' 00\"",
+          "longitude": "131° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-20T04:01:44.188Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120030010493-20115708.html"
     },
     {
       "maxIntensity": "1",
