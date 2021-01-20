@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-20T21:59:05.702Z",
+  "lastUpdate": "2021-01-20T23:40:50.831Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1401,6 +1401,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:37.307Z",
       "url": "https://www.jma.go.jp/en/quake/20201221154457393-22004142.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-20T23:03:00.000Z",
+      "uuid": "20210120230307393-21080046",
+      "regionName": "Iwate-ken Oki",
+      "magnitude": 3.6,
+      "occurredAt": "2021-01-20T23:00:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 39.6,
+          "longitude": 142.1
+        },
+        "sexagesimal": {
+          "latitude": "39° 36' 00\"",
+          "longitude": "142° 06' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-20T23:40:21.062Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120230307393-21080046.html"
     },
     {
       "maxIntensity": "1",
