@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-20T04:02:10.808Z",
+  "lastUpdate": "2021-01-20T07:13:23.471Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1853,6 +1853,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:40.785Z",
       "url": "https://www.jma.go.jp/en/quake/20201220075001393-20164736.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-20T06:27:00.000Z",
+      "uuid": "20210120062715393-20152407",
+      "regionName": "Nemuro-hanto Nanto-oki",
+      "magnitude": 3.4,
+      "occurredAt": "2021-01-20T06:24:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 43.3,
+          "longitude": 146
+        },
+        "sexagesimal": {
+          "latitude": "43° 18' 00\"",
+          "longitude": "146° 00' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-20T07:12:58.095Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120062715393-20152407.html"
     },
     {
       "maxIntensity": "1",

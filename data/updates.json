@@ -1,49 +1,28 @@
 {
-  "lastUpdate": "2021-01-20T13:02:10.827Z",
+  "lastUpdate": "2021-01-20T16:13:23.475Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-20T03:25:00.000Z",
-      "uuid": "20210120032543393-20122237",
-      "regionName": "Ibaraki-ken Hokubu",
-      "magnitude": 2.5,
-      "occurredAt": "2021-01-20T03:22:00.000Z",
+      "issuedAt": "2021-01-20T06:27:00.000Z",
+      "uuid": "20210120062715393-20152407",
+      "regionName": "Nemuro-hanto Nanto-oki",
+      "magnitude": 3.4,
+      "occurredAt": "2021-01-20T06:24:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 36.6,
-          "longitude": 140.6
+          "latitude": 43.3,
+          "longitude": 146
         },
         "sexagesimal": {
-          "latitude": "36° 36' 00\"",
-          "longitude": "140° 36' 00\""
+          "latitude": "43° 18' 00\"",
+          "longitude": "146° 00' 00\""
         },
-        "depth": 10
+        "depth": 50
       },
-      "lastUpdate": "2021-01-20T04:01:43.326Z",
-      "url": "https://www.jma.go.jp/en/quake/20210120032543393-20122237.html"
-    },
-    {
-      "maxIntensity": "1",
-      "issuedAt": "2021-01-20T03:00:00.000Z",
-      "uuid": "20210120030010493-20115708",
-      "regionName": "Yamaguchi-ken Hokubu",
-      "magnitude": 3.1,
-      "occurredAt": "2021-01-20T02:57:00.000Z",
-      "location": {
-        "decimal": {
-          "latitude": 34.2,
-          "longitude": 131.3
-        },
-        "sexagesimal": {
-          "latitude": "34° 12' 00\"",
-          "longitude": "131° 18' 00\""
-        },
-        "depth": 10
-      },
-      "lastUpdate": "2021-01-20T04:01:44.188Z",
-      "url": "https://www.jma.go.jp/en/quake/20210120030010493-20115708.html"
+      "lastUpdate": "2021-01-20T07:12:58.095Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120062715393-20152407.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101201302.md"
+  "reportFile": "202101201613.md"
 }
