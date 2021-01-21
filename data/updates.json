@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-21T08:40:50.835Z",
+  "lastUpdate": "2021-01-21T17:12:49.427Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-20T23:03:00.000Z",
-      "uuid": "20210120230307393-21080046",
-      "regionName": "Iwate-ken Oki",
-      "magnitude": 3.6,
-      "occurredAt": "2021-01-20T23:00:00.000Z",
+      "issuedAt": "2021-01-21T07:38:00.000Z",
+      "uuid": "20210121073834493-21163602",
+      "regionName": "Iriomotejima Fukin",
+      "magnitude": 2.7,
+      "occurredAt": "2021-01-21T07:36:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 39.6,
-          "longitude": 142.1
+          "latitude": 24.3,
+          "longitude": 123.7
         },
         "sexagesimal": {
-          "latitude": "39° 36' 00\"",
-          "longitude": "142° 06' 00\""
+          "latitude": "24° 18' 00\"",
+          "longitude": "123° 42' 00\""
         },
-        "depth": 50
+        "depth": 10
       },
-      "lastUpdate": "2021-01-20T23:40:21.062Z",
-      "url": "https://www.jma.go.jp/en/quake/20210120230307393-21080046.html"
+      "lastUpdate": "2021-01-21T08:12:37.231Z",
+      "url": "https://www.jma.go.jp/en/quake/20210121073834493-21163602.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101210840.md"
+  "reportFile": "202101211712.md"
 }
