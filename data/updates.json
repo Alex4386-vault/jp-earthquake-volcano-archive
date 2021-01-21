@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-21T17:12:49.427Z",
+  "lastUpdate": "2021-01-22T07:34:35.391Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-21T07:38:00.000Z",
-      "uuid": "20210121073834493-21163602",
-      "regionName": "Iriomotejima Fukin",
-      "magnitude": 2.7,
-      "occurredAt": "2021-01-21T07:36:00.000Z",
+      "issuedAt": "2021-01-21T22:08:00.000Z",
+      "uuid": "20210121220832393-22070435",
+      "regionName": "Chiba-ken Hokuseibu",
+      "magnitude": 3.8,
+      "occurredAt": "2021-01-21T22:04:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 24.3,
-          "longitude": 123.7
+          "latitude": 35.7,
+          "longitude": 140.2
         },
         "sexagesimal": {
-          "latitude": "24° 18' 00\"",
-          "longitude": "123° 42' 00\""
+          "latitude": "35° 42' 00\"",
+          "longitude": "140° 12' 00\""
         },
-        "depth": 10
+        "depth": 70
       },
-      "lastUpdate": "2021-01-21T08:12:37.231Z",
-      "url": "https://www.jma.go.jp/en/quake/20210121073834493-21163602.html"
+      "lastUpdate": "2021-01-21T22:34:29.105Z",
+      "url": "https://www.jma.go.jp/en/quake/20210121220832393-22070435.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101211712.md"
+  "reportFile": "202101220734.md"
 }

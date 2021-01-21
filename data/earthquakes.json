@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-21T13:20:06.307Z",
+  "lastUpdate": "2021-01-21T22:34:35.388Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1359,6 +1359,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:36.754Z",
       "url": "https://www.jma.go.jp/en/quake/20201222025454393-22115204.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-21T22:08:00.000Z",
+      "uuid": "20210121220832393-22070435",
+      "regionName": "Chiba-ken Hokuseibu",
+      "magnitude": 3.8,
+      "occurredAt": "2021-01-21T22:04:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 35.7,
+          "longitude": 140.2
+        },
+        "sexagesimal": {
+          "latitude": "35° 42' 00\"",
+          "longitude": "140° 12' 00\""
+        },
+        "depth": 70
+      },
+      "lastUpdate": "2021-01-21T22:34:29.105Z",
+      "url": "https://www.jma.go.jp/en/quake/20210121220832393-22070435.html"
     },
     {
       "maxIntensity": "1",
