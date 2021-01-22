@@ -117,5 +117,5 @@ dist
 ehthumbs.db
 Thumbs.db
 
-## Support for custom commit msg
+# Temporary commit message
 .COMMIT_MSG
