@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-22T15:11:29.230Z",
+  "lastUpdate": "2021-01-22T19:14:32.670Z",
   "earthquakes": [
     {
-      "maxIntensity": "2",
-      "issuedAt": "2021-01-22T05:49:00.000Z",
-      "uuid": "20210122054935493-22144629",
-      "regionName": "Ariake-kai",
-      "magnitude": 3.8,
-      "occurredAt": "2021-01-22T05:46:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-22T09:40:00.000Z",
+      "uuid": "20210122094050393-22183815",
+      "regionName": "Miyagi-ken Oki",
+      "magnitude": 3.7,
+      "occurredAt": "2021-01-22T09:38:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 32.8,
-          "longitude": 130.5
+          "latitude": 38.3,
+          "longitude": 142
         },
         "sexagesimal": {
-          "latitude": "32° 48' 00\"",
-          "longitude": "130° 30' 00\""
+          "latitude": "38° 18' 00\"",
+          "longitude": "142° 00' 00\""
         },
-        "depth": 10
+        "depth": 50
       },
-      "lastUpdate": "2021-01-22T06:11:16.616Z",
-      "url": "https://www.jma.go.jp/en/quake/20210122054935493-22144629.html"
+      "lastUpdate": "2021-01-22T10:14:26.408Z",
+      "url": "https://www.jma.go.jp/en/quake/20210122094050393-22183815.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101221511.md"
+  "reportFile": "202101221914.md"
 }
