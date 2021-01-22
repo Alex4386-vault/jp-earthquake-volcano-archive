@@ -1,8 +1,14 @@
 # Japan Earthquake & Volcano Database Archive
 This repository will automatically parse the volcano and earthquake data into machine readable JSON format and archive it from [Japan Meteorological Agency's webpage](https://www.jma.go.jp/jma/indexe.html).  
 
+## Reason why this was created
+Since [Stella IT Inc.](https://stella-it.com) has abroad network POPs, It needs to monitor data centers on japan.  
+Since Japanese Government does NOT provide openAPIs for these, I created pseudo-api and archiving tool for machines on GitHub.  
+
+Therefore, data on [data/](data/) and [reports](reports/) is copyrighted by [Japanese Meteorlogical Agency](https://www.jma.go.jp/jma/indexe.html). Not by me and not covered by this software's license (WTFPL).  
+
 ## Update Intervals
-GitHub Actions will run every 20 minutes or every push.  
+GitHub Actions will run every 10 minutes or every push.  
 The commit will not occurr when no updates are found in the webpage.  
   
 If you are going to use raw data, consider using a `If-Modified-Since` header while requesting to Raw JSON file.  
