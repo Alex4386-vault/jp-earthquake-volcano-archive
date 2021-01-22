@@ -65,9 +65,8 @@ ${
       .map((quake) => {
         const humanTime = convertDateToHumanStrings(quake.occurredAt);
         return `### ${quake.regionName} @ M${quake.magnitude}
-${humanTime.ymdString} ${humanTime.timeString} ${
-          humanTime.nengoString !== undefined ? `(${humanTime.nengoString} ${humanTime.timeString})\n` : ''
-        }  
+${humanTime.ymdString} ${humanTime.timeString} UTC  
+        ${humanTime.nengoString !== undefined ? `(${humanTime.nengoString})\n` : ''}  
         [Report Link](${quake.url})  
 [epicenter @ ${quake.location.depth}km](${getMapLink(quake.location)})`;
       })
