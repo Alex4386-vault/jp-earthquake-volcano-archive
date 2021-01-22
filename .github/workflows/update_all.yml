@@ -43,7 +43,7 @@ jobs:
         git config user.name Alex4386
         git config user.email psh010209@gmail.com
         test -f .COMMIT_MSG && git commit -F .COMMIT_MSG
-        git commit -m "chore: update alerts and volcanoes"
+        test -f .COMMIT_MSG || git commit -m "chore: update alerts and volcanoes" || exit 0
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
