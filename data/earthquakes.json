@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-07T21:16:47.872Z",
+  "lastUpdate": "2021-01-22T19:37:09.356Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1278,6 +1278,27 @@
     },
     {
       "maxIntensity": "1",
+      "issuedAt": "2021-01-22T18:50:00.000Z",
+      "uuid": "20210122185007393-23034642",
+      "regionName": "Fukushima-ken Aizu",
+      "magnitude": 3.1,
+      "occurredAt": "2021-01-22T18:46:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.4,
+          "longitude": 139.5
+        },
+        "sexagesimal": {
+          "latitude": "37° 24' 00\"",
+          "longitude": "139° 30' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-01-22T19:36:49.914Z",
+      "url": "https://www.jma.go.jp/en/quake/20210122185007393-23034642.html"
+    },
+    {
+      "maxIntensity": "1",
       "issuedAt": "2020-12-22T18:28:00.000Z",
       "uuid": "20201222182817493-23032445",
       "regionName": "Amami-oshima Hokusei-oki",
@@ -1319,6 +1340,66 @@
       "url": "https://www.jma.go.jp/en/quake/20201222170853393-23020408.html"
     },
     {
+      "maxIntensity": "3",
+      "issuedAt": "2021-01-22T16:08:00.000Z",
+      "uuid": "20210122160828393-23010403",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4.6,
+      "occurredAt": "2021-01-22T16:04:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.3,
+          "longitude": 141.6
+        },
+        "sexagesimal": {
+          "latitude": "37° 18' 00\"",
+          "longitude": "141° 36' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2021-01-22T17:20:54.943Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Naraha-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Futaba-machi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Fukushima-ken Hamadori"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210122160828393-23010403.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-22T09:40:00.000Z",
+      "uuid": "20210122094050393-22183815",
+      "regionName": "Miyagi-ken Oki",
+      "magnitude": 3.7,
+      "occurredAt": "2021-01-22T09:38:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 38.3,
+          "longitude": 142
+        },
+        "sexagesimal": {
+          "latitude": "38° 18' 00\"",
+          "longitude": "142° 00' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-22T10:14:26.408Z",
+      "url": "https://www.jma.go.jp/en/quake/20210122094050393-22183815.html"
+    },
+    {
       "maxIntensity": "1",
       "issuedAt": "2020-12-22T07:33:00.000Z",
       "uuid": "20201222073331393-22163059",
@@ -1340,6 +1421,27 @@
       "url": "https://www.jma.go.jp/en/quake/20201222073331393-22163059.html"
     },
     {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-22T05:49:00.000Z",
+      "uuid": "20210122054935493-22144629",
+      "regionName": "Ariake-kai",
+      "magnitude": 3.8,
+      "occurredAt": "2021-01-22T05:46:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 32.8,
+          "longitude": 130.5
+        },
+        "sexagesimal": {
+          "latitude": "32° 48' 00\"",
+          "longitude": "130° 30' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-22T06:11:16.616Z",
+      "url": "https://www.jma.go.jp/en/quake/20210122054935493-22144629.html"
+    },
+    {
       "maxIntensity": "1",
       "issuedAt": "2020-12-22T02:54:00.000Z",
       "uuid": "20201222025454393-22115204",
@@ -1359,6 +1461,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:36.754Z",
       "url": "https://www.jma.go.jp/en/quake/20201222025454393-22115204.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-21T22:08:00.000Z",
+      "uuid": "20210121220832393-22070435",
+      "regionName": "Chiba-ken Hokuseibu",
+      "magnitude": 3.8,
+      "occurredAt": "2021-01-21T22:04:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 35.7,
+          "longitude": 140.2
+        },
+        "sexagesimal": {
+          "latitude": "35° 42' 00\"",
+          "longitude": "140° 12' 00\""
+        },
+        "depth": 70
+      },
+      "lastUpdate": "2021-01-21T22:34:29.105Z",
+      "url": "https://www.jma.go.jp/en/quake/20210121220832393-22070435.html"
     },
     {
       "maxIntensity": "1",
@@ -1404,6 +1527,69 @@
     },
     {
       "maxIntensity": "1",
+      "issuedAt": "2021-01-21T07:38:00.000Z",
+      "uuid": "20210121073834493-21163602",
+      "regionName": "Iriomotejima Fukin",
+      "magnitude": 2.7,
+      "occurredAt": "2021-01-21T07:36:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 24.3,
+          "longitude": 123.7
+        },
+        "sexagesimal": {
+          "latitude": "24° 18' 00\"",
+          "longitude": "123° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-21T08:12:37.231Z",
+      "url": "https://www.jma.go.jp/en/quake/20210121073834493-21163602.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-20T23:03:00.000Z",
+      "uuid": "20210120230307393-21080046",
+      "regionName": "Iwate-ken Oki",
+      "magnitude": 3.6,
+      "occurredAt": "2021-01-20T23:00:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 39.6,
+          "longitude": 142.1
+        },
+        "sexagesimal": {
+          "latitude": "39° 36' 00\"",
+          "longitude": "142° 06' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-20T23:40:21.062Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120230307393-21080046.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-20T21:40:00.000Z",
+      "uuid": "20210120214055393-21063758",
+      "regionName": "Miyagi-ken Oki",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-20T21:37:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 38.3,
+          "longitude": 141.7
+        },
+        "sexagesimal": {
+          "latitude": "38° 18' 00\"",
+          "longitude": "141° 42' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-20T21:58:37.222Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120214055393-21063758.html"
+    },
+    {
+      "maxIntensity": "1",
       "issuedAt": "2020-12-20T21:35:00.000Z",
       "uuid": "20201220213511493-21063214",
       "regionName": "Kumamoto-ken Kumamoto-chiho",
@@ -1422,6 +1608,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:37.591Z",
       "url": "https://www.jma.go.jp/en/quake/20201220213511493-21063214.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-20T21:05:00.000Z",
+      "uuid": "20210120210550493-21060259",
+      "regionName": "Iriomotejima Fukin",
+      "magnitude": 4.2,
+      "occurredAt": "2021-01-20T21:02:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 24.4,
+          "longitude": 123.4
+        },
+        "sexagesimal": {
+          "latitude": "24° 24' 00\"",
+          "longitude": "123° 24' 00\""
+        },
+        "depth": 20
+      },
+      "lastUpdate": "2021-01-20T21:18:58.788Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120210550493-21060259.html"
     },
     {
       "maxIntensity": "5 Lower",
@@ -1751,6 +1958,48 @@
     },
     {
       "maxIntensity": "1",
+      "issuedAt": "2021-01-20T14:45:00.000Z",
+      "uuid": "20210120144549393-20234325",
+      "regionName": "Nagano-ken Nambu",
+      "magnitude": 2.3,
+      "occurredAt": "2021-01-20T14:43:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36,
+          "longitude": 137.6
+        },
+        "sexagesimal": {
+          "latitude": "36° 00' 00\"",
+          "longitude": "137° 36' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-20T15:02:47.838Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120144549393-20234325.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-20T13:55:00.000Z",
+      "uuid": "20210120135514493-20225225",
+      "regionName": "Wakayama-ken Hokubu",
+      "magnitude": 2.6,
+      "occurredAt": "2021-01-20T13:52:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.2,
+          "longitude": 135.2
+        },
+        "sexagesimal": {
+          "latitude": "34° 12' 00\"",
+          "longitude": "135° 12' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-01-20T14:14:57.101Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120135514493-20225225.html"
+    },
+    {
+      "maxIntensity": "1",
       "issuedAt": "2020-12-20T13:50:00.000Z",
       "uuid": "20201220135036493-20224800",
       "regionName": "Osaka-fu Nambu",
@@ -1856,6 +2105,132 @@
     },
     {
       "maxIntensity": "1",
+      "issuedAt": "2021-01-20T06:27:00.000Z",
+      "uuid": "20210120062715393-20152407",
+      "regionName": "Nemuro-hanto Nanto-oki",
+      "magnitude": 3.4,
+      "occurredAt": "2021-01-20T06:24:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 43.3,
+          "longitude": 146
+        },
+        "sexagesimal": {
+          "latitude": "43° 18' 00\"",
+          "longitude": "146° 00' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-20T07:12:58.095Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120062715393-20152407.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-20T03:25:00.000Z",
+      "uuid": "20210120032543393-20122237",
+      "regionName": "Ibaraki-ken Hokubu",
+      "magnitude": 2.5,
+      "occurredAt": "2021-01-20T03:22:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.6,
+          "longitude": 140.6
+        },
+        "sexagesimal": {
+          "latitude": "36° 36' 00\"",
+          "longitude": "140° 36' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-20T04:01:43.326Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120032543393-20122237.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-20T03:00:00.000Z",
+      "uuid": "20210120030010493-20115708",
+      "regionName": "Yamaguchi-ken Hokubu",
+      "magnitude": 3.1,
+      "occurredAt": "2021-01-20T02:57:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.2,
+          "longitude": 131.3
+        },
+        "sexagesimal": {
+          "latitude": "34° 12' 00\"",
+          "longitude": "131° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-20T04:01:44.188Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120030010493-20115708.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-20T01:41:00.000Z",
+      "uuid": "20210120014125493-20103825",
+      "regionName": "Amami-oshima Kinkai",
+      "magnitude": 3.1,
+      "occurredAt": "2021-01-20T01:38:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 28.3,
+          "longitude": 130
+        },
+        "sexagesimal": {
+          "latitude": "28° 18' 00\"",
+          "longitude": "130° 00' 00\""
+        },
+        "depth": 20
+      },
+      "lastUpdate": "2021-01-20T02:13:15.976Z",
+      "url": "https://www.jma.go.jp/en/quake/20210120014125493-20103825.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-19T21:30:00.000Z",
+      "uuid": "20210119213021493-20062735",
+      "regionName": "Kii-suido",
+      "magnitude": 2.6,
+      "occurredAt": "2021-01-19T21:27:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.1,
+          "longitude": 135.1
+        },
+        "sexagesimal": {
+          "latitude": "34° 06' 00\"",
+          "longitude": "135° 06' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-19T21:59:28.286Z",
+      "url": "https://www.jma.go.jp/en/quake/20210119213021493-20062735.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-19T20:13:00.000Z",
+      "uuid": "20210119201336493-20051002",
+      "regionName": "Kumamoto-ken Kumamoto-chiho",
+      "magnitude": 1.8,
+      "occurredAt": "2021-01-19T20:10:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 32.7,
+          "longitude": 130.7
+        },
+        "sexagesimal": {
+          "latitude": "32° 42' 00\"",
+          "longitude": "130° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-19T20:21:49.754Z",
+      "url": "https://www.jma.go.jp/en/quake/20210119201336493-20051002.html"
+    },
+    {
+      "maxIntensity": "1",
       "issuedAt": "2020-12-19T19:19:00.000Z",
       "uuid": "20201219191903493-20041539",
       "regionName": "Kumamoto-ken Kumamoto-chiho",
@@ -1958,6 +2333,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:43.059Z",
       "url": "https://www.jma.go.jp/en/quake/20201219110657393-19200332.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-19T07:11:00.000Z",
+      "uuid": "20210119071143393-19160857",
+      "regionName": "Iwate-ken Oki",
+      "magnitude": 3.5,
+      "occurredAt": "2021-01-19T07:08:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 39.1,
+          "longitude": 142.1
+        },
+        "sexagesimal": {
+          "latitude": "39° 06' 00\"",
+          "longitude": "142° 06' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-19T07:12:05.122Z",
+      "url": "https://www.jma.go.jp/en/quake/20210119071143393-19160857.html"
     },
     {
       "maxIntensity": "1",
@@ -2086,6 +2482,48 @@
       "url": "https://www.jma.go.jp/en/quake/20201219000252493-19085948.html"
     },
     {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-18T20:50:00.000Z",
+      "uuid": "20210118205019393-19054740",
+      "regionName": "Miyagi-ken Oki",
+      "magnitude": 4,
+      "occurredAt": "2021-01-18T20:47:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 38.9,
+          "longitude": 141.9
+        },
+        "sexagesimal": {
+          "latitude": "38° 54' 00\"",
+          "longitude": "141° 54' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-18T21:17:14.911Z",
+      "url": "https://www.jma.go.jp/en/quake/20210118205019393-19054740.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-18T20:14:00.000Z",
+      "uuid": "20210118201435393-19051125",
+      "regionName": "Ishikawa-ken Noto-chiho",
+      "magnitude": 3,
+      "occurredAt": "2021-01-18T20:11:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.5,
+          "longitude": 137.3
+        },
+        "sexagesimal": {
+          "latitude": "37° 30' 00\"",
+          "longitude": "137° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-18T20:21:04.713Z",
+      "url": "https://www.jma.go.jp/en/quake/20210118201435393-19051125.html"
+    },
+    {
       "maxIntensity": "1",
       "issuedAt": "2020-12-18T18:12:00.000Z",
       "uuid": "20201218181212393-19030918",
@@ -2171,6 +2609,48 @@
     },
     {
       "maxIntensity": "2",
+      "issuedAt": "2021-01-18T14:59:00.000Z",
+      "uuid": "20210118145949493-18235544",
+      "regionName": "Amami-oshima Kinkai",
+      "magnitude": 3.4,
+      "occurredAt": "2021-01-18T14:55:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 28.3,
+          "longitude": 130
+        },
+        "sexagesimal": {
+          "latitude": "28° 18' 00\"",
+          "longitude": "130° 00' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2021-01-18T15:12:58.057Z",
+      "url": "https://www.jma.go.jp/en/quake/20210118145949493-18235544.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-18T14:48:00.000Z",
+      "uuid": "20210118144804393-18234535",
+      "regionName": "Tsugaru-kaikyo",
+      "magnitude": 2.7,
+      "occurredAt": "2021-01-18T14:45:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 41.5,
+          "longitude": 141
+        },
+        "sexagesimal": {
+          "latitude": "41° 30' 00\"",
+          "longitude": "141° 00' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-18T15:12:58.828Z",
+      "url": "https://www.jma.go.jp/en/quake/20210118144804393-18234535.html"
+    },
+    {
+      "maxIntensity": "2",
       "issuedAt": "2020-12-18T13:44:00.000Z",
       "uuid": "20201218134427393-18224141",
       "regionName": "Niijima-Kozushima Kinkai",
@@ -2210,6 +2690,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:46.425Z",
       "url": "https://www.jma.go.jp/en/quake/20201218132756393-18222443.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-18T13:23:00.000Z",
+      "uuid": "20210118132309393-18222041",
+      "regionName": "Fukui-ken Reihoku",
+      "magnitude": 2.6,
+      "occurredAt": "2021-01-18T13:20:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 35.9,
+          "longitude": 136.6
+        },
+        "sexagesimal": {
+          "latitude": "35° 54' 00\"",
+          "longitude": "136° 36' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-18T13:35:25.406Z",
+      "url": "https://www.jma.go.jp/en/quake/20210118132309393-18222041.html"
     },
     {
       "maxIntensity": "1",
@@ -2328,6 +2829,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:47.880Z",
       "url": "https://www.jma.go.jp/en/quake/20201218114337393-18204055.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-18T11:41:00.000Z",
+      "uuid": "20210118114156493-18203817",
+      "regionName": "Niijima-Kozushima Kinkai",
+      "magnitude": 2.4,
+      "occurredAt": "2021-01-18T11:38:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.5,
+          "longitude": 139.2
+        },
+        "sexagesimal": {
+          "latitude": "34° 30' 00\"",
+          "longitude": "139° 12' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-18T11:44:42.514Z",
+      "url": "https://www.jma.go.jp/en/quake/20210118114156493-18203817.html"
     },
     {
       "maxIntensity": "4",
@@ -2549,6 +3071,867 @@
       },
       "lastUpdate": "2020-12-25T13:33:50.068Z",
       "url": "https://www.jma.go.jp/en/quake/20201218052726493-18142415.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-18T02:10:00.000Z",
+      "uuid": "20210118021027393-18110628",
+      "regionName": "Etorofuto Nanto-oki",
+      "magnitude": 4.8,
+      "occurredAt": "2021-01-18T02:06:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 44.5,
+          "longitude": 148.1
+        },
+        "sexagesimal": {
+          "latitude": "44° 30' 00\"",
+          "longitude": "148° 06' 00\""
+        },
+        "depth": 120
+      },
+      "lastUpdate": "2021-01-18T02:10:57.732Z",
+      "url": "https://www.jma.go.jp/en/quake/20210118021027393-18110628.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-17T11:20:00.000Z",
+      "uuid": "20210117112008493-17201715",
+      "regionName": "Kii-suido",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-17T11:17:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34,
+          "longitude": 134.8
+        },
+        "sexagesimal": {
+          "latitude": "34° 00' 00\"",
+          "longitude": "134° 48' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-17T11:24:57.934Z",
+      "url": "https://www.jma.go.jp/en/quake/20210117112008493-17201715.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-17T09:27:00.000Z",
+      "uuid": "20210117092721493-17182424",
+      "regionName": "Hyuga-nada",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-17T09:24:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 32.1,
+          "longitude": 131.8
+        },
+        "sexagesimal": {
+          "latitude": "32° 06' 00\"",
+          "longitude": "131° 48' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2021-01-17T10:26:19.225Z",
+      "url": "https://www.jma.go.jp/en/quake/20210117092721493-17182424.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-17T03:44:00.000Z",
+      "uuid": "20210117034454393-17124211",
+      "regionName": "Gifu-ken Mino-tobu",
+      "magnitude": 3.1,
+      "occurredAt": "2021-01-17T03:42:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 35.3,
+          "longitude": 137.2
+        },
+        "sexagesimal": {
+          "latitude": "35° 18' 00\"",
+          "longitude": "137° 12' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2021-01-17T03:58:15.410Z",
+      "url": "https://www.jma.go.jp/en/quake/20210117034454393-17124211.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-16T21:36:00.000Z",
+      "uuid": "20210116213636493-17063252",
+      "regionName": "Kagoshima-wan",
+      "magnitude": 2.2,
+      "occurredAt": "2021-01-16T21:32:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 31.3,
+          "longitude": 130.6
+        },
+        "sexagesimal": {
+          "latitude": "31° 18' 00\"",
+          "longitude": "130° 36' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-01-16T21:51:01.287Z",
+      "url": "https://www.jma.go.jp/en/quake/20210116213636493-17063252.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-16T17:42:00.000Z",
+      "uuid": "20210116174214393-17023923",
+      "regionName": "Iburi-chiho Chutobu",
+      "magnitude": 2.5,
+      "occurredAt": "2021-01-16T17:39:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 42.5,
+          "longitude": 141.1
+        },
+        "sexagesimal": {
+          "latitude": "42° 30' 00\"",
+          "longitude": "141° 06' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-16T18:20:59.981Z",
+      "url": "https://www.jma.go.jp/en/quake/20210116174214393-17023923.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-16T11:59:00.000Z",
+      "uuid": "20210116115903393-16205525",
+      "regionName": "Miyakejima Kinkai",
+      "magnitude": 2.7,
+      "occurredAt": "2021-01-16T11:55:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 33.9,
+          "longitude": 139.5
+        },
+        "sexagesimal": {
+          "latitude": "33° 54' 00\"",
+          "longitude": "139° 30' 00\""
+        },
+        "depth": 20
+      },
+      "lastUpdate": "2021-01-16T12:05:02.639Z",
+      "url": "https://www.jma.go.jp/en/quake/20210116115903393-16205525.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-16T10:28:00.000Z",
+      "uuid": "20210116102839393-16192606",
+      "regionName": "Nagano-ken Chubu",
+      "magnitude": 2.9,
+      "occurredAt": "2021-01-16T10:26:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.2,
+          "longitude": 137.7
+        },
+        "sexagesimal": {
+          "latitude": "36° 12' 00\"",
+          "longitude": "137° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-16T11:12:39.325Z",
+      "url": "https://www.jma.go.jp/en/quake/20210116102839393-16192606.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-16T08:11:00.000Z",
+      "uuid": "20210116081136393-16170848",
+      "regionName": "Iwate-ken Oki",
+      "magnitude": 3.9,
+      "occurredAt": "2021-01-16T08:08:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 39.6,
+          "longitude": 142.1
+        },
+        "sexagesimal": {
+          "latitude": "39° 36' 00\"",
+          "longitude": "142° 06' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-16T08:19:40.985Z",
+      "url": "https://www.jma.go.jp/en/quake/20210116081136393-16170848.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-16T04:40:00.000Z",
+      "uuid": "20210116044001493-16133646",
+      "regionName": "Kagoshima-wan",
+      "magnitude": 2.2,
+      "occurredAt": "2021-01-16T04:36:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 31.3,
+          "longitude": 130.6
+        },
+        "sexagesimal": {
+          "latitude": "31° 18' 00\"",
+          "longitude": "130° 36' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-01-16T04:57:40.633Z",
+      "url": "https://www.jma.go.jp/en/quake/20210116044001493-16133646.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-16T03:04:00.000Z",
+      "uuid": "20210116030423393-16120134",
+      "regionName": "Nagano-ken Hokubu",
+      "magnitude": 2.1,
+      "occurredAt": "2021-01-16T03:01:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.7,
+          "longitude": 138.1
+        },
+        "sexagesimal": {
+          "latitude": "36° 42' 00\"",
+          "longitude": "138° 06' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-16T03:57:16.513Z",
+      "url": "https://www.jma.go.jp/en/quake/20210116030423393-16120134.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-15T23:22:00.000Z",
+      "uuid": "20210115232223393-16081937",
+      "regionName": "Nagano-ken Hokubu",
+      "magnitude": 2.6,
+      "occurredAt": "2021-01-15T23:19:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.7,
+          "longitude": 138.2
+        },
+        "sexagesimal": {
+          "latitude": "36° 42' 00\"",
+          "longitude": "138° 12' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-15T23:25:32.691Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115232223393-16081937.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-15T20:13:00.000Z",
+      "uuid": "20210115201326393-16051020",
+      "regionName": "Tokachi Oki",
+      "magnitude": 4.2,
+      "occurredAt": "2021-01-15T20:10:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 42,
+          "longitude": 144.4
+        },
+        "sexagesimal": {
+          "latitude": "42° 00' 00\"",
+          "longitude": "144° 24' 00\""
+        },
+        "depth": 60
+      },
+      "lastUpdate": "2021-01-15T20:20:30.166Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115201326393-16051020.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-15T17:07:00.000Z",
+      "uuid": "20210115170710393-16020429",
+      "regionName": "Tokachi-chiho Chubu",
+      "magnitude": 2.4,
+      "occurredAt": "2021-01-15T17:04:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 42.8,
+          "longitude": 143.6
+        },
+        "sexagesimal": {
+          "latitude": "42° 48' 00\"",
+          "longitude": "143° 36' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2021-01-15T17:16:56.763Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115170710393-16020429.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-15T15:43:00.000Z",
+      "uuid": "20210115154337493-16004024",
+      "regionName": "Miyakojima Kinkai",
+      "magnitude": 4,
+      "occurredAt": "2021-01-15T15:40:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 25,
+          "longitude": 125.6
+        },
+        "sexagesimal": {
+          "latitude": "25° 00' 00\"",
+          "longitude": "125° 36' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-15T15:59:01.928Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115154337493-16004024.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-15T13:43:00.000Z",
+      "uuid": "20210115134303393-15223904",
+      "regionName": "Mie-ken Nanto-oki",
+      "magnitude": 5.3,
+      "occurredAt": "2021-01-15T13:39:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 33.7,
+          "longitude": 137.3
+        },
+        "sexagesimal": {
+          "latitude": "33° 42' 00\"",
+          "longitude": "137° 18' 00\""
+        },
+        "depth": 390
+      },
+      "lastUpdate": "2021-01-15T14:13:57.055Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115134303393-15223904.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-15T13:19:00.000Z",
+      "uuid": "20210115131927393-15221618",
+      "regionName": "Ibaraki-ken Hokubu",
+      "magnitude": 3.1,
+      "occurredAt": "2021-01-15T13:16:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.5,
+          "longitude": 140.5
+        },
+        "sexagesimal": {
+          "latitude": "36° 30' 00\"",
+          "longitude": "140° 30' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-15T14:13:57.754Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115131927393-15221618.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-15T08:44:00.000Z",
+      "uuid": "20210115084404393-15174015",
+      "regionName": "Tokachi-chiho Nambu",
+      "magnitude": 4.4,
+      "occurredAt": "2021-01-15T08:40:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 42.5,
+          "longitude": 143.3
+        },
+        "sexagesimal": {
+          "latitude": "42° 30' 00\"",
+          "longitude": "143° 18' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-15T09:17:02.533Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115084404393-15174015.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-15T07:41:00.000Z",
+      "uuid": "20210115074126493-15163831",
+      "regionName": "Amami-oshima Kinkai",
+      "magnitude": 3.5,
+      "occurredAt": "2021-01-15T07:38:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 27.6,
+          "longitude": 128.8
+        },
+        "sexagesimal": {
+          "latitude": "27° 36' 00\"",
+          "longitude": "128° 48' 00\""
+        },
+        "depth": 20
+      },
+      "lastUpdate": "2021-01-15T08:19:24.439Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115074126493-15163831.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-15T05:07:00.000Z",
+      "uuid": "20210115050726393-15140418",
+      "regionName": "Hachijojima Kinkai",
+      "magnitude": 3.6,
+      "occurredAt": "2021-01-15T05:04:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 32.9,
+          "longitude": 139.5
+        },
+        "sexagesimal": {
+          "latitude": "32° 54' 00\"",
+          "longitude": "139° 30' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-15T05:44:46.761Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115050726393-15140418.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-15T04:02:00.000Z",
+      "uuid": "20210115040216393-15125937",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 3.8,
+      "occurredAt": "2021-01-15T03:59:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.2,
+          "longitude": 141.2
+        },
+        "sexagesimal": {
+          "latitude": "37° 12' 00\"",
+          "longitude": "141° 12' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2021-01-15T04:51:47.751Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115040216393-15125937.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-15T02:19:00.000Z",
+      "uuid": "20210115021907393-15111635",
+      "regionName": "Sado Fukin",
+      "magnitude": 3.5,
+      "occurredAt": "2021-01-15T02:16:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.8,
+          "longitude": 138.3
+        },
+        "sexagesimal": {
+          "latitude": "37° 48' 00\"",
+          "longitude": "138° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-15T02:42:17.017Z",
+      "url": "https://www.jma.go.jp/en/quake/20210115021907393-15111635.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-14T16:31:00.000Z",
+      "uuid": "20210114163141493-15012832",
+      "regionName": "Miyakojima Hokusei-oki",
+      "magnitude": 4.5,
+      "occurredAt": "2021-01-14T16:28:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 25.3,
+          "longitude": 124.3
+        },
+        "sexagesimal": {
+          "latitude": "25° 18' 00\"",
+          "longitude": "124° 18' 00\""
+        },
+        "depth": 130
+      },
+      "lastUpdate": "2021-01-14T17:16:25.162Z",
+      "url": "https://www.jma.go.jp/en/quake/20210114163141493-15012832.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-14T13:10:00.000Z",
+      "uuid": "20210114131024493-14220625",
+      "regionName": "Kagoshima-wan",
+      "magnitude": 2.3,
+      "occurredAt": "2021-01-14T13:06:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 31.4,
+          "longitude": 130.6
+        },
+        "sexagesimal": {
+          "latitude": "31° 24' 00\"",
+          "longitude": "130° 36' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-14T13:34:31.217Z",
+      "url": "https://www.jma.go.jp/en/quake/20210114131024493-14220625.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-14T03:51:00.000Z",
+      "uuid": "20210114035111393-14124811",
+      "regionName": "Ibaraki-ken Oki",
+      "magnitude": 3.1,
+      "occurredAt": "2021-01-14T03:48:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.3,
+          "longitude": 140.6
+        },
+        "sexagesimal": {
+          "latitude": "36° 18' 00\"",
+          "longitude": "140° 36' 00\""
+        },
+        "depth": 70
+      },
+      "lastUpdate": "2021-01-14T03:58:44.441Z",
+      "url": "https://www.jma.go.jp/en/quake/20210114035111393-14124811.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-14T00:33:00.000Z",
+      "uuid": "20210114003303493-14092949",
+      "regionName": "Kagoshima-wan",
+      "magnitude": 2,
+      "occurredAt": "2021-01-14T00:29:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 31.3,
+          "longitude": 130.6
+        },
+        "sexagesimal": {
+          "latitude": "31° 18' 00\"",
+          "longitude": "130° 36' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-01-14T01:21:01.503Z",
+      "url": "https://www.jma.go.jp/en/quake/20210114003303493-14092949.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-13T16:00:00.000Z",
+      "uuid": "20210113160046393-14005749",
+      "regionName": "Miyagi-ken Oki",
+      "magnitude": 4,
+      "occurredAt": "2021-01-13T15:57:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 38.3,
+          "longitude": 141.8
+        },
+        "sexagesimal": {
+          "latitude": "38° 18' 00\"",
+          "longitude": "141° 48' 00\""
+        },
+        "depth": 60
+      },
+      "lastUpdate": "2021-01-13T17:14:54.652Z",
+      "url": "https://www.jma.go.jp/en/quake/20210113160046393-14005749.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-13T10:32:00.000Z",
+      "uuid": "20210113103236393-13192911",
+      "regionName": "Nagano-ken Chubu",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-13T10:29:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.2,
+          "longitude": 137.7
+        },
+        "sexagesimal": {
+          "latitude": "36° 12' 00\"",
+          "longitude": "137° 42' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-01-13T11:11:19.855Z",
+      "url": "https://www.jma.go.jp/en/quake/20210113103236393-13192911.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-13T04:48:00.000Z",
+      "uuid": "20210113044845393-13134532",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4.3,
+      "occurredAt": "2021-01-13T04:45:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.8,
+          "longitude": 141.8
+        },
+        "sexagesimal": {
+          "latitude": "36° 48' 00\"",
+          "longitude": "141° 48' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2021-01-13T05:12:54.176Z",
+      "url": "https://www.jma.go.jp/en/quake/20210113044845393-13134532.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-13T00:10:00.000Z",
+      "uuid": "20210113001003393-13090750",
+      "regionName": "Fukushima-ken Aizu",
+      "magnitude": 2.8,
+      "occurredAt": "2021-01-13T00:07:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.3,
+          "longitude": 139.4
+        },
+        "sexagesimal": {
+          "latitude": "37° 18' 00\"",
+          "longitude": "139° 24' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-13T01:12:45.155Z",
+      "url": "https://www.jma.go.jp/en/quake/20210113001003393-13090750.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-12T02:44:00.000Z",
+      "uuid": "20210112024450393-12114013",
+      "regionName": "Hokkaido Seiho-oki",
+      "magnitude": 5.6,
+      "occurredAt": "2021-01-12T02:40:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 43.6,
+          "longitude": 140
+        },
+        "sexagesimal": {
+          "latitude": "43° 36' 00\"",
+          "longitude": "140° 00' 00\""
+        },
+        "depth": 240
+      },
+      "lastUpdate": "2021-01-12T03:27:09.912Z",
+      "url": "https://www.jma.go.jp/en/quake/20210112024450393-12114013.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-12T02:10:00.000Z",
+      "uuid": "20210112021004493-12110724",
+      "regionName": "Kochi-ken Seibu",
+      "magnitude": 2.8,
+      "occurredAt": "2021-01-12T02:07:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 33,
+          "longitude": 132.7
+        },
+        "sexagesimal": {
+          "latitude": "33° 00' 00\"",
+          "longitude": "132° 42' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2021-01-12T02:33:45.821Z",
+      "url": "https://www.jma.go.jp/en/quake/20210112021004493-12110724.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-11T00:28:00.000Z",
+      "uuid": "20210111002833493-11092503",
+      "regionName": "Miyakojima Hokusei-oki",
+      "magnitude": 4.9,
+      "occurredAt": "2021-01-11T00:25:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 25.7,
+          "longitude": 124.4
+        },
+        "sexagesimal": {
+          "latitude": "25° 42' 00\"",
+          "longitude": "124° 24' 00\""
+        },
+        "depth": 150
+      },
+      "lastUpdate": "2021-01-11T01:03:30.837Z",
+      "url": "https://www.jma.go.jp/en/quake/20210111002833493-11092503.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-10T06:41:00.000Z",
+      "uuid": "20210110064116393-10153827",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4.2,
+      "occurredAt": "2021-01-10T06:38:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.8,
+          "longitude": 141.6
+        },
+        "sexagesimal": {
+          "latitude": "37° 48' 00\"",
+          "longitude": "141° 36' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-10T06:59:09.378Z",
+      "url": "https://www.jma.go.jp/en/quake/20210110064116393-10153827.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-10T04:49:00.000Z",
+      "uuid": "20210110044920393-10134641",
+      "regionName": "Gifu-ken Mino-chuseibu",
+      "magnitude": 2.6,
+      "occurredAt": "2021-01-10T04:46:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 35.8,
+          "longitude": 136.9
+        },
+        "sexagesimal": {
+          "latitude": "35° 48' 00\"",
+          "longitude": "136° 54' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-10T05:10:19.084Z",
+      "url": "https://www.jma.go.jp/en/quake/20210110044920393-10134641.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-10T03:35:00.000Z",
+      "uuid": "20210110033554493-10123258",
+      "regionName": "Kumamoto-ken Kumamoto-chiho",
+      "magnitude": 2.3,
+      "occurredAt": "2021-01-10T03:32:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 32.6,
+          "longitude": 130.7
+        },
+        "sexagesimal": {
+          "latitude": "32° 36' 00\"",
+          "longitude": "130° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-10T04:19:53.653Z",
+      "url": "https://www.jma.go.jp/en/quake/20210110033554493-10123258.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-09T09:34:00.000Z",
+      "uuid": "20210109093400393-09183115",
+      "regionName": "Iwate-ken Nairiku-nambu",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-09T09:31:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 39.1,
+          "longitude": 140.9
+        },
+        "sexagesimal": {
+          "latitude": "39° 06' 00\"",
+          "longitude": "140° 54' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-09T09:43:58.006Z",
+      "url": "https://www.jma.go.jp/en/quake/20210109093400393-09183115.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-09T05:40:00.000Z",
+      "uuid": "20210109054054393-09143641",
+      "regionName": "Sanriku Oki",
+      "magnitude": 4.6,
+      "occurredAt": "2021-01-09T05:36:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.8,
+          "longitude": 142.8
+        },
+        "sexagesimal": {
+          "latitude": "37° 48' 00\"",
+          "longitude": "142° 48' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-09T05:58:09.177Z",
+      "url": "https://www.jma.go.jp/en/quake/20210109054054393-09143641.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-08T18:27:00.000Z",
+      "uuid": "20210108182723393-09032344",
+      "regionName": "Saitama-ken Nambu",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-08T18:23:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36,
+          "longitude": 139.5
+        },
+        "sexagesimal": {
+          "latitude": "36° 00' 00\"",
+          "longitude": "139° 30' 00\""
+        },
+        "depth": 60
+      },
+      "lastUpdate": "2021-01-08T19:15:24.422Z",
+      "url": "https://www.jma.go.jp/en/quake/20210108182723393-09032344.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-08T15:08:00.000Z",
+      "uuid": "20210108150800393-09000458",
+      "regionName": "Tsugaru-kaikyo",
+      "magnitude": 3.4,
+      "occurredAt": "2021-01-08T15:04:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 41.5,
+          "longitude": 141.3
+        },
+        "sexagesimal": {
+          "latitude": "41° 30' 00\"",
+          "longitude": "141° 18' 00\""
+        },
+        "depth": 90
+      },
+      "lastUpdate": "2021-01-08T15:31:23.560Z",
+      "url": "https://www.jma.go.jp/en/quake/20210108150800393-09000458.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-08T12:40:00.000Z",
+      "uuid": "20210108124020393-08213702",
+      "regionName": "Ibaraki-ken Oki",
+      "magnitude": 3.8,
+      "occurredAt": "2021-01-08T12:37:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.4,
+          "longitude": 141.1
+        },
+        "sexagesimal": {
+          "latitude": "36° 24' 00\"",
+          "longitude": "141° 06' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-08T13:16:49.168Z",
+      "url": "https://www.jma.go.jp/en/quake/20210108124020393-08213702.html"
     },
     {
       "maxIntensity": "1",

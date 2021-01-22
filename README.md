@@ -29,6 +29,10 @@ You can check `updates.json` to check when it was last synchornized.
 ## Human Readable Data
 Human readable reports (in English) is available at: [reports/](reports/).  
 Most Latest Report is available at: [reports/latest.md](reports/latest.md).
+
+## Twitter
+The automatic update for twitter of this crawl data could be found at [@JapanGeoAlert](https://twitter.com/JapanGeoAlert).  
+
 ## License
 The Source code is distributed under [WTFPL](LICENSE).  
   
