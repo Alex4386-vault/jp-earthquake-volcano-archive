@@ -1,46 +1,28 @@
 {
-  "lastUpdate": "2021-01-23T02:21:12.541Z",
+  "lastUpdate": "2021-01-23T04:37:09.361Z",
   "earthquakes": [
     {
-      "maxIntensity": "3",
-      "issuedAt": "2021-01-22T16:08:00.000Z",
-      "uuid": "20210122160828393-23010403",
-      "regionName": "Fukushima-ken Oki",
-      "magnitude": 4.6,
-      "occurredAt": "2021-01-22T16:04:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-22T18:50:00.000Z",
+      "uuid": "20210122185007393-23034642",
+      "regionName": "Fukushima-ken Aizu",
+      "magnitude": 3.1,
+      "occurredAt": "2021-01-22T18:46:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.3,
-          "longitude": 141.6
+          "latitude": 37.4,
+          "longitude": 139.5
         },
         "sexagesimal": {
-          "latitude": "37° 18' 00\"",
-          "longitude": "141° 36' 00\""
+          "latitude": "37° 24' 00\"",
+          "longitude": "139° 30' 00\""
         },
-        "depth": 30
+        "depth": null
       },
-      "lastUpdate": "2021-01-22T17:20:54.943Z",
-      "intensityByCity": [
-        {
-          "prefecture": "Fukushima",
-          "intensity": "3",
-          "city": "Naraha-machi"
-        },
-        {
-          "prefecture": "Fukushima",
-          "intensity": "3",
-          "city": "Futaba-machi"
-        }
-      ],
-      "intensityByRegion": [
-        {
-          "intensity": "3",
-          "regionName": "Fukushima-ken Hamadori"
-        }
-      ],
-      "url": "https://www.jma.go.jp/en/quake/20210122160828393-23010403.html"
+      "lastUpdate": "2021-01-22T19:36:49.914Z",
+      "url": "https://www.jma.go.jp/en/quake/20210122185007393-23034642.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101230221.md"
+  "reportFile": "202101230437.md"
 }
