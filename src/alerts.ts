@@ -1,6 +1,6 @@
 import { convertDateToHumanStrings } from './common';
 import { saveJSON } from './common/fileSystem';
-import { createReportFile } from './report';
+import { createCommitMessage, createReportFile } from './report';
 import { updateEarthquakes, updateFile, UpdateModel, updateVolcanoes } from './update';
 
 (async () => {
@@ -17,5 +17,6 @@ import { updateEarthquakes, updateFile, UpdateModel, updateVolcanoes } from './u
     updates.reportFile = convertDateToHumanStrings(updates.lastUpdate).fileSafeString + '.md';
     saveJSON(updateFile, updates);
     createReportFile(updates);
+    createCommitMessage(updates);
   }
 })();

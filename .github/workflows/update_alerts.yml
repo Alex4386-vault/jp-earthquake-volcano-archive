@@ -35,13 +35,13 @@ jobs:
       run: yarn
     - name: Run Script
       run: yarn start:alerts
-    - name: Add & Commit
-      uses: EndBug/add-and-commit@v5.2.0
-      with:
-        add: .
-        author_name: Alex4386
-        author_email: psh010209@gmail.com
-        # The message for the commit
-        message: "chore: update alerts"
+    - name: Git add and commit
+      run: |
+        git add .
+        git config user.name Alex4386
+        git config user.email psh010209@gmail.com
+        test -f .COMMIT_MSG && git commit -F .COMMIT_MSG
+        git commit -m "chore: update alerts and volcanoes"
+        git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

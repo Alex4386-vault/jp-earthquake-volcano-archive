@@ -1,6 +1,7 @@
 import { convertDateToHumanStrings, getMapLink } from './common';
 import { saveLatestReport, saveReportFile } from './common/fileSystem';
 import { UpdateModel } from './update';
+import fs from 'fs';
 
 export function createReportFile(updates: UpdateModel): void {
   let markdown = '';
@@ -75,4 +76,35 @@ ${humanTime.ymdString} ${humanTime.timeString} ${
 
   saveReportFile(humanTime.fileSafeString + '.md', markdown);
   saveLatestReport(markdown);
+}
+
+export function createCommitMessage(updates: UpdateModel): void {
+  let commitMessage = '';
+
+  const lastUpdateDate = updates.lastUpdate;
+
+  if (updates.volcanoes.length > 0 && updates.earthquakes.length > 0) {
+    // ooh- dual updates.
+    commitMessage = 'build: updated multiple volcanoes and earthquakes alerts';
+  } else if (updates.volcanoes.length > 0) {
+    if (updates.volcanoes.length === 1) {
+      const updatedVolcano = updates.volcanoes[0];
+      commitMessage = 'build: updated volcano ' + updatedVolcano.name;
+    } else {
+      commitMessage = 'build: updated multiple volcano alerts';
+    }
+  } else if (updates.earthquakes.length > 0) {
+    if (updates.earthquakes.length === 1) {
+      const updatedEarthquake = updates.earthquakes[0];
+      commitMessage = 'build: updated earthquake at ' + updatedEarthquake.regionName;
+    } else {
+      commitMessage = 'build: updated multiple earthquake alerts';
+    }
+  } else {
+    commitMessage = '';
+
+    return;
+  }
+
+  fs.writeFileSync('.COMMIT_MSG', commitMessage);
 }
