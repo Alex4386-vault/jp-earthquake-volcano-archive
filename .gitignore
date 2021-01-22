@@ -116,3 +116,6 @@ dist
 # Windows
 ehthumbs.db
 Thumbs.db
+
+## Support for custom commit msg
+.COMMIT_MSG
