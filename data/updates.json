@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-22T07:34:35.391Z",
+  "lastUpdate": "2021-01-22T15:11:29.230Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-01-21T22:08:00.000Z",
-      "uuid": "20210121220832393-22070435",
-      "regionName": "Chiba-ken Hokuseibu",
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-22T05:49:00.000Z",
+      "uuid": "20210122054935493-22144629",
+      "regionName": "Ariake-kai",
       "magnitude": 3.8,
-      "occurredAt": "2021-01-21T22:04:00.000Z",
+      "occurredAt": "2021-01-22T05:46:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 35.7,
-          "longitude": 140.2
+          "latitude": 32.8,
+          "longitude": 130.5
         },
         "sexagesimal": {
-          "latitude": "35° 42' 00\"",
-          "longitude": "140° 12' 00\""
+          "latitude": "32° 48' 00\"",
+          "longitude": "130° 30' 00\""
         },
-        "depth": 70
+        "depth": 10
       },
-      "lastUpdate": "2021-01-21T22:34:29.105Z",
-      "url": "https://www.jma.go.jp/en/quake/20210121220832393-22070435.html"
+      "lastUpdate": "2021-01-22T06:11:16.616Z",
+      "url": "https://www.jma.go.jp/en/quake/20210122054935493-22144629.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101220734.md"
+  "reportFile": "202101221511.md"
 }

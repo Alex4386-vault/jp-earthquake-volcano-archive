@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-21T22:34:35.388Z",
+  "lastUpdate": "2021-01-22T06:11:29.225Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1338,6 +1338,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:36.474Z",
       "url": "https://www.jma.go.jp/en/quake/20201222073331393-22163059.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-22T05:49:00.000Z",
+      "uuid": "20210122054935493-22144629",
+      "regionName": "Ariake-kai",
+      "magnitude": 3.8,
+      "occurredAt": "2021-01-22T05:46:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 32.8,
+          "longitude": 130.5
+        },
+        "sexagesimal": {
+          "latitude": "32° 48' 00\"",
+          "longitude": "130° 30' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-22T06:11:16.616Z",
+      "url": "https://www.jma.go.jp/en/quake/20210122054935493-22144629.html"
     },
     {
       "maxIntensity": "1",
