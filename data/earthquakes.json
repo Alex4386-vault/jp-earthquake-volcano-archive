@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-22T19:37:09.356Z",
+  "lastUpdate": "2021-01-23T06:10:20.609Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1233,6 +1233,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:34.875Z",
       "url": "https://www.jma.go.jp/en/quake/20201223131144393-23220844.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-23T05:42:00.000Z",
+      "uuid": "20210123054233393-23143934",
+      "regionName": "Hidaka-chiho Chubu",
+      "magnitude": 4.9,
+      "occurredAt": "2021-01-23T05:39:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 42.3,
+          "longitude": 142.7
+        },
+        "sexagesimal": {
+          "latitude": "42° 18' 00\"",
+          "longitude": "142° 42' 00\""
+        },
+        "depth": 120
+      },
+      "lastUpdate": "2021-01-23T06:10:02.961Z",
+      "url": "https://www.jma.go.jp/en/quake/20210123054233393-23143934.html"
     },
     {
       "maxIntensity": "1",

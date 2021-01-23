@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-23T04:37:09.361Z",
+  "lastUpdate": "2021-01-23T15:10:20.613Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-01-22T18:50:00.000Z",
-      "uuid": "20210122185007393-23034642",
-      "regionName": "Fukushima-ken Aizu",
-      "magnitude": 3.1,
-      "occurredAt": "2021-01-22T18:46:00.000Z",
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-23T05:42:00.000Z",
+      "uuid": "20210123054233393-23143934",
+      "regionName": "Hidaka-chiho Chubu",
+      "magnitude": 4.9,
+      "occurredAt": "2021-01-23T05:39:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.4,
-          "longitude": 139.5
+          "latitude": 42.3,
+          "longitude": 142.7
         },
         "sexagesimal": {
-          "latitude": "37° 24' 00\"",
-          "longitude": "139° 30' 00\""
+          "latitude": "42° 18' 00\"",
+          "longitude": "142° 42' 00\""
         },
-        "depth": null
+        "depth": 120
       },
-      "lastUpdate": "2021-01-22T19:36:49.914Z",
-      "url": "https://www.jma.go.jp/en/quake/20210122185007393-23034642.html"
+      "lastUpdate": "2021-01-23T06:10:02.961Z",
+      "url": "https://www.jma.go.jp/en/quake/20210123054233393-23143934.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101230437.md"
+  "reportFile": "202101231510.md"
 }
