@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-23T09:12:44.038Z",
+  "lastUpdate": "2021-01-23T12:05:31.784Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1233,6 +1233,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:34.875Z",
       "url": "https://www.jma.go.jp/en/quake/20201223131144393-23220844.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-23T11:22:00.000Z",
+      "uuid": "20210123112205393-23201912",
+      "regionName": "Miyagi-ken Oki",
+      "magnitude": 4.1,
+      "occurredAt": "2021-01-23T11:19:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 38.9,
+          "longitude": 142
+        },
+        "sexagesimal": {
+          "latitude": "38° 54' 00\"",
+          "longitude": "142° 00' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-01-23T12:05:16.273Z",
+      "url": "https://www.jma.go.jp/en/quake/20210123112205393-23201912.html"
     },
     {
       "maxIntensity": "2",
