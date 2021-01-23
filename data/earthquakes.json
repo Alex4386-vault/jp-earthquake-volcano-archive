@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-23T14:12:40.523Z",
+  "lastUpdate": "2021-01-23T16:21:49.351Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1212,6 +1212,40 @@
         }
       ],
       "url": "https://www.jma.go.jp/en/quake/20201223175946493-24025558.html"
+    },
+    {
+      "maxIntensity": "3",
+      "issuedAt": "2021-01-23T16:01:00.000Z",
+      "uuid": "20210123160150493-24005738",
+      "regionName": "Kumamoto-ken Kumamoto-chiho",
+      "magnitude": 3.9,
+      "occurredAt": "2021-01-23T15:57:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 32.6,
+          "longitude": 130.7
+        },
+        "sexagesimal": {
+          "latitude": "32° 36' 00\"",
+          "longitude": "130° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-23T16:21:30.305Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Kumamoto",
+          "intensity": "3",
+          "city": "Uki-shi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Kumamoto-ken Kumamoto"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210123160150493-24005738.html"
     },
     {
       "maxIntensity": "2",
