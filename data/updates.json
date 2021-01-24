@@ -1,41 +1,28 @@
 {
-  "lastUpdate": "2021-01-24T01:21:49.355Z",
+  "lastUpdate": "2021-01-24T11:51:42.271Z",
   "earthquakes": [
     {
-      "maxIntensity": "3",
-      "issuedAt": "2021-01-23T16:01:00.000Z",
-      "uuid": "20210123160150493-24005738",
-      "regionName": "Kumamoto-ken Kumamoto-chiho",
-      "magnitude": 3.9,
-      "occurredAt": "2021-01-23T15:57:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-24T02:27:00.000Z",
+      "uuid": "20210124022757393-24112459",
+      "regionName": "Nemuro-hanto Nanto-oki",
+      "magnitude": 3.7,
+      "occurredAt": "2021-01-24T02:25:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 32.6,
-          "longitude": 130.7
+          "latitude": 43,
+          "longitude": 145.8
         },
         "sexagesimal": {
-          "latitude": "32° 36' 00\"",
-          "longitude": "130° 42' 00\""
+          "latitude": "43° 00' 00\"",
+          "longitude": "145° 48' 00\""
         },
-        "depth": 10
+        "depth": 80
       },
-      "lastUpdate": "2021-01-23T16:21:30.305Z",
-      "intensityByCity": [
-        {
-          "prefecture": "Kumamoto",
-          "intensity": "3",
-          "city": "Uki-shi"
-        }
-      ],
-      "intensityByRegion": [
-        {
-          "intensity": "3",
-          "regionName": "Kumamoto-ken Kumamoto"
-        }
-      ],
-      "url": "https://www.jma.go.jp/en/quake/20210123160150493-24005738.html"
+      "lastUpdate": "2021-01-24T02:51:31.365Z",
+      "url": "https://www.jma.go.jp/en/quake/20210124022757393-24112459.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101240121.md"
+  "reportFile": "202101241151.md"
 }
