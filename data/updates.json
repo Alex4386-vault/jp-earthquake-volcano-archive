@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-25T03:34:29.310Z",
+  "lastUpdate": "2021-01-25T06:46:52.365Z",
   "earthquakes": [
     {
-      "maxIntensity": "2",
-      "issuedAt": "2021-01-24T18:28:00.000Z",
-      "uuid": "20210124182825393-25032410",
-      "regionName": "Kushiro Oki",
-      "magnitude": 5,
-      "occurredAt": "2021-01-24T18:24:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-24T21:27:00.000Z",
+      "uuid": "20210124212741393-25062506",
+      "regionName": "Tochigi-ken Nambu",
+      "magnitude": 3.7,
+      "occurredAt": "2021-01-24T21:25:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 42.1,
-          "longitude": 145.3
+          "latitude": 36.5,
+          "longitude": 140.2
         },
         "sexagesimal": {
-          "latitude": "42° 06' 00\"",
-          "longitude": "145° 18' 00\""
+          "latitude": "36° 30' 00\"",
+          "longitude": "140° 12' 00\""
         },
-        "depth": 10
+        "depth": 100
       },
-      "lastUpdate": "2021-01-24T18:34:14.193Z",
-      "url": "https://www.jma.go.jp/en/quake/20210124182825393-25032410.html"
+      "lastUpdate": "2021-01-24T21:46:36.212Z",
+      "url": "https://www.jma.go.jp/en/quake/20210124212741393-25062506.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101250334.md"
+  "reportFile": "202101250646.md"
 }

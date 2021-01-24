@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-24T18:34:29.304Z",
+  "lastUpdate": "2021-01-24T21:46:52.361Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1052,6 +1052,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:32.513Z",
       "url": "https://www.jma.go.jp/en/quake/20201224213052393-25062739.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-24T21:27:00.000Z",
+      "uuid": "20210124212741393-25062506",
+      "regionName": "Tochigi-ken Nambu",
+      "magnitude": 3.7,
+      "occurredAt": "2021-01-24T21:25:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.5,
+          "longitude": 140.2
+        },
+        "sexagesimal": {
+          "latitude": "36° 30' 00\"",
+          "longitude": "140° 12' 00\""
+        },
+        "depth": 100
+      },
+      "lastUpdate": "2021-01-24T21:46:36.212Z",
+      "url": "https://www.jma.go.jp/en/quake/20210124212741393-25062506.html"
     },
     {
       "maxIntensity": "2",
