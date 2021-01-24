@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-24T02:51:42.265Z",
+  "lastUpdate": "2021-01-24T10:03:07.113Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1136,6 +1136,48 @@
       },
       "lastUpdate": "2020-12-25T13:33:33.716Z",
       "url": "https://www.jma.go.jp/en/quake/20201224130116393-24215838.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-24T09:50:00.000Z",
+      "uuid": "20210124095022393-24184810",
+      "regionName": "Ibaraki-ken Nambu",
+      "magnitude": 3.3,
+      "occurredAt": "2021-01-24T09:48:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.2,
+          "longitude": 140.5
+        },
+        "sexagesimal": {
+          "latitude": "36° 12' 00\"",
+          "longitude": "140° 30' 00\""
+        },
+        "depth": 90
+      },
+      "lastUpdate": "2021-01-24T10:03:01.608Z",
+      "url": "https://www.jma.go.jp/en/quake/20210124095022393-24184810.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-24T09:16:00.000Z",
+      "uuid": "20210124091600393-24181318",
+      "regionName": "Ibaraki-ken Oki",
+      "magnitude": 3.9,
+      "occurredAt": "2021-01-24T09:13:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 35.9,
+          "longitude": 141.2
+        },
+        "sexagesimal": {
+          "latitude": "35° 54' 00\"",
+          "longitude": "141° 12' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-24T10:03:01.837Z",
+      "url": "https://www.jma.go.jp/en/quake/20210124091600393-24181318.html"
     },
     {
       "maxIntensity": "1",
