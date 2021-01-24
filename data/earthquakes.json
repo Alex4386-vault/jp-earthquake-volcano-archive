@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-24T16:00:22.075Z",
+  "lastUpdate": "2021-01-24T18:34:29.304Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1115,6 +1115,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:33.328Z",
       "url": "https://www.jma.go.jp/en/quake/20201224194330393-25044015.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-24T18:28:00.000Z",
+      "uuid": "20210124182825393-25032410",
+      "regionName": "Kushiro Oki",
+      "magnitude": 5,
+      "occurredAt": "2021-01-24T18:24:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 42.1,
+          "longitude": 145.3
+        },
+        "sexagesimal": {
+          "latitude": "42° 06' 00\"",
+          "longitude": "145° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-24T18:34:14.193Z",
+      "url": "https://www.jma.go.jp/en/quake/20210124182825393-25032410.html"
     },
     {
       "maxIntensity": "1",
