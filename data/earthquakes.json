@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-24T15:14:33.189Z",
+  "lastUpdate": "2021-01-24T16:00:22.075Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1115,6 +1115,27 @@
       },
       "lastUpdate": "2020-12-25T13:33:33.328Z",
       "url": "https://www.jma.go.jp/en/quake/20201224194330393-25044015.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-24T15:56:00.000Z",
+      "uuid": "20210124155615493-25005326",
+      "regionName": "Ishigakijima Kinkai",
+      "magnitude": 3.5,
+      "occurredAt": "2021-01-24T15:53:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 24.5,
+          "longitude": 124
+        },
+        "sexagesimal": {
+          "latitude": "24° 30' 00\"",
+          "longitude": "124° 00' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-24T16:00:09.122Z",
+      "url": "https://www.jma.go.jp/en/quake/20210124155615493-25005326.html"
     },
     {
       "maxIntensity": "2",
