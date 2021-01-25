@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-25T18:03:23.810Z",
+  "lastUpdate": "2021-01-25T23:40:03.146Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -947,6 +947,64 @@
       },
       "lastUpdate": "2020-12-26T09:46:33.354Z",
       "url": "https://www.jma.go.jp/en/quake/20201226092815393-26182534.html"
+    },
+    {
+      "maxIntensity": "3",
+      "issuedAt": "2021-01-25T23:29:00.000Z",
+      "uuid": "20210125232908393-26082530",
+      "regionName": "Ibaraki-ken Hokubu",
+      "magnitude": 4.2,
+      "occurredAt": "2021-01-25T23:25:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.5,
+          "longitude": 140.6
+        },
+        "sexagesimal": {
+          "latitude": "36° 30' 00\"",
+          "longitude": "140° 36' 00\""
+        },
+        "depth": 60
+      },
+      "lastUpdate": "2021-01-25T23:39:49.808Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "3",
+          "city": "Hitachi-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "3",
+          "city": "Kasama-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "3",
+          "city": "Hitachinaka-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "3",
+          "city": "Sakuragawa-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "3",
+          "city": "Tokai-mura"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Ibaraki-ken Hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Ibaraki-ken Nambu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210125232908393-26082530.html"
     },
     {
       "maxIntensity": "2",
