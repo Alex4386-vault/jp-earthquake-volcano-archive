@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-25T12:05:04.642Z",
+  "lastUpdate": "2021-01-25T18:03:23.810Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -968,6 +968,27 @@
       },
       "lastUpdate": "2020-12-25T21:36:58.557Z",
       "url": "https://www.jma.go.jp/en/quake/20201225213548393-26063236.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-25T16:55:00.000Z",
+      "uuid": "20210125165549393-26015301",
+      "regionName": "Nagano-ken Nambu",
+      "magnitude": 2.6,
+      "occurredAt": "2021-01-25T16:53:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 35.9,
+          "longitude": 137.7
+        },
+        "sexagesimal": {
+          "latitude": "35° 54' 00\"",
+          "longitude": "137° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-25T18:03:10.010Z",
+      "url": "https://www.jma.go.jp/en/quake/20210125165549393-26015301.html"
     },
     {
       "maxIntensity": "1",

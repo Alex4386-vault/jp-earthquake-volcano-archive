@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-25T21:05:04.645Z",
+  "lastUpdate": "2021-01-26T03:03:23.814Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-25T11:36:00.000Z",
-      "uuid": "20210125113624493-25203327",
-      "regionName": "Hyuga-nada",
-      "magnitude": 3.2,
-      "occurredAt": "2021-01-25T11:33:00.000Z",
+      "issuedAt": "2021-01-25T16:55:00.000Z",
+      "uuid": "20210125165549393-26015301",
+      "regionName": "Nagano-ken Nambu",
+      "magnitude": 2.6,
+      "occurredAt": "2021-01-25T16:53:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 32,
-          "longitude": 131.7
+          "latitude": 35.9,
+          "longitude": 137.7
         },
         "sexagesimal": {
-          "latitude": "32° 00' 00\"",
-          "longitude": "131° 42' 00\""
+          "latitude": "35° 54' 00\"",
+          "longitude": "137° 42' 00\""
         },
-        "depth": 40
+        "depth": 10
       },
-      "lastUpdate": "2021-01-25T12:04:50.771Z",
-      "url": "https://www.jma.go.jp/en/quake/20210125113624493-25203327.html"
+      "lastUpdate": "2021-01-25T18:03:10.010Z",
+      "url": "https://www.jma.go.jp/en/quake/20210125165549393-26015301.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101252105.md"
+  "reportFile": "202101260303.md"
 }
