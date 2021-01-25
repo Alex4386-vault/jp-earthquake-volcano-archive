@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-25T10:10:04.502Z",
+  "lastUpdate": "2021-01-25T12:05:04.642Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -1010,6 +1010,27 @@
       },
       "lastUpdate": "2020-12-25T14:39:35.857Z",
       "url": "https://www.jma.go.jp/en/quake/20201225142434493-25232200.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-25T11:36:00.000Z",
+      "uuid": "20210125113624493-25203327",
+      "regionName": "Hyuga-nada",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-25T11:33:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 32,
+          "longitude": 131.7
+        },
+        "sexagesimal": {
+          "latitude": "32° 00' 00\"",
+          "longitude": "131° 42' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2021-01-25T12:04:50.771Z",
+      "url": "https://www.jma.go.jp/en/quake/20210125113624493-25203327.html"
     },
     {
       "maxIntensity": "1",

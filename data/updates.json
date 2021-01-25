@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-25T19:10:04.506Z",
+  "lastUpdate": "2021-01-25T21:05:04.645Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-01-25T09:09:00.000Z",
-      "uuid": "20210125090927493-25180613",
-      "regionName": "Ishigakijima Kinkai",
-      "magnitude": 5.2,
-      "occurredAt": "2021-01-25T09:06:00.000Z",
+      "issuedAt": "2021-01-25T11:36:00.000Z",
+      "uuid": "20210125113624493-25203327",
+      "regionName": "Hyuga-nada",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-25T11:33:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 23.3,
-          "longitude": 123.6
+          "latitude": 32,
+          "longitude": 131.7
         },
         "sexagesimal": {
-          "latitude": "23° 18' 00\"",
-          "longitude": "123° 36' 00\""
+          "latitude": "32° 00' 00\"",
+          "longitude": "131° 42' 00\""
         },
-        "depth": 10
+        "depth": 40
       },
-      "lastUpdate": "2021-01-25T10:09:45.825Z",
-      "url": "https://www.jma.go.jp/en/quake/20210125090927493-25180613.html"
+      "lastUpdate": "2021-01-25T12:04:50.771Z",
+      "url": "https://www.jma.go.jp/en/quake/20210125113624493-25203327.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101251910.md"
+  "reportFile": "202101252105.md"
 }
