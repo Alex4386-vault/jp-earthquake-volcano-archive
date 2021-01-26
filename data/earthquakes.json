@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2021-01-25T23:40:03.146Z",
+  "lastUpdate": "2021-01-26T03:38:09.837Z",
   "data": [
     {
       "maxIntensity": "2",
@@ -947,6 +947,27 @@
       },
       "lastUpdate": "2020-12-26T09:46:33.354Z",
       "url": "https://www.jma.go.jp/en/quake/20201226092815393-26182534.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-26T03:37:00.000Z",
+      "uuid": "20210126033702493-26123322",
+      "regionName": "Kagawa-ken Seibu",
+      "magnitude": 3.2,
+      "occurredAt": "2021-01-26T03:33:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.3,
+          "longitude": 133.8
+        },
+        "sexagesimal": {
+          "latitude": "34° 18' 00\"",
+          "longitude": "133° 48' 00\""
+        },
+        "depth": 20
+      },
+      "lastUpdate": "2021-01-26T03:37:55.565Z",
+      "url": "https://www.jma.go.jp/en/quake/20210126033702493-26123322.html"
     },
     {
       "maxIntensity": "3",
