@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-27T18:32:05.042Z",
+  "lastUpdate": "2021-01-27T23:46:44.730Z",
   "earthquakes": [
     {
-      "maxIntensity": "2",
-      "issuedAt": "2021-01-27T09:29:00.000Z",
-      "uuid": "20210127092929393-27182607",
-      "regionName": "Fukushima-ken Oki",
-      "magnitude": 4,
-      "occurredAt": "2021-01-27T09:26:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-27T14:31:00.000Z",
+      "uuid": "20210127143100393-27232742",
+      "regionName": "Nemuro-hanto Nanto-oki",
+      "magnitude": 4.3,
+      "occurredAt": "2021-01-27T14:27:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.3,
-          "longitude": 141.1
+          "latitude": 42.8,
+          "longitude": 146.5
         },
         "sexagesimal": {
-          "latitude": "37° 18' 00\"",
-          "longitude": "141° 06' 00\""
+          "latitude": "42° 48' 00\"",
+          "longitude": "146° 30' 00\""
         },
-        "depth": 60
+        "depth": 40
       },
-      "lastUpdate": "2021-01-27T09:31:57.740Z",
-      "url": "https://www.jma.go.jp/en/quake/20210127092929393-27182607.html"
+      "lastUpdate": "2021-01-27T14:46:29.199Z",
+      "url": "https://www.jma.go.jp/en/quake/20210127143100393-27232742.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101271832.md"
+  "reportFile": "202101272346.md"
 }
