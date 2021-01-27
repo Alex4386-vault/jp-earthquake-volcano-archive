@@ -1,6 +1,40 @@
 {
-  "lastUpdate": "2021-01-27T06:55:01.793Z",
+  "lastUpdate": "2021-01-27T09:00:37.469Z",
   "data": [
+    {
+      "maxIntensity": "3",
+      "issuedAt": "2021-01-27T08:48:00.000Z",
+      "uuid": "20210127084841393-27174525",
+      "regionName": "Uchiura-wan",
+      "magnitude": 2.8,
+      "occurredAt": "2021-01-27T08:45:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 41.9,
+          "longitude": 141
+        },
+        "sexagesimal": {
+          "latitude": "41° 54' 00\"",
+          "longitude": "141° 00' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-27T09:00:26.557Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Hakodate-shi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Oshima-chiho Tobu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210127084841393-27174525.html"
+    },
     {
       "maxIntensity": "2",
       "issuedAt": "2021-01-27T06:47:00.000Z",
