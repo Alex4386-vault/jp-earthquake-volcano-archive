@@ -1,28 +1,143 @@
 {
-  "lastUpdate": "2021-01-27T01:40:27.062Z",
+  "lastUpdate": "2021-01-27T14:34:05.979Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-01-26T16:28:00.000Z",
-      "uuid": "20210126162819493-27012515",
-      "regionName": "Wakayama-ken Hokubu",
-      "magnitude": 2.6,
-      "occurredAt": "2021-01-26T16:25:00.000Z",
+      "maxIntensity": "4",
+      "issuedAt": "2021-01-27T05:11:00.000Z",
+      "uuid": "20210127051129393-27140710",
+      "regionName": "Iburi-chiho Chutobu",
+      "magnitude": 5.4,
+      "occurredAt": "2021-01-27T05:07:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 34.1,
-          "longitude": 135.2
+          "latitude": 42.7,
+          "longitude": 142
         },
         "sexagesimal": {
-          "latitude": "34° 06' 00\"",
-          "longitude": "135° 12' 00\""
+          "latitude": "42° 42' 00\"",
+          "longitude": "142° 00' 00\""
         },
-        "depth": 10
+        "depth": 130
       },
-      "lastUpdate": "2021-01-26T16:40:18.004Z",
-      "url": "https://www.jma.go.jp/en/quake/20210126162819493-27012515.html"
+      "lastUpdate": "2021-01-27T05:33:50.141Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "4",
+          "city": "Niikappu-cho"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Hakodate-shi"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Muroran-shi"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Kushiro-shi"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Namporo-cho"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Naganuma-cho"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Atsuma-cho"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Abira-cho"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Mukawa-cho"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Hidaka-chiho Hidaka-cho"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Urakawa-cho"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Shin-hidaka-cho"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Urahoro-cho"
+        },
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Shiranuka-cho"
+        },
+        {
+          "prefecture": "Aomori",
+          "intensity": "3",
+          "city": "Hashikami-cho"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "4",
+          "regionName": "Hidaka-chiho Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Oshima-chiho Tobu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Sorachi-chiho Nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Iburi-chiho Chutobu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Hidaka-chiho Seibu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Hidaka-chiho Tobu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Tokachi-chiho Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Kushiro-chiho Chunambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Aomori-ken Sampachi-Kamikita"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210127051129393-27140710.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101270140.md"
+  "reportFile": "202101271434.md"
 }
