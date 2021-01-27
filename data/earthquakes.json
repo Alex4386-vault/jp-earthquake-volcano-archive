@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-01-27T09:00:37.469Z",
+  "lastUpdate": "2021-01-27T09:32:05.039Z",
   "data": [
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-27T09:29:00.000Z",
+      "uuid": "20210127092929393-27182607",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4,
+      "occurredAt": "2021-01-27T09:26:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.3,
+          "longitude": 141.1
+        },
+        "sexagesimal": {
+          "latitude": "37° 18' 00\"",
+          "longitude": "141° 06' 00\""
+        },
+        "depth": 60
+      },
+      "lastUpdate": "2021-01-27T09:31:57.740Z",
+      "url": "https://www.jma.go.jp/en/quake/20210127092929393-27182607.html"
+    },
     {
       "maxIntensity": "3",
       "issuedAt": "2021-01-27T08:48:00.000Z",
