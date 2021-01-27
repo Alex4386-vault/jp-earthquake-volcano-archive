@@ -43,7 +43,13 @@ export function saveVolcanoesFile(data: VolcanoModel[]): void {
 }
 
 export function saveEarthquakesFile(data: EarthquakeCache): void {
-  data.data.sort((a, b) => parseInt(b.uuid.split('-')[1]) - parseInt(a.uuid.split('-')[1]));
+  data.data.sort((a, b) => {
+    if (!a.issuedAt && !b.issuedAt) {
+      return parseInt(b.uuid.split('-')[1]) - parseInt(a.uuid.split('-')[1]);
+    } else {
+      return b.issuedAt.getTime() - a.issuedAt.getTime();
+    }
+  });
   saveJSON(earthquakesFile, data);
 }
 
