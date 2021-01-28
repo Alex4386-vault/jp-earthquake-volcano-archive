@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-29T03:50:40.804Z",
+  "lastUpdate": "2021-01-29T04:13:56.169Z",
   "earthquakes": [
     {
-      "maxIntensity": "2",
-      "issuedAt": "2021-01-28T18:27:00.000Z",
-      "uuid": "20210128182753393-29032420",
-      "regionName": "Fukushima-ken Oki",
-      "magnitude": 4.1,
-      "occurredAt": "2021-01-28T18:24:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-28T18:55:00.000Z",
+      "uuid": "20210128185535393-29035214",
+      "regionName": "Hokkaido Toho-oki",
+      "magnitude": 4.8,
+      "occurredAt": "2021-01-28T18:52:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37,
-          "longitude": 141.2
+          "latitude": 43.9,
+          "longitude": 147.6
         },
         "sexagesimal": {
-          "latitude": "37° 00' 00\"",
-          "longitude": "141° 12' 00\""
+          "latitude": "43° 54' 00\"",
+          "longitude": "147° 36' 00\""
         },
-        "depth": 50
+        "depth": 30
       },
-      "lastUpdate": "2021-01-28T18:50:33.757Z",
-      "url": "https://www.jma.go.jp/en/quake/20210128182753393-29032420.html"
+      "lastUpdate": "2021-01-28T19:13:38.740Z",
+      "url": "https://www.jma.go.jp/en/quake/20210128185535393-29035214.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101290350.md"
+  "reportFile": "202101290413.md"
 }
