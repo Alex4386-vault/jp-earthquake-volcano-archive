@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-29T06:20:20.365Z",
+  "lastUpdate": "2021-01-29T12:06:48.591Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-01-28T20:57:00.000Z",
-      "uuid": "20210128205751393-29055453",
-      "regionName": "Miyagi-ken Oki",
-      "magnitude": 3.3,
-      "occurredAt": "2021-01-28T20:54:00.000Z",
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-29T02:52:00.000Z",
+      "uuid": "20210129025203393-29114907",
+      "regionName": "Uchiura-wan",
+      "magnitude": 2.4,
+      "occurredAt": "2021-01-29T02:49:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 38.9,
-          "longitude": 142
+          "latitude": 41.9,
+          "longitude": 141
         },
         "sexagesimal": {
-          "latitude": "38° 54' 00\"",
-          "longitude": "142° 00' 00\""
+          "latitude": "41° 54' 00\"",
+          "longitude": "141° 00' 00\""
         },
-        "depth": 50
+        "depth": 10
       },
-      "lastUpdate": "2021-01-28T21:20:07.327Z",
-      "url": "https://www.jma.go.jp/en/quake/20210128205751393-29055453.html"
+      "lastUpdate": "2021-01-29T03:06:34.073Z",
+      "url": "https://www.jma.go.jp/en/quake/20210129025203393-29114907.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101290620.md"
+  "reportFile": "202101291206.md"
 }

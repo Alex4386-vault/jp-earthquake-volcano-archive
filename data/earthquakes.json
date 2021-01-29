@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-01-28T21:20:20.359Z",
+  "lastUpdate": "2021-01-29T03:06:48.586Z",
   "data": [
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-01-29T02:52:00.000Z",
+      "uuid": "20210129025203393-29114907",
+      "regionName": "Uchiura-wan",
+      "magnitude": 2.4,
+      "occurredAt": "2021-01-29T02:49:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 41.9,
+          "longitude": 141
+        },
+        "sexagesimal": {
+          "latitude": "41° 54' 00\"",
+          "longitude": "141° 00' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-29T03:06:34.073Z",
+      "url": "https://www.jma.go.jp/en/quake/20210129025203393-29114907.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-01-28T20:57:00.000Z",
