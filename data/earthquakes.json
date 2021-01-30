@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-01-30T11:45:54.828Z",
+  "lastUpdate": "2021-01-30T20:47:09.482Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-30T20:38:00.000Z",
+      "uuid": "20210130203804393-31053535",
+      "regionName": "Tochigi-ken Hokubu",
+      "magnitude": 2.8,
+      "occurredAt": "2021-01-30T20:35:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.6,
+          "longitude": 139.4
+        },
+        "sexagesimal": {
+          "latitude": "36° 36' 00\"",
+          "longitude": "139° 24' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-01-30T20:46:59.098Z",
+      "url": "https://www.jma.go.jp/en/quake/20210130203804393-31053535.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-01-30T11:33:00.000Z",
