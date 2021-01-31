@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-01-31T06:26:50.518Z",
+  "lastUpdate": "2021-01-31T16:41:12.338Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-31T16:03:00.000Z",
+      "uuid": "20210131160321393-01005400",
+      "regionName": "Iwoto Kinkai",
+      "magnitude": 5.7,
+      "occurredAt": "2021-01-31T15:52:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 22.5,
+          "longitude": 143.6
+        },
+        "sexagesimal": {
+          "latitude": "22° 30' 00\"",
+          "longitude": "143° 36' 00\""
+        },
+        "depth": 150
+      },
+      "lastUpdate": "2021-01-31T16:40:56.439Z",
+      "url": "https://www.jma.go.jp/en/quake/20210131160321393-01005400.html"
+    },
     {
       "maxIntensity": "2",
       "issuedAt": "2021-01-31T06:18:00.000Z",

@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-01-31T15:26:50.522Z",
+  "lastUpdate": "2021-02-01T01:41:12.341Z",
   "earthquakes": [
     {
-      "maxIntensity": "2",
-      "issuedAt": "2021-01-31T06:18:00.000Z",
-      "uuid": "20210131061808393-31151521",
-      "regionName": "Fukushima-ken Oki",
-      "magnitude": 3.9,
-      "occurredAt": "2021-01-31T06:15:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-01-31T16:03:00.000Z",
+      "uuid": "20210131160321393-01005400",
+      "regionName": "Iwoto Kinkai",
+      "magnitude": 5.7,
+      "occurredAt": "2021-01-31T15:52:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.3,
-          "longitude": 141.3
+          "latitude": 22.5,
+          "longitude": 143.6
         },
         "sexagesimal": {
-          "latitude": "37° 18' 00\"",
-          "longitude": "141° 18' 00\""
+          "latitude": "22° 30' 00\"",
+          "longitude": "143° 36' 00\""
         },
-        "depth": 30
+        "depth": 150
       },
-      "lastUpdate": "2021-01-31T06:26:37.058Z",
-      "url": "https://www.jma.go.jp/en/quake/20210131061808393-31151521.html"
+      "lastUpdate": "2021-01-31T16:40:56.439Z",
+      "url": "https://www.jma.go.jp/en/quake/20210131160321393-01005400.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202101311526.md"
+  "reportFile": "202102010141.md"
 }
