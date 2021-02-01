@@ -1,49 +1,28 @@
 {
-  "lastUpdate": "2021-02-01T19:36:53.708Z",
+  "lastUpdate": "2021-02-01T19:58:58.231Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-02-01T10:21:00.000Z",
-      "uuid": "20210201102111393-01191812",
-      "regionName": "Nagano-ken Chubu",
+      "issuedAt": "2021-02-01T10:48:00.000Z",
+      "uuid": "20210201104818493-01194517",
+      "regionName": "Wakayama-ken Nambu",
       "magnitude": 3.1,
-      "occurredAt": "2021-02-01T10:18:00.000Z",
+      "occurredAt": "2021-02-01T10:45:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 36.2,
-          "longitude": 137.7
+          "latitude": 33.8,
+          "longitude": 135.4
         },
         "sexagesimal": {
-          "latitude": "36° 12' 00\"",
-          "longitude": "137° 42' 00\""
+          "latitude": "33° 48' 00\"",
+          "longitude": "135° 24' 00\""
         },
-        "depth": 10
+        "depth": 50
       },
-      "lastUpdate": "2021-02-01T10:36:41.871Z",
-      "url": "https://www.jma.go.jp/en/quake/20210201102111393-01191812.html"
-    },
-    {
-      "maxIntensity": "1",
-      "issuedAt": "2021-02-01T10:15:00.000Z",
-      "uuid": "20210201101508493-01191222",
-      "regionName": "Kii-suido",
-      "magnitude": 2.5,
-      "occurredAt": "2021-02-01T10:12:00.000Z",
-      "location": {
-        "decimal": {
-          "latitude": 34.1,
-          "longitude": 135.1
-        },
-        "sexagesimal": {
-          "latitude": "34° 06' 00\"",
-          "longitude": "135° 06' 00\""
-        },
-        "depth": 10
-      },
-      "lastUpdate": "2021-02-01T10:36:42.147Z",
-      "url": "https://www.jma.go.jp/en/quake/20210201101508493-01191222.html"
+      "lastUpdate": "2021-02-01T10:58:51.960Z",
+      "url": "https://www.jma.go.jp/en/quake/20210201104818493-01194517.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102011936.md"
+  "reportFile": "202102011958.md"
 }

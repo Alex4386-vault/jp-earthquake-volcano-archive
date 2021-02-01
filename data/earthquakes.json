@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-01T10:36:53.703Z",
+  "lastUpdate": "2021-02-01T10:58:58.227Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-01T10:48:00.000Z",
+      "uuid": "20210201104818493-01194517",
+      "regionName": "Wakayama-ken Nambu",
+      "magnitude": 3.1,
+      "occurredAt": "2021-02-01T10:45:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 33.8,
+          "longitude": 135.4
+        },
+        "sexagesimal": {
+          "latitude": "33° 48' 00\"",
+          "longitude": "135° 24' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-02-01T10:58:51.960Z",
+      "url": "https://www.jma.go.jp/en/quake/20210201104818493-01194517.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-01T10:21:00.000Z",
