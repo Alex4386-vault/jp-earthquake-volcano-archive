@@ -1,28 +1,70 @@
 {
-  "lastUpdate": "2021-02-01T20:47:54.783Z",
+  "lastUpdate": "2021-02-01T23:50:06.242Z",
   "earthquakes": [
     {
-      "maxIntensity": "2",
-      "issuedAt": "2021-02-01T11:43:00.000Z",
-      "uuid": "20210201114358493-01204105",
-      "regionName": "Kii-suido",
-      "magnitude": 2.8,
-      "occurredAt": "2021-02-01T11:41:00.000Z",
+      "maxIntensity": "3",
+      "issuedAt": "2021-02-01T14:34:00.000Z",
+      "uuid": "20210201143408493-01233012",
+      "regionName": "Tokushima-ken Hokubu",
+      "magnitude": 4,
+      "occurredAt": "2021-02-01T14:30:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 34.2,
-          "longitude": 135.1
+          "latitude": 34,
+          "longitude": 134.5
         },
         "sexagesimal": {
-          "latitude": "34° 12' 00\"",
-          "longitude": "135° 06' 00\""
+          "latitude": "34° 00' 00\"",
+          "longitude": "134° 30' 00\""
         },
         "depth": 10
       },
-      "lastUpdate": "2021-02-01T11:47:42.548Z",
-      "url": "https://www.jma.go.jp/en/quake/20210201114358493-01204105.html"
+      "lastUpdate": "2021-02-01T14:49:58.202Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Tokushima",
+          "intensity": "3",
+          "city": "Tokushima-shi"
+        },
+        {
+          "prefecture": "Tokushima",
+          "intensity": "3",
+          "city": "Anan-shi"
+        },
+        {
+          "prefecture": "Tokushima",
+          "intensity": "3",
+          "city": "Mima-shi"
+        },
+        {
+          "prefecture": "Tokushima",
+          "intensity": "3",
+          "city": "Katsuura-cho"
+        },
+        {
+          "prefecture": "Tokushima",
+          "intensity": "3",
+          "city": "Sanagochi-son"
+        },
+        {
+          "prefecture": "Tokushima",
+          "intensity": "3",
+          "city": "Ishii-cho"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Tokushima-ken Hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Tokushima-ken Nambu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210201143408493-01233012.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102012047.md"
+  "reportFile": "202102012350.md"
 }
