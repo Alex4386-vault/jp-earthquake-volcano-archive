@@ -1,6 +1,40 @@
 {
-  "lastUpdate": "2021-02-01T14:50:06.239Z",
+  "lastUpdate": "2021-02-01T18:12:48.120Z",
   "data": [
+    {
+      "maxIntensity": "4",
+      "issuedAt": "2021-02-01T18:05:00.000Z",
+      "uuid": "20210201180547393-02030200",
+      "regionName": "Tochigi-ken Hokubu",
+      "magnitude": 4,
+      "occurredAt": "2021-02-01T18:01:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.6,
+          "longitude": 139.4
+        },
+        "sexagesimal": {
+          "latitude": "36° 36' 00\"",
+          "longitude": "139° 24' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-01T18:12:34.525Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Tochigi",
+          "intensity": "4",
+          "city": "Nikko-shi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "4",
+          "regionName": "Tochigi-ken Hokubu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210201180547393-02030200.html"
+    },
     {
       "maxIntensity": "3",
       "issuedAt": "2021-02-01T14:34:00.000Z",
