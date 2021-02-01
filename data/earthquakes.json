@@ -1,6 +1,48 @@
 {
-  "lastUpdate": "2021-02-01T09:01:13.592Z",
+  "lastUpdate": "2021-02-01T10:36:53.703Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-01T10:21:00.000Z",
+      "uuid": "20210201102111393-01191812",
+      "regionName": "Nagano-ken Chubu",
+      "magnitude": 3.1,
+      "occurredAt": "2021-02-01T10:18:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.2,
+          "longitude": 137.7
+        },
+        "sexagesimal": {
+          "latitude": "36° 12' 00\"",
+          "longitude": "137° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-01T10:36:41.871Z",
+      "url": "https://www.jma.go.jp/en/quake/20210201102111393-01191812.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-01T10:15:00.000Z",
+      "uuid": "20210201101508493-01191222",
+      "regionName": "Kii-suido",
+      "magnitude": 2.5,
+      "occurredAt": "2021-02-01T10:12:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.1,
+          "longitude": 135.1
+        },
+        "sexagesimal": {
+          "latitude": "34° 06' 00\"",
+          "longitude": "135° 06' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-01T10:36:42.147Z",
+      "url": "https://www.jma.go.jp/en/quake/20210201101508493-01191222.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-01T08:37:00.000Z",
