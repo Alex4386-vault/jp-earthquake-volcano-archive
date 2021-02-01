@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-01T03:46:45.841Z",
+  "lastUpdate": "2021-02-01T16:36:46.614Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-01-31T18:45:00.000Z",
-      "uuid": "20210131184513393-01034212",
-      "regionName": "Soya-chiho Hokubu",
-      "magnitude": 2.8,
-      "occurredAt": "2021-01-31T18:42:00.000Z",
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-01T07:21:00.000Z",
+      "uuid": "20210201072114493-01161747",
+      "regionName": "Kumamoto-ken Kumamoto-chiho",
+      "magnitude": 3.9,
+      "occurredAt": "2021-02-01T07:17:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 44.9,
-          "longitude": 142.1
+          "latitude": 32.5,
+          "longitude": 130.6
         },
         "sexagesimal": {
-          "latitude": "44° 54' 00\"",
-          "longitude": "142° 06' 00\""
+          "latitude": "32° 30' 00\"",
+          "longitude": "130° 36' 00\""
         },
         "depth": 10
       },
-      "lastUpdate": "2021-01-31T18:46:30.638Z",
-      "url": "https://www.jma.go.jp/en/quake/20210131184513393-01034212.html"
+      "lastUpdate": "2021-02-01T07:36:32.228Z",
+      "url": "https://www.jma.go.jp/en/quake/20210201072114493-01161747.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102010346.md"
+  "reportFile": "202102011636.md"
 }
