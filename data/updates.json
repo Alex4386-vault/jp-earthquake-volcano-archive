@@ -1,41 +1,28 @@
 {
-  "lastUpdate": "2021-02-02T03:12:48.127Z",
+  "lastUpdate": "2021-02-02T13:43:01.047Z",
   "earthquakes": [
     {
-      "maxIntensity": "4",
-      "issuedAt": "2021-02-01T18:05:00.000Z",
-      "uuid": "20210201180547393-02030200",
-      "regionName": "Tochigi-ken Hokubu",
-      "magnitude": 4,
-      "occurredAt": "2021-02-01T18:01:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-02T04:42:00.000Z",
+      "uuid": "20210202044201493-02133926",
+      "regionName": "Kii-suido",
+      "magnitude": 3.3,
+      "occurredAt": "2021-02-02T04:39:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 36.6,
-          "longitude": 139.4
+          "latitude": 33.8,
+          "longitude": 135
         },
         "sexagesimal": {
-          "latitude": "36° 36' 00\"",
-          "longitude": "139° 24' 00\""
+          "latitude": "33° 48' 00\"",
+          "longitude": "135° 00' 00\""
         },
-        "depth": 10
+        "depth": 50
       },
-      "lastUpdate": "2021-02-01T18:12:34.525Z",
-      "intensityByCity": [
-        {
-          "prefecture": "Tochigi",
-          "intensity": "4",
-          "city": "Nikko-shi"
-        }
-      ],
-      "intensityByRegion": [
-        {
-          "intensity": "4",
-          "regionName": "Tochigi-ken Hokubu"
-        }
-      ],
-      "url": "https://www.jma.go.jp/en/quake/20210201180547393-02030200.html"
+      "lastUpdate": "2021-02-02T04:42:49.848Z",
+      "url": "https://www.jma.go.jp/en/quake/20210202044201493-02133926.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102020312.md"
+  "reportFile": "202102021343.md"
 }

@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-01T18:12:48.120Z",
+  "lastUpdate": "2021-02-02T04:43:01.041Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-02T04:42:00.000Z",
+      "uuid": "20210202044201493-02133926",
+      "regionName": "Kii-suido",
+      "magnitude": 3.3,
+      "occurredAt": "2021-02-02T04:39:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 33.8,
+          "longitude": 135
+        },
+        "sexagesimal": {
+          "latitude": "33° 48' 00\"",
+          "longitude": "135° 00' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-02-02T04:42:49.848Z",
+      "url": "https://www.jma.go.jp/en/quake/20210202044201493-02133926.html"
+    },
     {
       "maxIntensity": "4",
       "issuedAt": "2021-02-01T18:05:00.000Z",
