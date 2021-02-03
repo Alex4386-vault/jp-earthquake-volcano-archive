@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-02T09:56:41.910Z",
+  "lastUpdate": "2021-02-03T04:27:16.208Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-03T04:08:00.000Z",
+      "uuid": "20210203040837393-03130607",
+      "regionName": "Chiba-ken Hokutobu",
+      "magnitude": 2.9,
+      "occurredAt": "2021-02-03T04:06:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 35.9,
+          "longitude": 140.5
+        },
+        "sexagesimal": {
+          "latitude": "35° 54' 00\"",
+          "longitude": "140° 30' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2021-02-03T04:27:01.464Z",
+      "url": "https://www.jma.go.jp/en/quake/20210203040837393-03130607.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-02T09:39:00.000Z",
