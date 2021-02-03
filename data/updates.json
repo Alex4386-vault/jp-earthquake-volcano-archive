@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-03T13:27:16.213Z",
+  "lastUpdate": "2021-02-03T15:51:12.447Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-02-03T04:08:00.000Z",
-      "uuid": "20210203040837393-03130607",
-      "regionName": "Chiba-ken Hokutobu",
-      "magnitude": 2.9,
-      "occurredAt": "2021-02-03T04:06:00.000Z",
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-03T06:50:00.000Z",
+      "uuid": "20210203065000393-03154711",
+      "regionName": "Miyagi-ken Oki",
+      "magnitude": 3.8,
+      "occurredAt": "2021-02-03T06:47:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 35.9,
-          "longitude": 140.5
+          "latitude": 38.6,
+          "longitude": 141.9
         },
         "sexagesimal": {
-          "latitude": "35° 54' 00\"",
-          "longitude": "140° 30' 00\""
+          "latitude": "38° 36' 00\"",
+          "longitude": "141° 54' 00\""
         },
-        "depth": 30
+        "depth": 50
       },
-      "lastUpdate": "2021-02-03T04:27:01.464Z",
-      "url": "https://www.jma.go.jp/en/quake/20210203040837393-03130607.html"
+      "lastUpdate": "2021-02-03T06:50:59.965Z",
+      "url": "https://www.jma.go.jp/en/quake/20210203065000393-03154711.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102031327.md"
+  "reportFile": "202102031551.md"
 }
