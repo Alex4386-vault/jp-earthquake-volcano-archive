@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-04T03:50:36.603Z",
+  "lastUpdate": "2021-02-04T05:23:23.571Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-04T05:01:00.000Z",
+      "uuid": "20210204050127393-04135729",
+      "regionName": "Gifu-ken Hida-chiho",
+      "magnitude": 2.1,
+      "occurredAt": "2021-02-04T04:57:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.3,
+          "longitude": 137.6
+        },
+        "sexagesimal": {
+          "latitude": "36° 18' 00\"",
+          "longitude": "137° 36' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-02-04T05:23:12.826Z",
+      "url": "https://www.jma.go.jp/en/quake/20210204050127393-04135729.html"
+    },
     {
       "maxIntensity": "3",
       "issuedAt": "2021-02-04T03:43:00.000Z",
