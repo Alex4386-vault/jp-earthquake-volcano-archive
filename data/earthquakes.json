@@ -1,6 +1,40 @@
 {
-  "lastUpdate": "2021-02-03T06:51:12.443Z",
+  "lastUpdate": "2021-02-04T03:50:36.603Z",
   "data": [
+    {
+      "maxIntensity": "3",
+      "issuedAt": "2021-02-04T03:43:00.000Z",
+      "uuid": "20210204034333393-04124019",
+      "regionName": "Ibaraki-ken Oki",
+      "magnitude": 4.2,
+      "occurredAt": "2021-02-04T03:40:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.6,
+          "longitude": 141.1
+        },
+        "sexagesimal": {
+          "latitude": "36° 36' 00\"",
+          "longitude": "141° 06' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2021-02-04T03:50:25.093Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "3",
+          "city": "Hitachi-shi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Ibaraki-ken Hokubu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210204034333393-04124019.html"
+    },
     {
       "maxIntensity": "2",
       "issuedAt": "2021-02-03T06:50:00.000Z",
