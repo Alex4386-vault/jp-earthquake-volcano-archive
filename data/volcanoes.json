@@ -3040,6 +3040,27 @@
               }
             }
           }
+        },
+        {
+          "issuedTo": "Asamayama",
+          "issuedAt": "2021-02-05T05:00:00.000Z",
+          "data": {
+            "raw": {
+              "keyword": "Level 1 (Potential for increased activity)",
+              "code": "Forecast",
+              "info": {
+                "contents": "Asamayama Volcanic Forecast : Volcanic Warning lifted\n14:00 JST, 05 February 2021\n\nVolcanic Forecast (Level 1, Potential for increased activity) : Volcanic Warning lifted for Asamayama.\nVolcanic Alert Level downgraded from 2 to 1.\n\nNo special caution required in the following local municipalities.\nGunma:Tsumagoi-muraNagano:Komoro-shi, Karuizawa-machi, Miyota-machi\n** (Reference : Description of Volcanic Alert Levels) **\nLevel 5 (Evacuate) : Evacuate from the danger zone.\nLevel 4 (Prepare to evacuate) : Prepare to evacuate from alert areas. Have disabled people evacuate.\nLevel 3 (Do not approach the volcano) : Refrain from entering the danger zone. (Target areas are determined in line with current volcanic activity.)\nLevel 2 (Do not approach the crater) : Refrain from approaching the crater.\nLevel 1 (Potential for increased activity)\n\n\n",
+                "link": "https://www.jma.go.jp/en/volcano/forecast_03_20210205050004.html"
+              }
+            },
+            "parsed": {
+              "type": "volcano",
+              "alert": {
+                "type": "volcanicAlert",
+                "level": 1
+              }
+            }
+          }
         }
       ],
       "lastUpdate": "2020-12-25T13:36:33.700Z"
