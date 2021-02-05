@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-05T19:19:21.964Z",
+  "lastUpdate": "2021-02-05T19:44:18.088Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-05T19:37:00.000Z",
+      "uuid": "20210205193714393-06043508",
+      "regionName": "Soya-chiho Hokubu",
+      "magnitude": 2.8,
+      "occurredAt": "2021-02-05T19:35:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 44.9,
+          "longitude": 142.1
+        },
+        "sexagesimal": {
+          "latitude": "44° 54' 00\"",
+          "longitude": "142° 06' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-05T19:44:04.032Z",
+      "url": "https://www.jma.go.jp/en/quake/20210205193714393-06043508.html"
+    },
     {
       "maxIntensity": "3",
       "issuedAt": "2021-02-05T19:14:00.000Z",
