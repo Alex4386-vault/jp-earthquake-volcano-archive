@@ -1,6 +1,61 @@
 {
-  "lastUpdate": "2021-02-05T18:22:31.649Z",
+  "lastUpdate": "2021-02-05T19:19:21.964Z",
   "data": [
+    {
+      "maxIntensity": "3",
+      "issuedAt": "2021-02-05T19:14:00.000Z",
+      "uuid": "20210205191403393-06041007",
+      "regionName": "Soya-chiho Hokubu",
+      "magnitude": 4.1,
+      "occurredAt": "2021-02-05T19:10:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 44.9,
+          "longitude": 142.1
+        },
+        "sexagesimal": {
+          "latitude": "44° 54' 00\"",
+          "longitude": "142° 06' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-05T19:19:11.312Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Kamikawa Nakagawa-cho"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Kamikawa-chiho Hokubu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210205191403393-06041007.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-05T19:05:00.000Z",
+      "uuid": "20210205190539393-06040244",
+      "regionName": "Soya-chiho Hokubu",
+      "magnitude": 3.4,
+      "occurredAt": "2021-02-05T19:02:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 44.9,
+          "longitude": 142.1
+        },
+        "sexagesimal": {
+          "latitude": "44° 54' 00\"",
+          "longitude": "142° 06' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-05T19:19:12.023Z",
+      "url": "https://www.jma.go.jp/en/quake/20210205190539393-06040244.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-05T18:11:00.000Z",
