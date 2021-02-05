@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-05T07:48:32.395Z",
+  "lastUpdate": "2021-02-05T08:57:09.280Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-05T08:51:00.000Z",
+      "uuid": "20210205085123493-05174750",
+      "regionName": "Iriomotejima Fukin",
+      "magnitude": 3.5,
+      "occurredAt": "2021-02-05T08:47:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 24,
+          "longitude": 123.6
+        },
+        "sexagesimal": {
+          "latitude": "24° 00' 00\"",
+          "longitude": "123° 36' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2021-02-05T08:57:00.572Z",
+      "url": "https://www.jma.go.jp/en/quake/20210205085123493-05174750.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-05T07:46:00.000Z",
