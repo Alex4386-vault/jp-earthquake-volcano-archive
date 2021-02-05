@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-05T14:20:44.500Z",
+  "lastUpdate": "2021-02-05T18:22:31.649Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-05T18:11:00.000Z",
+      "uuid": "20210205181107493-06030819",
+      "regionName": "Kumamoto-ken Amakusa-Ashikita-chiho",
+      "magnitude": 2.4,
+      "occurredAt": "2021-02-05T18:08:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 32.2,
+          "longitude": 130
+        },
+        "sexagesimal": {
+          "latitude": "32° 12' 00\"",
+          "longitude": "130° 00' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-05T18:22:20.925Z",
+      "url": "https://www.jma.go.jp/en/quake/20210205181107493-06030819.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-05T14:01:00.000Z",
