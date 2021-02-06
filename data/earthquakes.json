@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-05T19:44:18.088Z",
+  "lastUpdate": "2021-02-06T01:43:07.797Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-06T01:41:00.000Z",
+      "uuid": "20210206014122393-06103656",
+      "regionName": "Iwate-ken Nairiku-hokubu",
+      "magnitude": 2.5,
+      "occurredAt": "2021-02-06T01:37:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 39.9,
+          "longitude": 141
+        },
+        "sexagesimal": {
+          "latitude": "39° 54' 00\"",
+          "longitude": "141° 00' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-02-06T01:42:46.455Z",
+      "url": "https://www.jma.go.jp/en/quake/20210206014122393-06103656.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-05T19:37:00.000Z",
