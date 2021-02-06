@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-06T05:22:07.987Z",
+  "lastUpdate": "2021-02-06T16:31:48.124Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-06T16:17:00.000Z",
+      "uuid": "20210206161701393-07011351",
+      "regionName": "Ibaraki-ken Nambu",
+      "magnitude": 3.3,
+      "occurredAt": "2021-02-06T16:13:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.2,
+          "longitude": 139.8
+        },
+        "sexagesimal": {
+          "latitude": "36° 12' 00\"",
+          "longitude": "139° 48' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-02-06T16:31:40.681Z",
+      "url": "https://www.jma.go.jp/en/quake/20210206161701393-07011351.html"
+    },
     {
       "maxIntensity": "2",
       "issuedAt": "2021-02-06T05:13:00.000Z",
