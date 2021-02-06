@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-06T10:43:07.802Z",
+  "lastUpdate": "2021-02-06T13:24:23.899Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-02-06T01:41:00.000Z",
-      "uuid": "20210206014122393-06103656",
-      "regionName": "Iwate-ken Nairiku-hokubu",
-      "magnitude": 2.5,
-      "occurredAt": "2021-02-06T01:37:00.000Z",
+      "issuedAt": "2021-02-06T03:54:00.000Z",
+      "uuid": "20210206035413393-06125052",
+      "regionName": "Tokyo-wan",
+      "magnitude": 3.5,
+      "occurredAt": "2021-02-06T03:51:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 39.9,
-          "longitude": 141
+          "latitude": 35.4,
+          "longitude": 139.9
         },
         "sexagesimal": {
-          "latitude": "39° 54' 00\"",
-          "longitude": "141° 00' 00\""
+          "latitude": "35° 24' 00\"",
+          "longitude": "139° 54' 00\""
         },
-        "depth": null
+        "depth": 120
       },
-      "lastUpdate": "2021-02-06T01:42:46.455Z",
-      "url": "https://www.jma.go.jp/en/quake/20210206014122393-06103656.html"
+      "lastUpdate": "2021-02-06T04:24:08.669Z",
+      "url": "https://www.jma.go.jp/en/quake/20210206035413393-06125052.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102061043.md"
+  "reportFile": "202102061324.md"
 }
