@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-06T16:31:48.124Z",
+  "lastUpdate": "2021-02-06T17:52:21.121Z",
   "data": [
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-06T17:39:00.000Z",
+      "uuid": "20210206173954493-07023619",
+      "regionName": "Yonagunijima Kinkai",
+      "magnitude": 5.2,
+      "occurredAt": "2021-02-06T17:36:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 24.6,
+          "longitude": 122.5
+        },
+        "sexagesimal": {
+          "latitude": "24° 36' 00\"",
+          "longitude": "122° 30' 00\""
+        },
+        "depth": 110
+      },
+      "lastUpdate": "2021-02-06T17:52:15.501Z",
+      "url": "https://www.jma.go.jp/en/quake/20210206173954493-07023619.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-06T16:17:00.000Z",
