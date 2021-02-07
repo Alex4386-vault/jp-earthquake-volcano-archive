@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-07T02:52:21.126Z",
+  "lastUpdate": "2021-02-07T10:02:15.040Z",
   "earthquakes": [
     {
-      "maxIntensity": "2",
-      "issuedAt": "2021-02-06T17:39:00.000Z",
-      "uuid": "20210206173954493-07023619",
-      "regionName": "Yonagunijima Kinkai",
-      "magnitude": 5.2,
-      "occurredAt": "2021-02-06T17:36:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-07T00:38:00.000Z",
+      "uuid": "20210207003821393-07093525",
+      "regionName": "Nagano-ken Nambu",
+      "magnitude": 2.6,
+      "occurredAt": "2021-02-07T00:35:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 24.6,
-          "longitude": 122.5
+          "latitude": 35.9,
+          "longitude": 138.1
         },
         "sexagesimal": {
-          "latitude": "24° 36' 00\"",
-          "longitude": "122° 30' 00\""
+          "latitude": "35° 54' 00\"",
+          "longitude": "138° 06' 00\""
         },
-        "depth": 110
+        "depth": 10
       },
-      "lastUpdate": "2021-02-06T17:52:15.501Z",
-      "url": "https://www.jma.go.jp/en/quake/20210206173954493-07023619.html"
+      "lastUpdate": "2021-02-07T01:02:07.234Z",
+      "url": "https://www.jma.go.jp/en/quake/20210207003821393-07093525.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102070252.md"
+  "reportFile": "202102071002.md"
 }
