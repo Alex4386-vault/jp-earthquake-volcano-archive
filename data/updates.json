@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-07T10:02:15.040Z",
+  "lastUpdate": "2021-02-07T12:25:11.367Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-02-07T00:38:00.000Z",
-      "uuid": "20210207003821393-07093525",
-      "regionName": "Nagano-ken Nambu",
-      "magnitude": 2.6,
-      "occurredAt": "2021-02-07T00:35:00.000Z",
+      "issuedAt": "2021-02-07T03:11:00.000Z",
+      "uuid": "20210207031108493-07120805",
+      "regionName": "Kumamoto-ken Kumamoto-chiho",
+      "magnitude": 2.9,
+      "occurredAt": "2021-02-07T03:08:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 35.9,
-          "longitude": 138.1
+          "latitude": 32.9,
+          "longitude": 130.6
         },
         "sexagesimal": {
-          "latitude": "35° 54' 00\"",
-          "longitude": "138° 06' 00\""
+          "latitude": "32° 54' 00\"",
+          "longitude": "130° 36' 00\""
         },
         "depth": 10
       },
-      "lastUpdate": "2021-02-07T01:02:07.234Z",
-      "url": "https://www.jma.go.jp/en/quake/20210207003821393-07093525.html"
+      "lastUpdate": "2021-02-07T03:24:56.505Z",
+      "url": "https://www.jma.go.jp/en/quake/20210207031108493-07120805.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102071002.md"
+  "reportFile": "202102071225.md"
 }
