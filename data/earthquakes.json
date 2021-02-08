@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-07T20:20:09.970Z",
+  "lastUpdate": "2021-02-08T08:37:42.464Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-08T08:26:00.000Z",
+      "uuid": "20210208082636393-08172320",
+      "regionName": "Etorofuto Nanto-oki",
+      "magnitude": 5,
+      "occurredAt": "2021-02-08T08:23:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 44.1,
+          "longitude": 148
+        },
+        "sexagesimal": {
+          "latitude": "44° 06' 00\"",
+          "longitude": "148° 00' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-02-08T08:37:29.323Z",
+      "url": "https://www.jma.go.jp/en/quake/20210208082636393-08172320.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-07T20:10:00.000Z",
