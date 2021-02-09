@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-09T12:43:57.456Z",
+  "lastUpdate": "2021-02-09T14:40:20.278Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-02-09T03:43:00.000Z",
-      "uuid": "20210209034324493-09123936",
-      "regionName": "Tanegashima Nanto-oki",
-      "magnitude": 4.7,
-      "occurredAt": "2021-02-09T03:39:00.000Z",
+      "issuedAt": "2021-02-09T05:39:00.000Z",
+      "uuid": "20210209053923493-09143644",
+      "regionName": "Bungo-suido",
+      "magnitude": 3.5,
+      "occurredAt": "2021-02-09T05:36:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 29.9,
-          "longitude": 131.3
+          "latitude": 33.2,
+          "longitude": 132.4
         },
         "sexagesimal": {
-          "latitude": "29° 54' 00\"",
-          "longitude": "131° 18' 00\""
+          "latitude": "33° 12' 00\"",
+          "longitude": "132° 24' 00\""
         },
-        "depth": 10
+        "depth": 30
       },
-      "lastUpdate": "2021-02-09T03:43:43.618Z",
-      "url": "https://www.jma.go.jp/en/quake/20210209034324493-09123936.html"
+      "lastUpdate": "2021-02-09T05:40:07.907Z",
+      "url": "https://www.jma.go.jp/en/quake/20210209053923493-09143644.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102091243.md"
+  "reportFile": "202102091440.md"
 }

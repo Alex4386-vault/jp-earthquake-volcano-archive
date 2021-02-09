@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-09T03:43:57.452Z",
+  "lastUpdate": "2021-02-09T05:40:20.271Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-09T05:39:00.000Z",
+      "uuid": "20210209053923493-09143644",
+      "regionName": "Bungo-suido",
+      "magnitude": 3.5,
+      "occurredAt": "2021-02-09T05:36:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 33.2,
+          "longitude": 132.4
+        },
+        "sexagesimal": {
+          "latitude": "33° 12' 00\"",
+          "longitude": "132° 24' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2021-02-09T05:40:07.907Z",
+      "url": "https://www.jma.go.jp/en/quake/20210209053923493-09143644.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-09T03:43:00.000Z",
