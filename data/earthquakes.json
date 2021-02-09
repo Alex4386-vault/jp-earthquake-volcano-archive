@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-08T22:43:42.036Z",
+  "lastUpdate": "2021-02-09T03:43:57.452Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-09T03:43:00.000Z",
+      "uuid": "20210209034324493-09123936",
+      "regionName": "Tanegashima Nanto-oki",
+      "magnitude": 4.7,
+      "occurredAt": "2021-02-09T03:39:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 29.9,
+          "longitude": 131.3
+        },
+        "sexagesimal": {
+          "latitude": "29° 54' 00\"",
+          "longitude": "131° 18' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-09T03:43:43.618Z",
+      "url": "https://www.jma.go.jp/en/quake/20210209034324493-09123936.html"
+    },
     {
       "maxIntensity": "2",
       "issuedAt": "2021-02-08T22:38:00.000Z",
