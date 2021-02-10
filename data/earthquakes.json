@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-10T19:44:20.163Z",
+  "lastUpdate": "2021-02-10T20:41:46.843Z",
   "data": [
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-10T20:27:00.000Z",
+      "uuid": "20210210202713393-11052418",
+      "regionName": "Fukushima-ken Aizu",
+      "magnitude": 2.7,
+      "occurredAt": "2021-02-10T20:24:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37,
+          "longitude": 139.4
+        },
+        "sexagesimal": {
+          "latitude": "37° 00' 00\"",
+          "longitude": "139° 24' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-10T20:41:34.611Z",
+      "url": "https://www.jma.go.jp/en/quake/20210210202713393-11052418.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-10T19:39:00.000Z",
