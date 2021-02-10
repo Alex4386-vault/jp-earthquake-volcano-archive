@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-11T05:41:46.848Z",
+  "lastUpdate": "2021-02-11T08:20:37.386Z",
   "earthquakes": [
     {
-      "maxIntensity": "2",
-      "issuedAt": "2021-02-10T20:27:00.000Z",
-      "uuid": "20210210202713393-11052418",
-      "regionName": "Fukushima-ken Aizu",
-      "magnitude": 2.7,
-      "occurredAt": "2021-02-10T20:24:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-10T23:10:00.000Z",
+      "uuid": "20210210231036393-11080500",
+      "regionName": "Tochigi-ken Hokubu",
+      "magnitude": 2.4,
+      "occurredAt": "2021-02-10T23:04:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37,
+          "latitude": 36.6,
           "longitude": 139.4
         },
         "sexagesimal": {
-          "latitude": "37° 00' 00\"",
+          "latitude": "36° 36' 00\"",
           "longitude": "139° 24' 00\""
         },
         "depth": 10
       },
-      "lastUpdate": "2021-02-10T20:41:34.611Z",
-      "url": "https://www.jma.go.jp/en/quake/20210210202713393-11052418.html"
+      "lastUpdate": "2021-02-10T23:20:26.467Z",
+      "url": "https://www.jma.go.jp/en/quake/20210210231036393-11080500.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102110541.md"
+  "reportFile": "202102110820.md"
 }
