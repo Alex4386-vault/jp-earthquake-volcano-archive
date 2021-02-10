@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-10T15:50:55.724Z",
+  "lastUpdate": "2021-02-10T19:44:20.163Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-10T19:39:00.000Z",
+      "uuid": "20210210193924493-11043628",
+      "regionName": "Okinawa-honto Hokusei-oki",
+      "magnitude": 4,
+      "occurredAt": "2021-02-10T19:36:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 26.5,
+          "longitude": 126.5
+        },
+        "sexagesimal": {
+          "latitude": "26° 30' 00\"",
+          "longitude": "126° 30' 00\""
+        },
+        "depth": 100
+      },
+      "lastUpdate": "2021-02-10T19:44:05.915Z",
+      "url": "https://www.jma.go.jp/en/quake/20210210193924493-11043628.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-10T00:33:00.000Z",
