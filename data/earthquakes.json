@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-11T05:54:33.951Z",
+  "lastUpdate": "2021-02-11T13:19:30.360Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-11T12:54:00.000Z",
+      "uuid": "20210211125438393-11215319",
+      "regionName": "Shizuoka-ken Tobu",
+      "magnitude": 1.6,
+      "occurredAt": "2021-02-11T12:49:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 35.3,
+          "longitude": 138.7
+        },
+        "sexagesimal": {
+          "latitude": "35° 18' 00\"",
+          "longitude": "138° 42' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-11T13:19:18.782Z",
+      "url": "https://www.jma.go.jp/en/quake/20210211125438393-11215319.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-11T05:41:00.000Z",
