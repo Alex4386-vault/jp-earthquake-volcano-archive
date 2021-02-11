@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-10T23:20:37.380Z",
+  "lastUpdate": "2021-02-11T03:43:52.469Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-11T03:42:00.000Z",
+      "uuid": "20210211034259393-11124008",
+      "regionName": "Tokachi-chiho Chubu",
+      "magnitude": 3.4,
+      "occurredAt": "2021-02-11T03:40:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 42.8,
+          "longitude": 143.2
+        },
+        "sexagesimal": {
+          "latitude": "42° 48' 00\"",
+          "longitude": "143° 12' 00\""
+        },
+        "depth": 110
+      },
+      "lastUpdate": "2021-02-11T03:43:38.658Z",
+      "url": "https://www.jma.go.jp/en/quake/20210211034259393-11124008.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-10T23:10:00.000Z",
