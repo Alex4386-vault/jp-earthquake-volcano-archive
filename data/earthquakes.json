@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-11T03:43:52.469Z",
+  "lastUpdate": "2021-02-11T05:54:33.951Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-11T05:41:00.000Z",
+      "uuid": "20210211054114493-11143753",
+      "regionName": "Tokushima-ken Hokubu",
+      "magnitude": 3.1,
+      "occurredAt": "2021-02-11T05:37:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.1,
+          "longitude": 134.5
+        },
+        "sexagesimal": {
+          "latitude": "34° 06' 00\"",
+          "longitude": "134° 30' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-11T05:54:18.055Z",
+      "url": "https://www.jma.go.jp/en/quake/20210211054114493-11143753.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-11T03:42:00.000Z",
