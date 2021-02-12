@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-11T22:19:30.365Z",
+  "lastUpdate": "2021-02-12T13:57:25.805Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-02-11T12:54:00.000Z",
-      "uuid": "20210211125438393-11215319",
-      "regionName": "Shizuoka-ken Tobu",
-      "magnitude": 1.6,
-      "occurredAt": "2021-02-11T12:49:00.000Z",
+      "issuedAt": "2021-02-12T04:56:00.000Z",
+      "uuid": "20210212045611493-12135234",
+      "regionName": "Tanegashima Nanto-oki",
+      "magnitude": 4.6,
+      "occurredAt": "2021-02-12T04:52:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 35.3,
-          "longitude": 138.7
+          "latitude": 29.9,
+          "longitude": 131.5
         },
         "sexagesimal": {
-          "latitude": "35° 18' 00\"",
-          "longitude": "138° 42' 00\""
+          "latitude": "29° 54' 00\"",
+          "longitude": "131° 30' 00\""
         },
         "depth": 10
       },
-      "lastUpdate": "2021-02-11T13:19:18.782Z",
-      "url": "https://www.jma.go.jp/en/quake/20210211125438393-11215319.html"
+      "lastUpdate": "2021-02-12T04:57:12.738Z",
+      "url": "https://www.jma.go.jp/en/quake/20210212045611493-12135234.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102112219.md"
+  "reportFile": "202102121357.md"
 }
