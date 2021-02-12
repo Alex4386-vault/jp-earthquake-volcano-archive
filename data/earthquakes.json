@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-12T15:51:23.179Z",
+  "lastUpdate": "2021-02-12T16:32:46.145Z",
   "data": [
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-12T15:56:00.000Z",
+      "uuid": "20210212155637393-13005230",
+      "regionName": "Ibaraki-ken Oki",
+      "magnitude": 4.1,
+      "occurredAt": "2021-02-12T15:52:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.4,
+          "longitude": 141.1
+        },
+        "sexagesimal": {
+          "latitude": "36° 24' 00\"",
+          "longitude": "141° 06' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2021-02-12T16:32:33.276Z",
+      "url": "https://www.jma.go.jp/en/quake/20210212155637393-13005230.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-12T15:50:00.000Z",
