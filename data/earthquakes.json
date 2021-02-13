@@ -1,6 +1,130 @@
 {
-  "lastUpdate": "2021-02-13T18:22:12.934Z",
+  "lastUpdate": "2021-02-13T18:47:58.409Z",
   "data": [
+    {
+      "maxIntensity": "3",
+      "issuedAt": "2021-02-13T18:29:00.000Z",
+      "uuid": "20210213182914393-14032536",
+      "regionName": "Iwate-ken Oki",
+      "magnitude": 5.1,
+      "occurredAt": "2021-02-13T18:25:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 39.1,
+          "longitude": 142.5
+        },
+        "sexagesimal": {
+          "latitude": "39° 06' 00\"",
+          "longitude": "142° 30' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2021-02-13T18:47:38.438Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Iwate",
+          "intensity": "3",
+          "city": "Miyako-shi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "3",
+          "city": "Ofunato-shi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "3",
+          "city": "Tono-shi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "3",
+          "city": "Ichinoseki-shi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "3",
+          "city": "Kamaishi-shi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "3",
+          "city": "Yahaba-cho"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "3",
+          "city": "Sumita-cho"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "3",
+          "city": "Otsuchi-cho"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "3",
+          "city": "Yamada-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Ishinomaki-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Kesennuma-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Tome-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Kurihara-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Osaki-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Minami-sanriku-cho"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Iwate-ken Engan-hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Iwate-ken Engan-nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Iwate-ken Nairiku-hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Iwate-ken Nairiku-nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Miyagi-ken Hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Miyagi-ken Chubu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210213182914393-14032536.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-13T17:52:00.000Z",
