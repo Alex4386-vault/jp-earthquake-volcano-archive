@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-13T01:32:46.149Z",
+  "lastUpdate": "2021-02-13T15:26:20.374Z",
   "earthquakes": [
     {
-      "maxIntensity": "2",
-      "issuedAt": "2021-02-12T15:56:00.000Z",
-      "uuid": "20210212155637393-13005230",
-      "regionName": "Ibaraki-ken Oki",
-      "magnitude": 4.1,
-      "occurredAt": "2021-02-12T15:52:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-13T06:15:00.000Z",
+      "uuid": "20210213061542393-13151247",
+      "regionName": "Iwate-ken Nairiku-hokubu",
+      "magnitude": 2.8,
+      "occurredAt": "2021-02-13T06:12:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 36.4,
-          "longitude": 141.1
+          "latitude": 39.9,
+          "longitude": 141
         },
         "sexagesimal": {
-          "latitude": "36° 24' 00\"",
-          "longitude": "141° 06' 00\""
+          "latitude": "39° 54' 00\"",
+          "longitude": "141° 00' 00\""
         },
-        "depth": 40
+        "depth": 10
       },
-      "lastUpdate": "2021-02-12T16:32:33.276Z",
-      "url": "https://www.jma.go.jp/en/quake/20210212155637393-13005230.html"
+      "lastUpdate": "2021-02-13T06:26:06.551Z",
+      "url": "https://www.jma.go.jp/en/quake/20210213061542393-13151247.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102130132.md"
+  "reportFile": "202102131526.md"
 }
