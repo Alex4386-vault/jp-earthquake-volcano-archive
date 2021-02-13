@@ -1,6 +1,1560 @@
 {
-  "lastUpdate": "2021-02-13T11:19:02.428Z",
+  "lastUpdate": "2021-02-13T14:19:53.395Z",
   "data": [
+    {
+      "maxIntensity": "6 Upper",
+      "issuedAt": "2021-02-13T14:18:00.000Z",
+      "uuid": "20210213141800393-13230800",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 7.1,
+      "occurredAt": "2021-02-13T14:08:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.7,
+          "longitude": 141.8
+        },
+        "sexagesimal": {
+          "latitude": "37° 42' 00\"",
+          "longitude": "141° 48' 00\""
+        },
+        "depth": 60
+      },
+      "lastUpdate": "2021-02-13T14:19:43.355Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Upper",
+          "city": "Zao-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Lower",
+          "city": "Ishinomaki-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Lower",
+          "city": "Iwanuma-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Lower",
+          "city": "Tome-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Lower",
+          "city": "Miyagi Kawasaki-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Lower",
+          "city": "Watari-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Lower",
+          "city": "Yamamoto-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Sendai Aoba-ku"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Sendai Miyagino-ku"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Sendai Wakabayashi-ku"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Shiogama-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Shiroishi-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Natori-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Kakuda-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Kurihara-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Higashi-matsushima-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Osaki-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Ogawara-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Murata-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Shibata-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Marumori-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Matsushima-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Shichigahama-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Rifu-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Osato-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Ohira-mura"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Wakuya-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Miyagi Misato-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Sendai Taihaku-ku"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Sendai Izumi-ku"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Tagajo-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Tomiya-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Taiwa-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Shikama-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Miyagi Kami-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Upper",
+          "city": "Soma-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Upper",
+          "city": "Kunimi-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Upper",
+          "city": "Shinchi-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Fukushima-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Koriyama-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Sukagawa-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Minami-soma-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Fukushima Date-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Motomiya-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Kori-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Kawamata-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Ten-ei-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Fukushima Hirono-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Naraha-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Kawauchi-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Okuma-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Futaba-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Namie-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Iwaki-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Shirakawa-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Nihommatsu-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Tamura-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Otama-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Kagamiishi-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Inawashiro-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Izumizaki-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Nakajima-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Yabuki-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Tamakawa-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Asakawa-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Ono-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Tomioka-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Katsurao-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Iitate-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Yugawa-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Aizu-misato-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Nishigo-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Tanagura-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Yamatsuri-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Ishikawa-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Hirata-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Furudono-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Miharu-machi"
+        },
+        {
+          "prefecture": "Tochigi",
+          "intensity": "5 Upper",
+          "city": "Takanezawa-machi"
+        },
+        {
+          "prefecture": "Tochigi",
+          "intensity": "5 Upper",
+          "city": "Nasu-machi"
+        },
+        {
+          "prefecture": "Tochigi",
+          "intensity": "5 Lower",
+          "city": "Otawara-shi"
+        },
+        {
+          "prefecture": "Tochigi",
+          "intensity": "5 Lower",
+          "city": "Nasu-karasuyama-shi"
+        },
+        {
+          "prefecture": "Tochigi",
+          "intensity": "5 Lower",
+          "city": "Tochigi Nakagawa-machi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "5 Lower",
+          "city": "Ichinoseki-shi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "5 Lower",
+          "city": "Yahaba-cho"
+        },
+        {
+          "prefecture": "Yamagata",
+          "intensity": "5 Lower",
+          "city": "Yonezawa-shi"
+        },
+        {
+          "prefecture": "Yamagata",
+          "intensity": "5 Lower",
+          "city": "Kaminoyama-shi"
+        },
+        {
+          "prefecture": "Yamagata",
+          "intensity": "5 Lower",
+          "city": "Nakayama-machi"
+        },
+        {
+          "prefecture": "Yamagata",
+          "intensity": "5 Lower",
+          "city": "Shirataka-machi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Hitachi-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Tsuchiura-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Hitachi-ota-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Kasama-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Hitachi-omiya-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Naka-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Chikusei-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Hokota-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Shirosato-machi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Tokai-mura"
+        },
+        {
+          "prefecture": "Saitama",
+          "intensity": "5 Lower",
+          "city": "Kazo-shi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "6 Upper",
+          "regionName": "Miyagi-ken Nambu"
+        },
+        {
+          "intensity": "6 Upper",
+          "regionName": "Fukushima-ken Nakadori"
+        },
+        {
+          "intensity": "6 Upper",
+          "regionName": "Fukushima-ken Hamadori"
+        },
+        {
+          "intensity": "6 Lower",
+          "regionName": "Miyagi-ken Hokubu"
+        },
+        {
+          "intensity": "6 Lower",
+          "regionName": "Miyagi-ken Chubu"
+        },
+        {
+          "intensity": "5 Upper",
+          "regionName": "Fukushima-ken Aizu"
+        },
+        {
+          "intensity": "5 Upper",
+          "regionName": "Tochigi-ken Hokubu"
+        },
+        {
+          "intensity": "5 Upper",
+          "regionName": "Tochigi-ken Nambu"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Iwate-ken Nairiku-hokubu"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Iwate-ken Nairiku-nambu"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Yamagata-ken Murayama"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Yamagata-ken Okitama"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Ibaraki-ken Hokubu"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Ibaraki-ken Nambu"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Saitama-ken Hokubu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Aomori-ken Sampachi-Kamikita"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Iwate-ken Engan-hokubu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Iwate-ken Engan-nambu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Akita-ken Engan-hokubu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Akita-ken Engan-nambu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Akita-ken Nairiku-nambu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Yamagata-ken Shonai"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Yamagata-ken Mogami"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Gumma-ken Hokubu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Gumma-ken Nambu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Saitama-ken Nambu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Chiba-ken Hokutobu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Chiba-ken Hokuseibu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Chiba-ken Nambu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Tokyo-to Nijusan-ku"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Tokyo-to Tama-tobu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Kanagawa-ken Tobu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Kanagawa-ken Seibu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Niigata-ken Joetsu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Niigata-ken Chuetsu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Niigata-ken Kaetsu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Yamanashi-ken Chuseibu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Yamanashi-ken Tobu-Fujigoko"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Shizuoka-ken Tobu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Ishikari-chiho Hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Oshima-chiho Tobu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Oshima-chiho Seibu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Sorachi-chiho Nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Iburi-chiho Chutobu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Hidaka-chiho Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Tokachi-chiho Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Tokachi-chiho Nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Kushiro-chiho Chunambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Aomori-ken Tsugaru-hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Aomori-ken Tsugaru-nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Aomori-ken Shimokita"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Akita-ken Nairiku-hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Saitama-ken Chichibu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Tokyo-to Tama-seibu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Niigata-ken Sado"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Ishikawa-ken Noto"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Nagano-ken Hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Nagano-ken Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Nagano-ken Nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Shizuoka-ken Izu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Shizuoka-ken Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Shizuoka-ken Seibu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Aichi-ken Seibu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210213141800393-13230800.html"
+    },
+    {
+      "maxIntensity": "6 Upper",
+      "issuedAt": "2021-02-13T14:13:00.000Z",
+      "uuid": "20210213141302393-13230800",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 7.1,
+      "occurredAt": "2021-02-13T14:08:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.7,
+          "longitude": 141.8
+        },
+        "sexagesimal": {
+          "latitude": "37° 42' 00\"",
+          "longitude": "141° 48' 00\""
+        },
+        "depth": 60
+      },
+      "lastUpdate": "2021-02-13T14:19:44.278Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Upper",
+          "city": "Zao-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Lower",
+          "city": "Ishinomaki-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Lower",
+          "city": "Iwanuma-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Lower",
+          "city": "Tome-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Lower",
+          "city": "Miyagi Kawasaki-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Lower",
+          "city": "Watari-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "6 Lower",
+          "city": "Yamamoto-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Sendai Aoba-ku"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Sendai Miyagino-ku"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Sendai Wakabayashi-ku"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Shiogama-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Shiroishi-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Natori-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Kakuda-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Kurihara-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Higashi-matsushima-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Osaki-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Ogawara-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Murata-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Shibata-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Marumori-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Matsushima-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Shichigahama-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Rifu-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Osato-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Ohira-mura"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Wakuya-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Upper",
+          "city": "Miyagi Misato-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Sendai Taihaku-ku"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Sendai Izumi-ku"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Tagajo-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Tomiya-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Taiwa-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Shikama-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "5 Lower",
+          "city": "Miyagi Kami-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Upper",
+          "city": "Soma-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Upper",
+          "city": "Kunimi-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Upper",
+          "city": "Shinchi-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Fukushima-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Koriyama-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Sukagawa-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Minami-soma-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Fukushima Date-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Motomiya-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Kori-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Kawamata-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Ten-ei-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Fukushima Hirono-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Naraha-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Kawauchi-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Okuma-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Futaba-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "6 Lower",
+          "city": "Namie-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Iwaki-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Shirakawa-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Nihommatsu-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Tamura-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Otama-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Kagamiishi-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Inawashiro-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Izumizaki-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Nakajima-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Yabuki-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Tamakawa-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Asakawa-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Ono-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Tomioka-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Katsurao-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Upper",
+          "city": "Iitate-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Yugawa-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Aizu-misato-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Nishigo-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Tanagura-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Yamatsuri-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Ishikawa-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Hirata-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Furudono-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "5 Lower",
+          "city": "Miharu-machi"
+        },
+        {
+          "prefecture": "Tochigi",
+          "intensity": "5 Upper",
+          "city": "Takanezawa-machi"
+        },
+        {
+          "prefecture": "Tochigi",
+          "intensity": "5 Upper",
+          "city": "Nasu-machi"
+        },
+        {
+          "prefecture": "Tochigi",
+          "intensity": "5 Lower",
+          "city": "Otawara-shi"
+        },
+        {
+          "prefecture": "Tochigi",
+          "intensity": "5 Lower",
+          "city": "Nasu-karasuyama-shi"
+        },
+        {
+          "prefecture": "Tochigi",
+          "intensity": "5 Lower",
+          "city": "Tochigi Nakagawa-machi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "5 Lower",
+          "city": "Ichinoseki-shi"
+        },
+        {
+          "prefecture": "Iwate",
+          "intensity": "5 Lower",
+          "city": "Yahaba-cho"
+        },
+        {
+          "prefecture": "Yamagata",
+          "intensity": "5 Lower",
+          "city": "Yonezawa-shi"
+        },
+        {
+          "prefecture": "Yamagata",
+          "intensity": "5 Lower",
+          "city": "Kaminoyama-shi"
+        },
+        {
+          "prefecture": "Yamagata",
+          "intensity": "5 Lower",
+          "city": "Nakayama-machi"
+        },
+        {
+          "prefecture": "Yamagata",
+          "intensity": "5 Lower",
+          "city": "Shirataka-machi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Hitachi-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Tsuchiura-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Hitachi-ota-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Kasama-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Hitachi-omiya-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Naka-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Chikusei-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Hokota-shi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Shirosato-machi"
+        },
+        {
+          "prefecture": "Ibaraki",
+          "intensity": "5 Lower",
+          "city": "Tokai-mura"
+        },
+        {
+          "prefecture": "Saitama",
+          "intensity": "5 Lower",
+          "city": "Kazo-shi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "6 Upper",
+          "regionName": "Miyagi-ken Nambu"
+        },
+        {
+          "intensity": "6 Upper",
+          "regionName": "Fukushima-ken Nakadori"
+        },
+        {
+          "intensity": "6 Upper",
+          "regionName": "Fukushima-ken Hamadori"
+        },
+        {
+          "intensity": "6 Lower",
+          "regionName": "Miyagi-ken Hokubu"
+        },
+        {
+          "intensity": "6 Lower",
+          "regionName": "Miyagi-ken Chubu"
+        },
+        {
+          "intensity": "5 Upper",
+          "regionName": "Fukushima-ken Aizu"
+        },
+        {
+          "intensity": "5 Upper",
+          "regionName": "Tochigi-ken Hokubu"
+        },
+        {
+          "intensity": "5 Upper",
+          "regionName": "Tochigi-ken Nambu"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Iwate-ken Nairiku-hokubu"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Iwate-ken Nairiku-nambu"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Yamagata-ken Murayama"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Yamagata-ken Okitama"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Ibaraki-ken Hokubu"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Ibaraki-ken Nambu"
+        },
+        {
+          "intensity": "5 Lower",
+          "regionName": "Saitama-ken Hokubu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Aomori-ken Sampachi-Kamikita"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Iwate-ken Engan-hokubu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Iwate-ken Engan-nambu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Akita-ken Engan-hokubu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Akita-ken Engan-nambu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Akita-ken Nairiku-nambu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Yamagata-ken Shonai"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Yamagata-ken Mogami"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Gumma-ken Hokubu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Gumma-ken Nambu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Saitama-ken Nambu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Chiba-ken Hokutobu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Chiba-ken Hokuseibu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Chiba-ken Nambu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Tokyo-to Nijusan-ku"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Tokyo-to Tama-tobu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Kanagawa-ken Tobu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Kanagawa-ken Seibu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Niigata-ken Joetsu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Niigata-ken Chuetsu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Niigata-ken Kaetsu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Yamanashi-ken Chuseibu"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Yamanashi-ken Tobu-Fujigoko"
+        },
+        {
+          "intensity": "4",
+          "regionName": "Shizuoka-ken Tobu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Ishikari-chiho Hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Oshima-chiho Tobu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Oshima-chiho Seibu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Sorachi-chiho Nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Iburi-chiho Chutobu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Hidaka-chiho Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Tokachi-chiho Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Tokachi-chiho Nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Kushiro-chiho Chunambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Aomori-ken Tsugaru-hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Aomori-ken Tsugaru-nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Aomori-ken Shimokita"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Akita-ken Nairiku-hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Saitama-ken Chichibu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Tokyo-to Tama-seibu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Niigata-ken Sado"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Ishikawa-ken Noto"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Nagano-ken Hokubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Nagano-ken Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Nagano-ken Nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Shizuoka-ken Izu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Shizuoka-ken Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Shizuoka-ken Seibu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Aichi-ken Seibu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210213141302393-13230800.html"
+    },
     {
       "maxIntensity": "3",
       "issuedAt": "2021-02-13T10:55:00.000Z",
