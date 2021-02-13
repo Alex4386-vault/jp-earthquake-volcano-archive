@@ -1,6 +1,89 @@
 {
-  "lastUpdate": "2021-02-13T14:32:35.596Z",
+  "lastUpdate": "2021-02-13T14:45:58.263Z",
   "data": [
+    {
+      "maxIntensity": "3",
+      "issuedAt": "2021-02-13T14:43:00.000Z",
+      "uuid": "20210213144332393-13233653",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4.7,
+      "occurredAt": "2021-02-13T14:36:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.6,
+          "longitude": 141.7
+        },
+        "sexagesimal": {
+          "latitude": "37° 36' 00\"",
+          "longitude": "141° 42' 00\""
+        },
+        "depth": 60
+      },
+      "lastUpdate": "2021-02-13T14:45:50.544Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Soma-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Nihommatsu-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Tamura-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Minami-soma-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Fukushima Date-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Kunimi-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Naraha-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Futaba-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Namie-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Shinchi-machi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Fukushima-ken Nakadori"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Fukushima-ken Hamadori"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210213144332393-13233653.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-13T14:26:00.000Z",
