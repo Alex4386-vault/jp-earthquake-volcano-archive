@@ -1,28 +1,238 @@
 {
-  "lastUpdate": "2021-02-14T16:22:46.970Z",
+  "lastUpdate": "2021-02-14T16:40:14.306Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-02-14T07:22:00.000Z",
-      "uuid": "20210214072217393-14161955",
+      "maxIntensity": "4",
+      "issuedAt": "2021-02-14T07:36:00.000Z",
+      "uuid": "20210214073621393-14163159",
       "regionName": "Fukushima-ken Oki",
-      "magnitude": 3.8,
-      "occurredAt": "2021-02-14T07:19:00.000Z",
+      "magnitude": 5.2,
+      "occurredAt": "2021-02-14T07:31:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.6,
-          "longitude": 141.6
+          "latitude": 37.5,
+          "longitude": 141.5
         },
         "sexagesimal": {
-          "latitude": "37° 36' 00\"",
-          "longitude": "141° 36' 00\""
+          "latitude": "37° 30' 00\"",
+          "longitude": "141° 30' 00\""
         },
-        "depth": 60
+        "depth": 50
       },
-      "lastUpdate": "2021-02-14T07:22:31.819Z",
-      "url": "https://www.jma.go.jp/en/quake/20210214072217393-14161955.html"
+      "lastUpdate": "2021-02-14T07:39:56.805Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Fukushima",
+          "intensity": "4",
+          "city": "Soma-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "4",
+          "city": "Minami-soma-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "4",
+          "city": "Okuma-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "4",
+          "city": "Futaba-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "4",
+          "city": "Namie-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Fukushima-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Koriyama-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Iwaki-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Shirakawa-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Sukagawa-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Nihommatsu-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Tamura-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Fukushima Date-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Motomiya-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Kunimi-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Kawamata-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Otama-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Kagamiishi-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Ten-ei-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Izumizaki-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Nakajima-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Tamakawa-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Asakawa-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Ono-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Fukushima Hirono-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Naraha-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Tomioka-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Kawauchi-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Katsurao-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Shinchi-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Iitate-mura"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Ishinomaki-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Natori-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Kakuda-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Iwanuma-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Shibata-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Miyagi Kawasaki-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Marumori-machi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "4",
+          "regionName": "Fukushima-ken Hamadori"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Miyagi-ken Nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Miyagi-ken Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Fukushima-ken Nakadori"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210214073621393-14163159.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102141622.md"
+  "reportFile": "202102141640.md"
 }
