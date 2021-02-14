@@ -1,28 +1,49 @@
 {
-  "lastUpdate": "2021-02-15T05:56:06.027Z",
+  "lastUpdate": "2021-02-15T06:33:45.259Z",
   "earthquakes": [
     {
       "maxIntensity": "2",
-      "issuedAt": "2021-02-14T20:49:00.000Z",
-      "uuid": "20210214204915493-15054618",
-      "regionName": "Wakayama-ken Hokubu",
-      "magnitude": 2.5,
-      "occurredAt": "2021-02-14T20:46:00.000Z",
+      "issuedAt": "2021-02-14T21:29:00.000Z",
+      "uuid": "20210214212924393-15062530",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4,
+      "occurredAt": "2021-02-14T21:25:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 34.2,
-          "longitude": 135.2
+          "latitude": 37.5,
+          "longitude": 141.5
         },
         "sexagesimal": {
-          "latitude": "34° 12' 00\"",
-          "longitude": "135° 12' 00\""
+          "latitude": "37° 30' 00\"",
+          "longitude": "141° 30' 00\""
         },
-        "depth": null
+        "depth": 50
       },
-      "lastUpdate": "2021-02-14T20:55:41.537Z",
-      "url": "https://www.jma.go.jp/en/quake/20210214204915493-15054618.html"
+      "lastUpdate": "2021-02-14T21:33:21.649Z",
+      "url": "https://www.jma.go.jp/en/quake/20210214212924393-15062530.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-14T21:27:00.000Z",
+      "uuid": "20210214212721393-15062456",
+      "regionName": "Ibaraki-ken Hokubu",
+      "magnitude": 3,
+      "occurredAt": "2021-02-14T21:24:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.7,
+          "longitude": 140.6
+        },
+        "sexagesimal": {
+          "latitude": "36° 42' 00\"",
+          "longitude": "140° 36' 00\""
+        },
+        "depth": 80
+      },
+      "lastUpdate": "2021-02-14T21:33:22.289Z",
+      "url": "https://www.jma.go.jp/en/quake/20210214212721393-15062456.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102150556.md"
+  "reportFile": "202102150633.md"
 }
