@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-15T04:19:20.837Z",
+  "lastUpdate": "2021-02-15T05:56:06.027Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-02-14T19:06:00.000Z",
-      "uuid": "20210214190630393-15040328",
-      "regionName": "Aichi-ken Seibu",
-      "magnitude": 2.9,
-      "occurredAt": "2021-02-14T19:03:00.000Z",
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-14T20:49:00.000Z",
+      "uuid": "20210214204915493-15054618",
+      "regionName": "Wakayama-ken Hokubu",
+      "magnitude": 2.5,
+      "occurredAt": "2021-02-14T20:46:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 35.1,
-          "longitude": 137.3
+          "latitude": 34.2,
+          "longitude": 135.2
         },
         "sexagesimal": {
-          "latitude": "35° 06' 00\"",
-          "longitude": "137° 18' 00\""
+          "latitude": "34° 12' 00\"",
+          "longitude": "135° 12' 00\""
         },
-        "depth": 40
+        "depth": null
       },
-      "lastUpdate": "2021-02-14T19:18:53.776Z",
-      "url": "https://www.jma.go.jp/en/quake/20210214190630393-15040328.html"
+      "lastUpdate": "2021-02-14T20:55:41.537Z",
+      "url": "https://www.jma.go.jp/en/quake/20210214204915493-15054618.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102150419.md"
+  "reportFile": "202102150556.md"
 }

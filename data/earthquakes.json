@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-14T19:19:20.799Z",
+  "lastUpdate": "2021-02-14T20:56:05.932Z",
   "data": [
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-14T20:49:00.000Z",
+      "uuid": "20210214204915493-15054618",
+      "regionName": "Wakayama-ken Hokubu",
+      "magnitude": 2.5,
+      "occurredAt": "2021-02-14T20:46:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.2,
+          "longitude": 135.2
+        },
+        "sexagesimal": {
+          "latitude": "34° 12' 00\"",
+          "longitude": "135° 12' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-02-14T20:55:41.537Z",
+      "url": "https://www.jma.go.jp/en/quake/20210214204915493-15054618.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-14T19:06:00.000Z",
