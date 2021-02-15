@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-15T07:23:53.555Z",
+  "lastUpdate": "2021-02-15T07:41:24.297Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-15T07:39:00.000Z",
+      "uuid": "20210215073932393-15163626",
+      "regionName": "Ibaraki-ken Hokubu",
+      "magnitude": 3.1,
+      "occurredAt": "2021-02-15T07:36:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.5,
+          "longitude": 140.6
+        },
+        "sexagesimal": {
+          "latitude": "36° 30' 00\"",
+          "longitude": "140° 36' 00\""
+        },
+        "depth": 80
+      },
+      "lastUpdate": "2021-02-15T07:40:58.105Z",
+      "url": "https://www.jma.go.jp/en/quake/20210215073932393-15163626.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-15T07:15:00.000Z",
