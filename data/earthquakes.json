@@ -1,6 +1,127 @@
 {
-  "lastUpdate": "2021-02-15T12:28:07.883Z",
+  "lastUpdate": "2021-02-15T12:55:15.792Z",
   "data": [
+    {
+      "maxIntensity": "3",
+      "issuedAt": "2021-02-15T12:30:00.000Z",
+      "uuid": "20210215123017393-15212613",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 5.3,
+      "occurredAt": "2021-02-15T12:26:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.5,
+          "longitude": 141.6
+        },
+        "sexagesimal": {
+          "latitude": "37° 30' 00\"",
+          "longitude": "141° 36' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-02-15T12:55:00.252Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Ishinomaki-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Kakuda-shi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Marumori-machi"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Yamamoto-cho"
+        },
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Matsushima-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Iwaki-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Soma-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Tamura-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Minami-soma-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Fukushima Hirono-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Naraha-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Tomioka-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Kawauchi-mura"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Okuma-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Futaba-machi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Namie-machi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Miyagi-ken Nambu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Miyagi-ken Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Fukushima-ken Nakadori"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Fukushima-ken Hamadori"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210215123017393-15212613.html"
+    },
     {
       "maxIntensity": "2",
       "issuedAt": "2021-02-15T12:02:00.000Z",
