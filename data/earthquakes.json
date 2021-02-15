@@ -1,6 +1,48 @@
 {
-  "lastUpdate": "2021-02-15T15:20:07.236Z",
+  "lastUpdate": "2021-02-15T15:51:53.809Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-15T15:45:00.000Z",
+      "uuid": "20210215154555493-16004228",
+      "regionName": "Wakayama-ken Hokubu",
+      "magnitude": 2,
+      "occurredAt": "2021-02-15T15:42:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.2,
+          "longitude": 135.2
+        },
+        "sexagesimal": {
+          "latitude": "34° 12' 00\"",
+          "longitude": "135° 12' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-02-15T15:51:18.931Z",
+      "url": "https://www.jma.go.jp/en/quake/20210215154555493-16004228.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-15T15:41:00.000Z",
+      "uuid": "20210215154113393-16003756",
+      "regionName": "Chiba-ken Hokutobu",
+      "magnitude": 2.9,
+      "occurredAt": "2021-02-15T15:37:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 35.5,
+          "longitude": 140.4
+        },
+        "sexagesimal": {
+          "latitude": "35° 30' 00\"",
+          "longitude": "140° 24' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2021-02-15T15:51:19.738Z",
+      "url": "https://www.jma.go.jp/en/quake/20210215154113393-16003756.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-15T14:59:00.000Z",
