@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-16T01:01:34.171Z",
+  "lastUpdate": "2021-02-16T07:23:15.004Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-16T07:10:00.000Z",
+      "uuid": "20210216071046493-16160714",
+      "regionName": "Osaka-fu Nambu",
+      "magnitude": 1.5,
+      "occurredAt": "2021-02-16T07:07:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.3,
+          "longitude": 135.2
+        },
+        "sexagesimal": {
+          "latitude": "34° 18' 00\"",
+          "longitude": "135° 12' 00\""
+        },
+        "depth": null
+      },
+      "lastUpdate": "2021-02-16T07:22:45.187Z",
+      "url": "https://www.jma.go.jp/en/quake/20210216071046493-16160714.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-16T00:51:00.000Z",
