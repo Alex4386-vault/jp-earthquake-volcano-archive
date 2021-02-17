@@ -1,6 +1,49 @@
 {
-  "lastUpdate": "2021-02-17T05:41:14.176Z",
+  "lastUpdate": "2021-02-17T14:21:23.181Z",
   "data": [
+    {
+      "maxIntensity": "3",
+      "issuedAt": "2021-02-17T14:09:00.000Z",
+      "uuid": "20210217140958393-17230627",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4.5,
+      "occurredAt": "2021-02-17T14:06:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.6,
+          "longitude": 141.6
+        },
+        "sexagesimal": {
+          "latitude": "37° 36' 00\"",
+          "longitude": "141° 36' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-02-17T14:20:55.318Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Miyagi",
+          "intensity": "3",
+          "city": "Ishinomaki-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Futaba-machi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Miyagi-ken Chubu"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Fukushima-ken Hamadori"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210217140958393-17230627.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-17T05:31:00.000Z",
