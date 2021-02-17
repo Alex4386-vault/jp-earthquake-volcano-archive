@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-17T12:45:01.045Z",
+  "lastUpdate": "2021-02-17T14:41:14.186Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-02-17T03:35:00.000Z",
-      "uuid": "20210217033548493-17123228",
-      "regionName": "Hyuga-nada",
-      "magnitude": 3.5,
-      "occurredAt": "2021-02-17T03:32:00.000Z",
+      "issuedAt": "2021-02-17T05:31:00.000Z",
+      "uuid": "20210217053107493-17142730",
+      "regionName": "Wakayama-ken Hokubu",
+      "magnitude": 1.8,
+      "occurredAt": "2021-02-17T05:27:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 32.1,
-          "longitude": 132.1
+          "latitude": 34.2,
+          "longitude": 135.2
         },
         "sexagesimal": {
-          "latitude": "32° 06' 00\"",
-          "longitude": "132° 06' 00\""
+          "latitude": "34° 12' 00\"",
+          "longitude": "135° 12' 00\""
         },
-        "depth": 20
+        "depth": 10
       },
-      "lastUpdate": "2021-02-17T03:44:27.793Z",
-      "url": "https://www.jma.go.jp/en/quake/20210217033548493-17123228.html"
+      "lastUpdate": "2021-02-17T05:40:43.111Z",
+      "url": "https://www.jma.go.jp/en/quake/20210217053107493-17142730.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102171245.md"
+  "reportFile": "202102171441.md"
 }
