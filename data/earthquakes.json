@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-17T19:14:09.073Z",
+  "lastUpdate": "2021-02-17T20:55:11.376Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-17T20:46:00.000Z",
+      "uuid": "20210217204606493-18054337",
+      "regionName": "Yamaguchi-ken Hokubu",
+      "magnitude": 2.7,
+      "occurredAt": "2021-02-17T20:43:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.3,
+          "longitude": 131.4
+        },
+        "sexagesimal": {
+          "latitude": "34° 18' 00\"",
+          "longitude": "131° 24' 00\""
+        },
+        "depth": 20
+      },
+      "lastUpdate": "2021-02-17T20:54:22.749Z",
+      "url": "https://www.jma.go.jp/en/quake/20210217204606493-18054337.html"
+    },
     {
       "maxIntensity": "3",
       "issuedAt": "2021-02-17T19:02:00.000Z",
