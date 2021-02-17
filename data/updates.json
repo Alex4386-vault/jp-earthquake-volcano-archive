@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-17T08:44:37.453Z",
+  "lastUpdate": "2021-02-17T12:45:01.045Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-02-16T23:33:00.000Z",
-      "uuid": "20210216233338393-17083059",
-      "regionName": "Fukushima-ken Oki",
-      "magnitude": 3.7,
-      "occurredAt": "2021-02-16T23:31:00.000Z",
+      "issuedAt": "2021-02-17T03:35:00.000Z",
+      "uuid": "20210217033548493-17123228",
+      "regionName": "Hyuga-nada",
+      "magnitude": 3.5,
+      "occurredAt": "2021-02-17T03:32:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.6,
-          "longitude": 141.6
+          "latitude": 32.1,
+          "longitude": 132.1
         },
         "sexagesimal": {
-          "latitude": "37° 36' 00\"",
-          "longitude": "141° 36' 00\""
+          "latitude": "32° 06' 00\"",
+          "longitude": "132° 06' 00\""
         },
-        "depth": 50
+        "depth": 20
       },
-      "lastUpdate": "2021-02-16T23:44:00.498Z",
-      "url": "https://www.jma.go.jp/en/quake/20210216233338393-17083059.html"
+      "lastUpdate": "2021-02-17T03:44:27.793Z",
+      "url": "https://www.jma.go.jp/en/quake/20210217033548493-17123228.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102170844.md"
+  "reportFile": "202102171245.md"
 }
