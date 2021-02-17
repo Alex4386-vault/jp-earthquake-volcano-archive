@@ -1,50 +1,41 @@
 {
-  "lastUpdate": "2021-02-17T23:21:23.188Z",
+  "lastUpdate": "2021-02-18T02:05:48.584Z",
   "earthquakes": [
     {
       "maxIntensity": "3",
-      "issuedAt": "2021-02-17T14:09:00.000Z",
-      "uuid": "20210217140958393-17230627",
-      "regionName": "Fukushima-ken Oki",
-      "magnitude": 4.5,
-      "occurredAt": "2021-02-17T14:06:00.000Z",
+      "issuedAt": "2021-02-17T16:50:00.000Z",
+      "uuid": "20210217165040493-18014649",
+      "regionName": "Okinawa-honto Kinkai",
+      "magnitude": 4,
+      "occurredAt": "2021-02-17T16:46:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.6,
-          "longitude": 141.6
+          "latitude": 27.4,
+          "longitude": 128.6
         },
         "sexagesimal": {
-          "latitude": "37° 36' 00\"",
-          "longitude": "141° 36' 00\""
+          "latitude": "27° 24' 00\"",
+          "longitude": "128° 36' 00\""
         },
-        "depth": 50
+        "depth": 40
       },
-      "lastUpdate": "2021-02-17T14:20:55.318Z",
+      "lastUpdate": "2021-02-17T17:05:28.795Z",
       "intensityByCity": [
         {
-          "prefecture": "Miyagi",
+          "prefecture": "Kagoshima",
           "intensity": "3",
-          "city": "Ishinomaki-shi"
-        },
-        {
-          "prefecture": "Fukushima",
-          "intensity": "3",
-          "city": "Futaba-machi"
+          "city": "China-cho"
         }
       ],
       "intensityByRegion": [
         {
           "intensity": "3",
-          "regionName": "Miyagi-ken Chubu"
-        },
-        {
-          "intensity": "3",
-          "regionName": "Fukushima-ken Hamadori"
+          "regionName": "Kagoshima-ken Amami-nambu"
         }
       ],
-      "url": "https://www.jma.go.jp/en/quake/20210217140958393-17230627.html"
+      "url": "https://www.jma.go.jp/en/quake/20210217165040493-18014649.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102172321.md"
+  "reportFile": "202102180205.md"
 }

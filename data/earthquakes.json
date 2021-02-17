@@ -1,6 +1,40 @@
 {
-  "lastUpdate": "2021-02-17T14:21:23.181Z",
+  "lastUpdate": "2021-02-17T17:05:48.577Z",
   "data": [
+    {
+      "maxIntensity": "3",
+      "issuedAt": "2021-02-17T16:50:00.000Z",
+      "uuid": "20210217165040493-18014649",
+      "regionName": "Okinawa-honto Kinkai",
+      "magnitude": 4,
+      "occurredAt": "2021-02-17T16:46:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 27.4,
+          "longitude": 128.6
+        },
+        "sexagesimal": {
+          "latitude": "27° 24' 00\"",
+          "longitude": "128° 36' 00\""
+        },
+        "depth": 40
+      },
+      "lastUpdate": "2021-02-17T17:05:28.795Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Kagoshima",
+          "intensity": "3",
+          "city": "China-cho"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Kagoshima-ken Amami-nambu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210217165040493-18014649.html"
+    },
     {
       "maxIntensity": "3",
       "issuedAt": "2021-02-17T14:09:00.000Z",
