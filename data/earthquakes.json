@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-18T08:24:47.098Z",
+  "lastUpdate": "2021-02-18T10:22:55.004Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-18T10:12:00.000Z",
+      "uuid": "20210218101232493-18190931",
+      "regionName": "Miyakojima Kinkai",
+      "magnitude": 4.2,
+      "occurredAt": "2021-02-18T10:09:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 24.3,
+          "longitude": 125.2
+        },
+        "sexagesimal": {
+          "latitude": "24° 18' 00\"",
+          "longitude": "125° 12' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2021-02-18T10:22:25.340Z",
+      "url": "https://www.jma.go.jp/en/quake/20210218101232493-18190931.html"
+    },
     {
       "maxIntensity": "2",
       "issuedAt": "2021-02-18T07:53:00.000Z",
