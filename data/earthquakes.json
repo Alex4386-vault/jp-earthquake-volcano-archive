@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-18T06:23:11.403Z",
+  "lastUpdate": "2021-02-18T07:23:39.286Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-18T07:04:00.000Z",
+      "uuid": "20210218070411393-18160119",
+      "regionName": "Urakawa Oki",
+      "magnitude": 4.1,
+      "occurredAt": "2021-02-18T07:01:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 42,
+          "longitude": 142.5
+        },
+        "sexagesimal": {
+          "latitude": "42° 00' 00\"",
+          "longitude": "142° 30' 00\""
+        },
+        "depth": 70
+      },
+      "lastUpdate": "2021-02-18T07:23:07.575Z",
+      "url": "https://www.jma.go.jp/en/quake/20210218070411393-18160119.html"
+    },
     {
       "maxIntensity": "2",
       "issuedAt": "2021-02-18T06:05:00.000Z",
