@@ -1,49 +1,28 @@
 {
-  "lastUpdate": "2021-02-18T12:22:01.447Z",
+  "lastUpdate": "2021-02-18T15:23:11.411Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-02-18T03:12:00.000Z",
-      "uuid": "20210218031241393-18120940",
-      "regionName": "Ibaraki-ken Oki",
-      "magnitude": 3.2,
-      "occurredAt": "2021-02-18T03:09:00.000Z",
-      "location": {
-        "decimal": {
-          "latitude": 36.1,
-          "longitude": 140.9
-        },
-        "sexagesimal": {
-          "latitude": "36° 06' 00\"",
-          "longitude": "140° 54' 00\""
-        },
-        "depth": 40
-      },
-      "lastUpdate": "2021-02-18T03:21:17.925Z",
-      "url": "https://www.jma.go.jp/en/quake/20210218031241393-18120940.html"
-    },
-    {
       "maxIntensity": "2",
-      "issuedAt": "2021-02-18T02:55:00.000Z",
-      "uuid": "20210218025543393-18115230",
+      "issuedAt": "2021-02-18T06:05:00.000Z",
+      "uuid": "20210218060544393-18150250",
       "regionName": "Fukushima-ken Oki",
-      "magnitude": 4,
-      "occurredAt": "2021-02-18T02:52:00.000Z",
+      "magnitude": 4.5,
+      "occurredAt": "2021-02-18T06:02:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.7,
+          "latitude": 37.6,
           "longitude": 141.7
         },
         "sexagesimal": {
-          "latitude": "37° 42' 00\"",
+          "latitude": "37° 36' 00\"",
           "longitude": "141° 42' 00\""
         },
         "depth": 50
       },
-      "lastUpdate": "2021-02-18T03:21:18.528Z",
-      "url": "https://www.jma.go.jp/en/quake/20210218025543393-18115230.html"
+      "lastUpdate": "2021-02-18T06:22:38.876Z",
+      "url": "https://www.jma.go.jp/en/quake/20210218060544393-18150250.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102181222.md"
+  "reportFile": "202102181523.md"
 }
