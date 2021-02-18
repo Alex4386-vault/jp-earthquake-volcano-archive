@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-18T15:20:45.823Z",
+  "lastUpdate": "2021-02-18T16:33:51.568Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-18T16:15:00.000Z",
+      "uuid": "20210218161514493-19011218",
+      "regionName": "Shimane-ken Seibu",
+      "magnitude": 2.9,
+      "occurredAt": "2021-02-18T16:12:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 35.1,
+          "longitude": 132.4
+        },
+        "sexagesimal": {
+          "latitude": "35° 06' 00\"",
+          "longitude": "132° 24' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-18T16:33:15.436Z",
+      "url": "https://www.jma.go.jp/en/quake/20210218161514493-19011218.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-18T15:13:00.000Z",

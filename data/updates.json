@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-19T00:20:45.831Z",
+  "lastUpdate": "2021-02-19T01:33:51.576Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-02-18T15:13:00.000Z",
-      "uuid": "20210218151357393-19001103",
-      "regionName": "Fukushima-ken Oki",
-      "magnitude": 3.7,
-      "occurredAt": "2021-02-18T15:11:00.000Z",
+      "issuedAt": "2021-02-18T16:15:00.000Z",
+      "uuid": "20210218161514493-19011218",
+      "regionName": "Shimane-ken Seibu",
+      "magnitude": 2.9,
+      "occurredAt": "2021-02-18T16:12:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.5,
-          "longitude": 141.7
+          "latitude": 35.1,
+          "longitude": 132.4
         },
         "sexagesimal": {
-          "latitude": "37° 30' 00\"",
-          "longitude": "141° 42' 00\""
+          "latitude": "35° 06' 00\"",
+          "longitude": "132° 24' 00\""
         },
-        "depth": 60
+        "depth": 10
       },
-      "lastUpdate": "2021-02-18T15:19:59.610Z",
-      "url": "https://www.jma.go.jp/en/quake/20210218151357393-19001103.html"
+      "lastUpdate": "2021-02-18T16:33:15.436Z",
+      "url": "https://www.jma.go.jp/en/quake/20210218161514493-19011218.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102190020.md"
+  "reportFile": "202102190133.md"
 }
