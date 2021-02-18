@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-18T07:23:39.286Z",
+  "lastUpdate": "2021-02-18T08:24:47.098Z",
   "data": [
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-18T07:53:00.000Z",
+      "uuid": "20210218075357393-18165103",
+      "regionName": "Aomori-ken Toho-oki",
+      "magnitude": 3.7,
+      "occurredAt": "2021-02-18T07:51:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 40.9,
+          "longitude": 142.2
+        },
+        "sexagesimal": {
+          "latitude": "40° 54' 00\"",
+          "longitude": "142° 12' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-02-18T08:24:16.997Z",
+      "url": "https://www.jma.go.jp/en/quake/20210218075357393-18165103.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-18T07:04:00.000Z",

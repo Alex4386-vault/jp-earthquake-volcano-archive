@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-18T16:23:39.295Z",
+  "lastUpdate": "2021-02-18T17:24:47.106Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-02-18T07:04:00.000Z",
-      "uuid": "20210218070411393-18160119",
-      "regionName": "Urakawa Oki",
-      "magnitude": 4.1,
-      "occurredAt": "2021-02-18T07:01:00.000Z",
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-18T07:53:00.000Z",
+      "uuid": "20210218075357393-18165103",
+      "regionName": "Aomori-ken Toho-oki",
+      "magnitude": 3.7,
+      "occurredAt": "2021-02-18T07:51:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 42,
-          "longitude": 142.5
+          "latitude": 40.9,
+          "longitude": 142.2
         },
         "sexagesimal": {
-          "latitude": "42° 00' 00\"",
-          "longitude": "142° 30' 00\""
+          "latitude": "40° 54' 00\"",
+          "longitude": "142° 12' 00\""
         },
-        "depth": 70
+        "depth": 50
       },
-      "lastUpdate": "2021-02-18T07:23:07.575Z",
-      "url": "https://www.jma.go.jp/en/quake/20210218070411393-18160119.html"
+      "lastUpdate": "2021-02-18T08:24:16.997Z",
+      "url": "https://www.jma.go.jp/en/quake/20210218075357393-18165103.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102181623.md"
+  "reportFile": "202102181724.md"
 }
