@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2021-02-18T20:21:09.542Z",
+  "lastUpdate": "2021-02-19T01:46:16.593Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-19T01:27:00.000Z",
+      "uuid": "20210219012705393-19102409",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 3.3,
+      "occurredAt": "2021-02-19T01:24:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.9,
+          "longitude": 141.1
+        },
+        "sexagesimal": {
+          "latitude": "36° 54' 00\"",
+          "longitude": "141° 06' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-02-19T01:45:29.979Z",
+      "url": "https://www.jma.go.jp/en/quake/20210219012705393-19102409.html"
+    },
+    {
+      "maxIntensity": "3",
+      "issuedAt": "2021-02-19T01:10:00.000Z",
+      "uuid": "20210219011051393-19100719",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4.7,
+      "occurredAt": "2021-02-19T01:07:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.7,
+          "longitude": 141.6
+        },
+        "sexagesimal": {
+          "latitude": "37° 42' 00\"",
+          "longitude": "141° 36' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-02-19T01:45:30.401Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Soma-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Tamura-shi"
+        },
+        {
+          "prefecture": "Fukushima",
+          "intensity": "3",
+          "city": "Okuma-machi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Fukushima-ken Nakadori"
+        },
+        {
+          "intensity": "3",
+          "regionName": "Fukushima-ken Hamadori"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210219011051393-19100719.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-19T01:04:00.000Z",
+      "uuid": "20210219010440393-19100151",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 3.8,
+      "occurredAt": "2021-02-19T01:01:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.7,
+          "longitude": 141.6
+        },
+        "sexagesimal": {
+          "latitude": "37° 42' 00\"",
+          "longitude": "141° 36' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-02-19T01:45:30.752Z",
+      "url": "https://www.jma.go.jp/en/quake/20210219010440393-19100151.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-18T20:11:00.000Z",
