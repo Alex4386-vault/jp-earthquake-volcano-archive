@@ -1,6 +1,40 @@
 {
-  "lastUpdate": "2021-02-19T01:46:16.593Z",
+  "lastUpdate": "2021-02-19T09:25:49.944Z",
   "data": [
+    {
+      "maxIntensity": "4",
+      "issuedAt": "2021-02-19T09:14:00.000Z",
+      "uuid": "20210219091451393-19181113",
+      "regionName": "Iwate-ken Nairiku-hokubu",
+      "magnitude": 3.9,
+      "occurredAt": "2021-02-19T09:11:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 40.2,
+          "longitude": 141.2
+        },
+        "sexagesimal": {
+          "latitude": "40° 12' 00\"",
+          "longitude": "141° 12' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-19T09:25:15.440Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Iwate",
+          "intensity": "4",
+          "city": "Ninohe-shi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "4",
+          "regionName": "Iwate-ken Nairiku-hokubu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210219091451393-19181113.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-19T01:27:00.000Z",
