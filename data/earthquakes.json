@@ -1,6 +1,111 @@
 {
-  "lastUpdate": "2021-02-19T10:23:00.965Z",
+  "lastUpdate": "2021-02-20T02:06:18.281Z",
   "data": [
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-20T01:21:00.000Z",
+      "uuid": "20210220012142393-20101717",
+      "regionName": "Miyagi-ken Oki",
+      "magnitude": 4.1,
+      "occurredAt": "2021-02-20T01:17:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 38.3,
+          "longitude": 141.6
+        },
+        "sexagesimal": {
+          "latitude": "38° 18' 00\"",
+          "longitude": "141° 36' 00\""
+        },
+        "depth": 60
+      },
+      "lastUpdate": "2021-02-20T02:05:38.877Z",
+      "url": "https://www.jma.go.jp/en/quake/20210220012142393-20101717.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-19T23:57:00.000Z",
+      "uuid": "20210219235716393-20085357",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4.5,
+      "occurredAt": "2021-02-19T23:53:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.3,
+          "longitude": 141.6
+        },
+        "sexagesimal": {
+          "latitude": "37° 18' 00\"",
+          "longitude": "141° 36' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-20T02:05:39.708Z",
+      "url": "https://www.jma.go.jp/en/quake/20210219235716393-20085357.html"
+    },
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-19T21:06:00.000Z",
+      "uuid": "20210219210611493-20060309",
+      "regionName": "Amami-oshima Kinkai",
+      "magnitude": 3.3,
+      "occurredAt": "2021-02-19T21:03:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 28.3,
+          "longitude": 129.6
+        },
+        "sexagesimal": {
+          "latitude": "28° 18' 00\"",
+          "longitude": "129° 36' 00\""
+        },
+        "depth": 30
+      },
+      "lastUpdate": "2021-02-20T02:05:40.289Z",
+      "url": "https://www.jma.go.jp/en/quake/20210219210611493-20060309.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-19T19:04:00.000Z",
+      "uuid": "20210219190413393-20040115",
+      "regionName": "Fukushima-ken Oki",
+      "magnitude": 4.3,
+      "occurredAt": "2021-02-19T19:01:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 37.6,
+          "longitude": 141.7
+        },
+        "sexagesimal": {
+          "latitude": "37° 36' 00\"",
+          "longitude": "141° 42' 00\""
+        },
+        "depth": 60
+      },
+      "lastUpdate": "2021-02-20T02:05:41.050Z",
+      "url": "https://www.jma.go.jp/en/quake/20210219190413393-20040115.html"
+    },
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-19T16:20:00.000Z",
+      "uuid": "20210219162017393-20011634",
+      "regionName": "Aomori-ken Toho-oki",
+      "magnitude": 4.9,
+      "occurredAt": "2021-02-19T16:16:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 40.7,
+          "longitude": 142.8
+        },
+        "sexagesimal": {
+          "latitude": "40° 42' 00\"",
+          "longitude": "142° 48' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-20T02:05:41.814Z",
+      "url": "https://www.jma.go.jp/en/quake/20210219162017393-20011634.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-19T10:16:00.000Z",
