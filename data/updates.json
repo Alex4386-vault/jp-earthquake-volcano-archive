@@ -1,28 +1,41 @@
 {
-  "lastUpdate": "2021-02-20T21:27:15.419Z",
+  "lastUpdate": "2021-02-20T22:31:43.775Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-02-20T12:00:00.000Z",
-      "uuid": "20210220120037393-20205756",
-      "regionName": "Ibaraki-ken Hokubu",
-      "magnitude": 2.7,
-      "occurredAt": "2021-02-20T11:57:00.000Z",
+      "maxIntensity": "3",
+      "issuedAt": "2021-02-20T13:27:00.000Z",
+      "uuid": "20210220132753393-20222343",
+      "regionName": "Hokkaido Toho-oki",
+      "magnitude": 5,
+      "occurredAt": "2021-02-20T13:23:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 36.8,
-          "longitude": 140.6
+          "latitude": 43.3,
+          "longitude": 146.9
         },
         "sexagesimal": {
-          "latitude": "36° 48' 00\"",
-          "longitude": "140° 36' 00\""
+          "latitude": "43° 18' 00\"",
+          "longitude": "146° 54' 00\""
         },
-        "depth": 10
+        "depth": 50
       },
-      "lastUpdate": "2021-02-20T12:26:42.710Z",
-      "url": "https://www.jma.go.jp/en/quake/20210220120037393-20205756.html"
+      "lastUpdate": "2021-02-20T13:31:18.296Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Nemuro-shi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Nemuro-chiho Nambu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210220132753393-20222343.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102202127.md"
+  "reportFile": "202102202231.md"
 }

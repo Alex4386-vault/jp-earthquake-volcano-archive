@@ -1,6 +1,40 @@
 {
-  "lastUpdate": "2021-02-20T12:27:15.411Z",
+  "lastUpdate": "2021-02-20T13:31:43.766Z",
   "data": [
+    {
+      "maxIntensity": "3",
+      "issuedAt": "2021-02-20T13:27:00.000Z",
+      "uuid": "20210220132753393-20222343",
+      "regionName": "Hokkaido Toho-oki",
+      "magnitude": 5,
+      "occurredAt": "2021-02-20T13:23:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 43.3,
+          "longitude": 146.9
+        },
+        "sexagesimal": {
+          "latitude": "43° 18' 00\"",
+          "longitude": "146° 54' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-02-20T13:31:18.296Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Hokkaido",
+          "intensity": "3",
+          "city": "Nemuro-shi"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Nemuro-chiho Nambu"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210220132753393-20222343.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-20T12:00:00.000Z",
