@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2021-02-20T12:44:51.369Z",
+  "lastUpdate": "2021-02-20T21:27:15.419Z",
   "earthquakes": [
     {
       "maxIntensity": "1",
-      "issuedAt": "2021-02-20T03:29:00.000Z",
-      "uuid": "20210220032912493-20122627",
-      "regionName": "Kumamoto-ken Kumamoto-chiho",
-      "magnitude": 2.5,
-      "occurredAt": "2021-02-20T03:26:00.000Z",
+      "issuedAt": "2021-02-20T12:00:00.000Z",
+      "uuid": "20210220120037393-20205756",
+      "regionName": "Ibaraki-ken Hokubu",
+      "magnitude": 2.7,
+      "occurredAt": "2021-02-20T11:57:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 32.7,
-          "longitude": 130.7
+          "latitude": 36.8,
+          "longitude": 140.6
         },
         "sexagesimal": {
-          "latitude": "32° 42' 00\"",
-          "longitude": "130° 42' 00\""
+          "latitude": "36° 48' 00\"",
+          "longitude": "140° 36' 00\""
         },
         "depth": 10
       },
-      "lastUpdate": "2021-02-20T03:44:21.525Z",
-      "url": "https://www.jma.go.jp/en/quake/20210220032912493-20122627.html"
+      "lastUpdate": "2021-02-20T12:26:42.710Z",
+      "url": "https://www.jma.go.jp/en/quake/20210220120037393-20205756.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102201244.md"
+  "reportFile": "202102202127.md"
 }
