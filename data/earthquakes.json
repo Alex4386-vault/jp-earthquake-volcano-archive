@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-20T14:47:03.530Z",
+  "lastUpdate": "2021-02-20T15:20:24.488Z",
   "data": [
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-20T15:09:00.000Z",
+      "uuid": "20210220150950493-21000655",
+      "regionName": "Hiroshima-ken Hokubu",
+      "magnitude": 3.4,
+      "occurredAt": "2021-02-20T15:06:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 34.9,
+          "longitude": 132.8
+        },
+        "sexagesimal": {
+          "latitude": "34° 54' 00\"",
+          "longitude": "132° 48' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-20T15:19:51.967Z",
+      "url": "https://www.jma.go.jp/en/quake/20210220150950493-21000655.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-20T14:43:00.000Z",
