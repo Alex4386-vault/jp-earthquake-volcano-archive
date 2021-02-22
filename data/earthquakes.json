@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-22T21:49:27.375Z",
+  "lastUpdate": "2021-02-22T22:25:57.813Z",
   "data": [
+    {
+      "maxIntensity": "2",
+      "issuedAt": "2021-02-22T22:08:00.000Z",
+      "uuid": "20210222220819393-23070550",
+      "regionName": "Nagano-ken Hokubu",
+      "magnitude": 2.8,
+      "occurredAt": "2021-02-22T22:05:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 36.5,
+          "longitude": 138
+        },
+        "sexagesimal": {
+          "latitude": "36° 30' 00\"",
+          "longitude": "138° 00' 00\""
+        },
+        "depth": 10
+      },
+      "lastUpdate": "2021-02-22T22:25:40.261Z",
+      "url": "https://www.jma.go.jp/en/quake/20210222220819393-23070550.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-22T21:43:00.000Z",
