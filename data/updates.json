@@ -1,49 +1,46 @@
 {
-  "lastUpdate": "2021-02-23T10:02:16.935Z",
+  "lastUpdate": "2021-02-23T16:24:23.816Z",
   "earthquakes": [
     {
-      "maxIntensity": "1",
-      "issuedAt": "2021-02-23T00:55:00.000Z",
-      "uuid": "20210223005522393-23095217",
-      "regionName": "Fukushima-ken Oki",
-      "magnitude": 4,
-      "occurredAt": "2021-02-23T00:52:00.000Z",
+      "maxIntensity": "3",
+      "issuedAt": "2021-02-23T07:12:00.000Z",
+      "uuid": "20210223071234493-23160907",
+      "regionName": "Iyo-nada",
+      "magnitude": 4.1,
+      "occurredAt": "2021-02-23T07:09:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 37.6,
-          "longitude": 141.6
+          "latitude": 33.6,
+          "longitude": 132.2
         },
         "sexagesimal": {
-          "latitude": "37° 36' 00\"",
-          "longitude": "141° 36' 00\""
+          "latitude": "33° 36' 00\"",
+          "longitude": "132° 12' 00\""
         },
         "depth": 50
       },
-      "lastUpdate": "2021-02-23T01:01:57.618Z",
-      "url": "https://www.jma.go.jp/en/quake/20210223005522393-23095217.html"
-    },
-    {
-      "maxIntensity": "1",
-      "issuedAt": "2021-02-23T00:38:00.000Z",
-      "uuid": "20210223003845493-23093601",
-      "regionName": "Kii-suido",
-      "magnitude": 3.4,
-      "occurredAt": "2021-02-23T00:36:00.000Z",
-      "location": {
-        "decimal": {
-          "latitude": 33.8,
-          "longitude": 135
+      "lastUpdate": "2021-02-23T07:24:05.083Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Ehime",
+          "intensity": "3",
+          "city": "Seiyo-shi"
         },
-        "sexagesimal": {
-          "latitude": "33° 48' 00\"",
-          "longitude": "135° 00' 00\""
-        },
-        "depth": 50
-      },
-      "lastUpdate": "2021-02-23T01:01:58.196Z",
-      "url": "https://www.jma.go.jp/en/quake/20210223003845493-23093601.html"
+        {
+          "prefecture": "Ehime",
+          "intensity": "3",
+          "city": "Ikata-cho"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Ehime-ken Nan-yo"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210223071234493-23160907.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102231002.md"
+  "reportFile": "202102231624.md"
 }

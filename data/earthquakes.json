@@ -1,6 +1,45 @@
 {
-  "lastUpdate": "2021-02-23T01:02:16.927Z",
+  "lastUpdate": "2021-02-23T07:24:23.807Z",
   "data": [
+    {
+      "maxIntensity": "3",
+      "issuedAt": "2021-02-23T07:12:00.000Z",
+      "uuid": "20210223071234493-23160907",
+      "regionName": "Iyo-nada",
+      "magnitude": 4.1,
+      "occurredAt": "2021-02-23T07:09:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 33.6,
+          "longitude": 132.2
+        },
+        "sexagesimal": {
+          "latitude": "33° 36' 00\"",
+          "longitude": "132° 12' 00\""
+        },
+        "depth": 50
+      },
+      "lastUpdate": "2021-02-23T07:24:05.083Z",
+      "intensityByCity": [
+        {
+          "prefecture": "Ehime",
+          "intensity": "3",
+          "city": "Seiyo-shi"
+        },
+        {
+          "prefecture": "Ehime",
+          "intensity": "3",
+          "city": "Ikata-cho"
+        }
+      ],
+      "intensityByRegion": [
+        {
+          "intensity": "3",
+          "regionName": "Ehime-ken Nan-yo"
+        }
+      ],
+      "url": "https://www.jma.go.jp/en/quake/20210223071234493-23160907.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-23T00:55:00.000Z",
