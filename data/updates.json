@@ -1,46 +1,28 @@
 {
-  "lastUpdate": "2021-02-23T16:24:23.816Z",
+  "lastUpdate": "2021-02-24T01:33:57.746Z",
   "earthquakes": [
     {
-      "maxIntensity": "3",
-      "issuedAt": "2021-02-23T07:12:00.000Z",
-      "uuid": "20210223071234493-23160907",
-      "regionName": "Iyo-nada",
-      "magnitude": 4.1,
-      "occurredAt": "2021-02-23T07:09:00.000Z",
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-23T15:59:00.000Z",
+      "uuid": "20210223155907393-24005613",
+      "regionName": "Ibaraki-ken Nambu",
+      "magnitude": 3.4,
+      "occurredAt": "2021-02-23T15:56:00.000Z",
       "location": {
         "decimal": {
-          "latitude": 33.6,
-          "longitude": 132.2
+          "latitude": 36.1,
+          "longitude": 139.8
         },
         "sexagesimal": {
-          "latitude": "33° 36' 00\"",
-          "longitude": "132° 12' 00\""
+          "latitude": "36° 06' 00\"",
+          "longitude": "139° 48' 00\""
         },
         "depth": 50
       },
-      "lastUpdate": "2021-02-23T07:24:05.083Z",
-      "intensityByCity": [
-        {
-          "prefecture": "Ehime",
-          "intensity": "3",
-          "city": "Seiyo-shi"
-        },
-        {
-          "prefecture": "Ehime",
-          "intensity": "3",
-          "city": "Ikata-cho"
-        }
-      ],
-      "intensityByRegion": [
-        {
-          "intensity": "3",
-          "regionName": "Ehime-ken Nan-yo"
-        }
-      ],
-      "url": "https://www.jma.go.jp/en/quake/20210223071234493-23160907.html"
+      "lastUpdate": "2021-02-23T16:33:39.782Z",
+      "url": "https://www.jma.go.jp/en/quake/20210223155907393-24005613.html"
     }
   ],
   "volcanoes": [],
-  "reportFile": "202102231624.md"
+  "reportFile": "202102240133.md"
 }
