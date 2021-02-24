@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "2021-02-23T23:45:04.424Z",
+  "lastUpdate": "2021-02-24T01:03:02.788Z",
   "data": [
+    {
+      "maxIntensity": "1",
+      "issuedAt": "2021-02-24T00:57:00.000Z",
+      "uuid": "20210224005703393-24095431",
+      "regionName": "Chiba-ken Nambu",
+      "magnitude": 3.3,
+      "occurredAt": "2021-02-24T00:54:00.000Z",
+      "location": {
+        "decimal": {
+          "latitude": 35.1,
+          "longitude": 139.9
+        },
+        "sexagesimal": {
+          "latitude": "35° 06' 00\"",
+          "longitude": "139° 54' 00\""
+        },
+        "depth": 70
+      },
+      "lastUpdate": "2021-02-24T01:02:43.466Z",
+      "url": "https://www.jma.go.jp/en/quake/20210224005703393-24095431.html"
+    },
     {
       "maxIntensity": "1",
       "issuedAt": "2021-02-23T23:39:00.000Z",
