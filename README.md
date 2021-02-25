@@ -3,7 +3,7 @@ This repository will automatically parse the volcano and earthquake data into ma
 
 ## UPDATE REQUIRED
 Since English page of JMA has been updated, This requires me to manually update the logic.  
-Since [Stella IT](https://stella-it.com) connection from japan has been mitigated to South Korea due to recent M7.3 earthquake on Fukushima (due to consistency concerns), This software will be fixed in low priority.
+Since [Stella IT](https://stella-it.com) connection from japan has been mitigated to South Korea due to recent M7.3 earthquake on Fukushima (due to consistency concerns / can not check it by person **due to a VIRUS**), This software will be fixed in low priority.
   
 But It **seems to be a easy-task** since finally Japanese Government created the **web-application in MACHINE READABLE WAY**.  
 (Providing information separately via XHR Calls.)  
