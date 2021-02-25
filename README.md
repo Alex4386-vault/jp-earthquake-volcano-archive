@@ -2,7 +2,8 @@
 This repository will automatically parse the volcano and earthquake data into machine readable JSON format and archive it from [Japan Meteorological Agency's webpage](https://www.jma.go.jp/jma/indexe.html).  
 
 ## UPDATE REQUIRED
-Since English page of JMA has been updated, This requires me to manually update the logic
+Since English page of JMA has been updated, This requires me to manually update the logic.  
+Since [Stella IT](https://stella-it.com) connection from japan has been mitigated to South Korea due to recent M7.3 earthquake on Fukushima (due to consistency concerns), This software will be fixed in low priority
 
 ## Reason why this was created
 Since [Stella IT Inc.](https://stella-it.com) has abroad network POPs, It needs to monitor data centers on japan.  
