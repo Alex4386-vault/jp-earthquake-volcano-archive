@@ -3,12 +3,15 @@ This repository will automatically parse the volcano and earthquake data into ma
 
 ## UPDATE REQUIRED
 Since English page of JMA has been updated, This requires me to manually update the logic.  
-Since [Stella IT](https://stella-it.com) connection from japan has been mitigated to South Korea due to recent M7.3 earthquake on Fukushima (due to consistency concerns), This software will be fixed in low priority
+Since [Stella IT](https://stella-it.com) connection from japan has been mitigated to South Korea due to recent M7.3 earthquake on Fukushima (due to consistency concerns), This software will be fixed in low priority.
+  
+But It **seems to be a easy-task** since finally Japanese Government created the **web-application in MACHINE READABLE WAY**.  
+(Providing information separately via XHR Calls.)  
 
 ## Reason why this was created
 Since [Stella IT Inc.](https://stella-it.com) has abroad network POPs, It needs to monitor data centers on japan.  
 Since Japanese Government does NOT provide openAPIs for these, I created pseudo-api and archiving tool for machines on GitHub.  
-
+robvi
 Therefore, data on [data/](data/) and [reports](reports/) is copyrighted by [Japanese Meteorlogical Agency](https://www.jma.go.jp/jma/indexe.html). Not by me and not covered by this software's license (WTFPL).  
 
 ## Update Intervals
@@ -37,6 +40,7 @@ You can check `updates.json` to check when it was last synchornized.
 * [Earthquakes](data/earthquakes.json) - [Raw](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/earthquakes.json) ([minified](https://raw.githubusercontent.com/Alex4386/jp-earthquake-volcano-archive/main/data/earthquakes.min.json))- [Source](https://www.jma.go.jp/en/quake/quake_singendo_index.html)  - [Example](DATA_FORMAT.md#Earthquakes)
 
 ## Human Readable Data
+**Warning. Those reports are buggy on nengo handling.**  
 Human readable reports (in English) is available at: [reports/](reports/).  
 Most Latest Report is available at: [reports/latest.md](reports/latest.md).
 
