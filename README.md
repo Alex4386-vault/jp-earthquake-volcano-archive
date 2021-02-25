@@ -1,6 +1,9 @@
 # Japan Earthquake & Volcano Database Archive
 This repository will automatically parse the volcano and earthquake data into machine readable JSON format and archive it from [Japan Meteorological Agency's webpage](https://www.jma.go.jp/jma/indexe.html).  
 
+## UPDATE REQUIRED
+Since English page of JMA has been updated, This requires me to manually update the logic
+
 ## Reason why this was created
 Since [Stella IT Inc.](https://stella-it.com) has abroad network POPs, It needs to monitor data centers on japan.  
 Since Japanese Government does NOT provide openAPIs for these, I created pseudo-api and archiving tool for machines on GitHub.  
