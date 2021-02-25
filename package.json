@@ -30,8 +30,8 @@
   "scripts": {
     "debug": "ts-node ./src/",
     "build": "tsc",
-    "start": "tsc && node ./dist/",
-    "start:alerts": "tsc && node ./dist/alerts.js",  
+    "start": "echo Run Disabled.",
+    "start:alerts": "echo Run Disabled.,  
     "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix"
   },
   "husky": {
