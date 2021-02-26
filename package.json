@@ -31,7 +31,7 @@
     "debug": "ts-node ./src/",
     "build": "tsc",
     "start": "echo Run Disabled.",
-    "start:alerts": "echo Run Disabled.,  
+    "start:alerts": "echo Run Disabled.",  
     "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix"
   },
   "husky": {
